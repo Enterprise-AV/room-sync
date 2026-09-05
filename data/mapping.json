@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T06:00:48+00:00",
+  "last_sync": "2026-09-05T06:00:59+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -211,6 +211,16 @@
       "location": "",
       "created": "2026-09-05T06:00:48+00:00",
       "last_verified": "2026-09-05T06:00:48+00:00"
+    },
+    "89fa91e4-227a-45d7-bc2c-41fa0db2959f": {
+      "canonical_name": "EQ-SV-B105.3 PDE Systems Analy 7",
+      "zoom_room_id": "lc7lIJbqSBerB96324OXkQ",
+      "neat_room_id": "472",
+      "xyte_space_id": null,
+      "xyte_device_ids": [],
+      "location": "",
+      "created": "2026-09-05T06:00:59+00:00",
+      "last_verified": "2026-09-05T06:00:59+00:00"
     }
   },
   "unmapped_zoom": [
