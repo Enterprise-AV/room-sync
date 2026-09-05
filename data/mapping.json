@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T16:09:44+00:00",
+  "last_sync": "2026-09-05T16:16:17+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -10,7 +10,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:46:32+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "d89c5112-9c4b-435d-8378-b09d2a4ece59": {
       "canonical_name": "VC-SV-B105.1 Al Qassimi",
@@ -20,7 +20,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:47:00+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "f8275b30-2335-4798-8c56-b47ea5b4c4e0": {
       "canonical_name": "Lab-SV-B105.2 Global Labeling Lab",
@@ -30,7 +30,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:53:03+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "3c5d5dd3-7c95-474c-a374-888d7834cc51": {
       "canonical_name": "VC-SV-B105.2 Whipple",
@@ -40,7 +40,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:53:32+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "2570553a-c9bc-480b-9b52-ef93348b10fc": {
       "canonical_name": "VC-SV-B105.4 Stapling",
@@ -50,7 +50,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:54:40+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "94431f3c-e666-4cff-a28a-352f7a39ace1": {
       "canonical_name": "VC-SV-B105.1 Bath",
@@ -60,7 +60,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:56:35+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "3ebfa544-e8f6-49f2-879b-b70ff7e415f2": {
       "canonical_name": "VC-SV-B105.1 Sagan",
@@ -70,7 +70,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:57:13+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "7cecc12c-7689-483a-9cc7-37c298b59f4d": {
       "canonical_name": "VC-SV-B105.2 Mohs",
@@ -80,7 +80,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:57:25+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "f8dc67b0-cf1d-438f-bef7-2d46de23cb1d": {
       "canonical_name": "VC-SV-B105.2 Shurer",
@@ -90,7 +90,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:57:35+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "ca42d4a7-cf62-45f6-b359-ee9d7a5d0978": {
       "canonical_name": "VC-SV-B105.3 Byers",
@@ -100,7 +100,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:58:24+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "4632dd5f-9a01-4425-9d0a-f38479c8e628": {
       "canonical_name": "VC-SV-B105.3 Elders",
@@ -110,7 +110,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:58:38+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "8dc155f8-ab69-4954-99a6-6e01df657a33": {
       "canonical_name": "VC-SV-B105.3 Hawking",
@@ -120,7 +120,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:59:01+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "748d473a-cb89-4213-a2d3-2c0c597165bd": {
       "canonical_name": "VC-SV-B105.3 Pitter",
@@ -130,7 +130,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:59:13+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "77763570-cea6-44e9-a2d7-50fb81b84a30": {
       "canonical_name": "VC-SV-B105.3 Thomas",
@@ -140,7 +140,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:59:28+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "1376d0d0-e652-42d5-a123-bffcb2533e40": {
       "canonical_name": "VC-SV-B105.4 Elion",
@@ -150,7 +150,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:59:44+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "0e5aba82-536b-4609-8e53-baf5e74776ab": {
       "canonical_name": "VC-SV-B105.4 Gray",
@@ -160,7 +160,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:00:34+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "0bfe7e83-d2ca-42e1-8e52-1ca93ea69a8a": {
       "canonical_name": "VC-SV-B105.4 Project Room 4061",
@@ -170,7 +170,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:00:48+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "89fa91e4-227a-45d7-bc2c-41fa0db2959f": {
       "canonical_name": "EQ-SV-B105.3 PDE Systems Analy 7",
@@ -180,7 +180,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:00:59+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "582712d6-d454-4cbd-a728-d010b24f8d03": {
       "canonical_name": "VC-SV-B105.4 Scheinman",
@@ -190,7 +190,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:01:11+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "4a8e8e46-97a8-4ec7-ada4-d4c5133b84cb": {
       "canonical_name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
@@ -200,7 +200,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:01:23+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "72fc597b-0fa2-41be-a96a-57c500cec29e": {
       "canonical_name": "EQ-SV-B105.4 Stapler 4 Chatillon",
@@ -210,7 +210,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:01:42+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "12c13611-2b25-43b9-bf06-dd02b18f5108": {
       "canonical_name": "EQ-SV-B105.4 Stapler 5 3D Printer",
@@ -220,7 +220,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:01:54+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "60c8a246-ec7b-4b71-96b0-050da592bd63": {
       "canonical_name": "VC-SV-B105.3 Chris Cappello",
@@ -230,7 +230,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:07+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "f46e5778-0b00-40ab-a79d-ad54dacd118a": {
       "canonical_name": "VC-SV-B105.3 Joshua Chaidez",
@@ -240,7 +240,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:20+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "91c71990-50d2-4c16-9a54-a945cafe366d": {
       "canonical_name": "VC-SV-B105.3 Shark Somayaji",
@@ -250,7 +250,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:45+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "f743e8e2-8f97-46f1-8a71-1dd7215fcdbf": {
       "canonical_name": "VC-SV-B105.3 Veronica Thralls",
@@ -260,7 +260,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:58+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "b72bc61d-2010-4cef-b860-89226dcc8e24": {
       "canonical_name": "VC-SV-B105.1 Alcorn",
@@ -270,7 +270,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T14:35:59+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "2e7b71c5-c17b-46fa-90d2-8fd85fb571f6": {
       "canonical_name": "VC-SV-B105.4 Woodson",
@@ -280,7 +280,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T14:36:14+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "57419b05-50aa-4d5e-802b-3ef3d5d85411": {
       "canonical_name": "VC-SV-B105.1 Apgar",
@@ -290,7 +290,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T14:45:50+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "e5376576-f0fb-460c-b76f-0724f0a71854": {
       "canonical_name": "VC-SV-B105.3 Marescaux",
@@ -300,7 +300,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T14:46:01+00:00",
-      "last_verified": "2026-09-05T15:01:11+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "9d80d8b0-89f9-49d7-9a20-f9688a795a4b": {
       "canonical_name": "VC-SV-B105.2 DB Hallway",
@@ -310,7 +310,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:01:59+00:00",
-      "last_verified": "2026-09-05T16:01:59+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "6a816446-056a-4479-af74-3082e5b17234": {
       "canonical_name": "VC-SV-B105.3 Advanced Energy Lab",
@@ -320,7 +320,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:02:12+00:00",
-      "last_verified": "2026-09-05T16:02:12+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "f9e4c61b-c770-4a09-bf2e-1a987b5792d7": {
       "canonical_name": "VC-SV-B105.3 Chandrasekhar",
@@ -330,7 +330,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:02:22+00:00",
-      "last_verified": "2026-09-05T16:02:22+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "ccddf026-9913-4284-ad3f-5d569374af59": {
       "canonical_name": "VC-SV-B105.3 Energy",
@@ -340,7 +340,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:02:36+00:00",
-      "last_verified": "2026-09-05T16:02:36+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "9a97b5e7-160a-4c86-ba21-417c3b0e46f3": {
       "canonical_name": "VC-SV-B105.3 SA",
@@ -350,7 +350,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:02:48+00:00",
-      "last_verified": "2026-09-05T16:02:48+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "001d0286-ffe7-42e1-af22-268b1e0b8890": {
       "canonical_name": "VC-SV-B105.4 Euclid",
@@ -360,7 +360,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:02:57+00:00",
-      "last_verified": "2026-09-05T16:02:57+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "9ca4bbfa-e221-4e93-b9b9-be6cb3e74cf4": {
       "canonical_name": "VC-SV-B105.4 Satava",
@@ -370,7 +370,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:03:06+00:00",
-      "last_verified": "2026-09-05T16:03:06+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "c06156be-a456-42b6-bed6-c5c41f13311e": {
       "canonical_name": "EQ-SV-B105.2 LPX-Instron",
@@ -380,7 +380,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:03:17+00:00",
-      "last_verified": "2026-09-05T16:03:17+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "4ec5be5a-0d07-4fd4-9484-175b78221d77": {
       "canonical_name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
@@ -390,7 +390,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:03:26+00:00",
-      "last_verified": "2026-09-05T16:03:26+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "814ea5d6-6b34-4847-9d97-732f70b6d70a": {
       "canonical_name": "EQ-SV-B105.4 Stapler 7 Iron Horse",
@@ -400,7 +400,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:03:40+00:00",
-      "last_verified": "2026-09-05T16:03:40+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "e4ce3066-6ea1-4d36-bb6b-bc719c55ff99": {
       "canonical_name": "VC-SV-B105.3 Jeff Tessier",
@@ -410,7 +410,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:03:53+00:00",
-      "last_verified": "2026-09-05T16:03:53+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "c66dbe3c-2ef8-4d7c-83e4-374436632731": {
       "canonical_name": "EQ-SV-B105.4 Stapler 8 Xi System",
@@ -420,7 +420,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:05:09+00:00",
-      "last_verified": "2026-09-05T16:05:09+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     },
     "92a8ccc4-eb3b-43e6-aece-beb85e90e478": {
       "canonical_name": "VC-SV-B105.3 Taussig",
@@ -430,7 +430,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T16:09:44+00:00",
-      "last_verified": "2026-09-05T16:09:44+00:00"
+      "last_verified": "2026-09-05T16:16:17+00:00"
     }
   },
   "unmapped_zoom": [
@@ -467,10 +467,6 @@
       "name": "VC-SV-B105.1 Reliability Thermal Chamber"
     },
     {
-      "id": "ApMVJvdYRieK3jfHv9oRlw",
-      "name": "VC-SV-B105.2 DB Hallway"
-    },
-    {
       "id": "uckER80hQF2zGAfu9Vj-zA",
       "name": "VC-SV-B105.2 Favaloro"
     },
@@ -503,20 +499,12 @@
       "name": "VC-SV-B105.2 Scott"
     },
     {
-      "id": "MELzEXeQSbqcqB1bGr4YCQ",
-      "name": "VC-SV-B105.3 Advanced Energy Lab"
-    },
-    {
       "id": "aFfDrcgiTjC2pdu4Ab7N_Q",
       "name": "VC-SV-B105.3 Allen"
     },
     {
       "id": "AMbKNX4EQaqBKOOBn0hnaw",
       "name": "VC-SV-B105.3 Barton"
-    },
-    {
-      "id": "uzrQs0aMTHi7pp0_-J6MVg",
-      "name": "VC-SV-B105.3 Chandrasekhar"
     },
     {
       "id": "txMpfJLwSN-rrojJVSgeMg",
@@ -533,10 +521,6 @@
     {
       "id": "l47A9yqSRkC_x7Q0ziIVZg",
       "name": "VC-SV-B105.3 Doudna"
-    },
-    {
-      "id": "BtQjG7fbSyeOUCYPMgADyQ",
-      "name": "VC-SV-B105.3 Energy"
     },
     {
       "id": "8IZmRbfdT1SiOxcBp8HSYw",
@@ -563,14 +547,6 @@
       "name": "VC-SV-B105.3 Phone Room 3067"
     },
     {
-      "id": "MsfqCfC2TUWk-oVIu9bO3g",
-      "name": "VC-SV-B105.3 SA"
-    },
-    {
-      "id": "ovkJcw_VRsyh3blcDROSeQ",
-      "name": "VC-SV-B105.3 Taussig"
-    },
-    {
       "id": "QuQqnYgsTci-NjqgcDFybw",
       "name": "VC-SV-B105.3 Weibull"
     },
@@ -585,10 +561,6 @@
     {
       "id": "TWMAvd-kTP-XjfXraaeswQ",
       "name": "VC-SV-B105.4 Curie"
-    },
-    {
-      "id": "magKuKnmRS2G86AVphVBWQ",
-      "name": "VC-SV-B105.4 Euclid"
     },
     {
       "id": "qlSZ_FcGTreXWrhxmyiYRw",
@@ -639,16 +611,8 @@
       "name": "VC-SV-B105.4 Phone Room 4053"
     },
     {
-      "id": "OrpNDT-SQZe7fzGzPRT-xQ",
-      "name": "VC-SV-B105.4 Satava"
-    },
-    {
       "id": "7rC_JUZCRZKA6py6SVNjHQ",
       "name": "VC-SV-B105.4 Semmelweis"
-    },
-    {
-      "id": "iluFljtbRqSwOy8CrHoPWA",
-      "name": "EQ-SV-B105.2 LPX-Instron"
     },
     {
       "id": "PU5953jsTvmASqTulQYSKw",
@@ -667,10 +631,6 @@
       "name": "EQ-SV-B105.3 PDE Systems Analy 6"
     },
     {
-      "id": "bgZQILIuSBKtoQt0o_E37A",
-      "name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer"
-    },
-    {
       "id": "RYFF-HY3QDSlvdxvDwL9Zw",
       "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer"
     },
@@ -681,14 +641,6 @@
     {
       "id": "as6_be7nR3Cioo0RQOUeDw",
       "name": "EQ-SV-B105.4 Stapler 12 Instron"
-    },
-    {
-      "id": "DCmSEttiR62VegZmcluW4A",
-      "name": "EQ-SV-B105.4 Stapler 7 Iron Horse"
-    },
-    {
-      "id": "bANjl3HNTNGAf1JSCUX2mA",
-      "name": "EQ-SV-B105.4 Stapler 8 Xi System"
     },
     {
       "id": "JbkzNkr2QrmiVbfT2pAr6Q",
@@ -705,10 +657,6 @@
     {
       "id": "dAAoZK3vQny6JmPNUeryYA",
       "name": "VC-SV-B105.3 James Wall"
-    },
-    {
-      "id": "mHmLU1GdQEaWJCwj0mjRFg",
-      "name": "VC-SV-B105.3 Jeff Tessier"
     },
     {
       "id": "jJ9kwZlHRrGZUQPdk_VUeg",
@@ -825,20 +773,12 @@
   ],
   "unmapped_neat": [
     {
-      "id": 1558,
-      "name": "EQ-SV-B105.2 LPX-Instron"
-    },
-    {
       "id": 1557,
       "name": "EQ-SV-B105.2 LPX-LPD1"
     },
     {
       "id": 469,
       "name": "EQ-SV-B105.3 PDE Systems Analy 1"
-    },
-    {
-      "id": 471,
-      "name": "EQ-SV-B105.3 PDE Systems Analy 4"
     },
     {
       "id": 470,
@@ -853,18 +793,6 @@
       "name": "EQ-SV-B105.3 Stapler 5 3D Printer"
     },
     {
-      "id": 245,
-      "name": "EQ-SV-B105.3 Stapler 7 Iron Horse"
-    },
-    {
-      "id": 246,
-      "name": "EQ-SV-B105.3 Stapler 8 Xi System"
-    },
-    {
-      "id": 769,
-      "name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer"
-    },
-    {
       "id": 770,
       "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer"
     },
@@ -873,20 +801,12 @@
       "name": "EQ-SV-B105.4 Instron 1kN"
     },
     {
-      "id": 511,
-      "name": "EQ-SV-B105.4 Reliability Lab Neat Board Neatframe NF20C1"
-    },
-    {
       "id": 247,
       "name": "EQ-SV-B105.4 Stapler 10 CT Scanner"
     },
     {
       "id": 586,
       "name": "VC-SV-B105.1 Reliability Thermal Chamber"
-    },
-    {
-      "id": 545,
-      "name": "VC-SV-B105.2 DB Hallway"
     },
     {
       "id": 1830,
@@ -905,20 +825,12 @@
       "name": "VC-SV-B105.2 Scott"
     },
     {
-      "id": 1840,
-      "name": "VC-SV-B105.3 Advanced Energy Lab"
-    },
-    {
       "id": 1841,
       "name": "VC-SV-B105.3 Allen"
     },
     {
       "id": 1842,
       "name": "VC-SV-B105.3 Barton"
-    },
-    {
-      "id": 1844,
-      "name": "VC-SV-B105.3 Chandrasekhar"
     },
     {
       "id": 546,
@@ -941,10 +853,6 @@
       "name": "VC-SV-B105.3 Doudna"
     },
     {
-      "id": 475,
-      "name": "VC-SV-B105.3 Energy"
-    },
-    {
       "id": 1848,
       "name": "VC-SV-B105.3 Franklin-R"
     },
@@ -955,10 +863,6 @@
     {
       "id": 1081,
       "name": "VC-SV-B105.3 James Wall"
-    },
-    {
-      "id": 1851,
-      "name": "VC-SV-B105.3 Jeff Tessier"
     },
     {
       "id": 1852,
@@ -993,8 +897,8 @@
       "name": "VC-SV-B105.3 Mike Prindiville"
     },
     {
-      "id": 477,
-      "name": "VC-SV-B105.3 SA"
+      "id": 1864,
+      "name": "VC-SV-B105.3 Taussig"
     },
     {
       "id": 1078,
@@ -1013,10 +917,6 @@
       "name": "VC-SV-B105.4 Accessories"
     },
     {
-      "id": 1870,
-      "name": "VC-SV-B105.4 Euclid"
-    },
-    {
       "id": 1871,
       "name": "VC-SV-B105.4 Fauci"
     },
@@ -1031,10 +931,6 @@
     {
       "id": 1874,
       "name": "VC-SV-B105.4 Kubler-Ross"
-    },
-    {
-      "id": 514,
-      "name": "VC-SV-B105.4 Satava"
     },
     {
       "id": 1882,
@@ -1221,10 +1117,6 @@
     {
       "id": 198131,
       "name": "B105.3 Energy"
-    },
-    {
-      "id": 206139,
-      "name": "B105.3 Taussig"
     },
     {
       "id": 198047,

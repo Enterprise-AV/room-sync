@@ -15,11 +15,6 @@
     "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 1"
   },
   {
-    "id": 471,
-    "name": "EQ-SV-B105.3 PDE Systems Analy 4",
-    "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 4"
-  },
-  {
     "id": 470,
     "name": "EQ-SV-B105.3 PDE Systems Analy 6",
     "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 6"
@@ -63,11 +58,6 @@
     "id": 771,
     "name": "EQ-SV-B105.4 Instron 1kN",
     "_raw_name": "EQ-SV-B105.4 Instron 1kN"
-  },
-  {
-    "id": 511,
-    "name": "EQ-SV-B105.4 Reliability Lab Neat Board Neatframe NF20C1",
-    "_raw_name": "EQ-SV-B105.4 Reliability Lab Neat Board Neatframe NF20C1"
   },
   {
     "id": 247,
@@ -293,6 +283,11 @@
     "id": 1863,
     "name": "VC-SV-B105.3 Systems Analysis Lab",
     "_raw_name": "VC-SV-B105.3 Systems Analysis Lab"
+  },
+  {
+    "id": 1864,
+    "name": "VC-SV-B105.3 Taussig",
+    "_raw_name": "VC-SV-B105.3 Taussig"
   },
   {
     "id": 1865,

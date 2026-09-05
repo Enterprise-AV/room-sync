@@ -24,7 +24,7 @@
           "score": 0.757
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -38,33 +38,7 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "ApMVJvdYRieK3jfHv9oRlw",
-      "source_name": "VC-SV-B105.2 DB Hallway",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 545,
-          "name": "VC-SV-B105.2 DB Hallway",
-          "score": 1.0
-        },
-        {
-          "platform": "neat",
-          "id": 1841,
-          "name": "VC-SV-B105.3 Allen",
-          "score": 0.732
-        },
-        {
-          "platform": "neat",
-          "id": 1832,
-          "name": "VC-SV-B105.2 Mohs",
-          "score": 0.7
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -79,18 +53,18 @@
         },
         {
           "platform": "neat",
-          "id": 514,
-          "name": "VC-SV-B105.4 Satava",
-          "score": 0.75
-        },
-        {
-          "platform": "neat",
           "id": 1832,
           "name": "VC-SV-B105.2 Mohs",
           "score": 0.737
+        },
+        {
+          "platform": "neat",
+          "id": 1460,
+          "name": "VC-SV-B105.3 Core",
+          "score": 0.737
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -116,7 +90,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -142,27 +116,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "MELzEXeQSbqcqB1bGr4YCQ",
-      "source_name": "VC-SV-B105.3 Advanced Energy Lab",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 1840,
-          "name": "VC-SV-B105.3 Advanced Energy Lab",
-          "score": 1.0
-        },
-        {
-          "platform": "neat",
-          "id": 475,
-          "name": "VC-SV-B105.3 Energy",
-          "score": 0.745
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -177,18 +131,18 @@
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.848
-        },
-        {
-          "platform": "neat",
           "id": 1842,
           "name": "VC-SV-B105.3 Barton",
           "score": 0.811
+        },
+        {
+          "platform": "neat",
+          "id": 1460,
+          "name": "VC-SV-B105.3 Core",
+          "score": 0.8
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -203,44 +157,18 @@
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.824
-        },
-        {
-          "platform": "neat",
           "id": 1856,
           "name": "VC-SV-B105.3 Laporta",
           "score": 0.821
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "uzrQs0aMTHi7pp0_-J6MVg",
-      "source_name": "VC-SV-B105.3 Chandrasekhar",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 1844,
-          "name": "VC-SV-B105.3 Chandrasekhar",
-          "score": 1.0
         },
         {
           "platform": "neat",
-          "id": 1460,
-          "name": "VC-SV-B105.3 Core",
-          "score": 0.744
-        },
-        {
-          "platform": "neat",
-          "id": 474,
-          "name": "VC-SV-B105.3 Crick",
-          "score": 0.727
+          "id": 1841,
+          "name": "VC-SV-B105.3 Allen",
+          "score": 0.811
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -261,12 +189,12 @@
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.812
+          "id": 1856,
+          "name": "VC-SV-B105.3 Laporta",
+          "score": 0.811
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -292,7 +220,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -307,18 +235,18 @@
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.903
-        },
-        {
-          "platform": "neat",
           "id": 1841,
           "name": "VC-SV-B105.3 Allen",
           "score": 0.824
+        },
+        {
+          "platform": "neat",
+          "id": 1842,
+          "name": "VC-SV-B105.3 Barton",
+          "score": 0.8
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -333,35 +261,9 @@
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.824
-        },
-        {
-          "platform": "neat",
           "id": 1842,
           "name": "VC-SV-B105.3 Barton",
           "score": 0.789
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "BtQjG7fbSyeOUCYPMgADyQ",
-      "source_name": "VC-SV-B105.3 Energy",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 475,
-          "name": "VC-SV-B105.3 Energy",
-          "score": 1.0
-        },
-        {
-          "platform": "neat",
-          "id": 1841,
-          "name": "VC-SV-B105.3 Allen",
-          "score": 0.811
         },
         {
           "platform": "neat",
@@ -370,7 +272,7 @@
           "score": 0.778
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -391,12 +293,12 @@
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.737
+          "id": 1841,
+          "name": "VC-SV-B105.3 Allen",
+          "score": 0.732
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -422,7 +324,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -448,7 +350,7 @@
           "score": 0.811
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -462,7 +364,7 @@
           "score": 0.706
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -476,7 +378,7 @@
           "score": 0.706
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -490,59 +392,7 @@
           "score": 0.706
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "MsfqCfC2TUWk-oVIu9bO3g",
-      "source_name": "VC-SV-B105.3 SA",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 1.0
-        },
-        {
-          "platform": "neat",
-          "id": 1841,
-          "name": "VC-SV-B105.3 Allen",
-          "score": 0.848
-        },
-        {
-          "platform": "neat",
-          "id": 1842,
-          "name": "VC-SV-B105.3 Barton",
-          "score": 0.824
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "ovkJcw_VRsyh3blcDROSeQ",
-      "source_name": "VC-SV-B105.3 Taussig",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.8
-        },
-        {
-          "platform": "neat",
-          "id": 1871,
-          "name": "VC-SV-B105.4 Fauci",
-          "score": 0.789
-        },
-        {
-          "platform": "neat",
-          "id": 1883,
-          "name": "VC-SV-B105.4 Stapling",
-          "score": 0.78
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -568,7 +418,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -583,18 +433,18 @@
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
+          "id": 476,
+          "name": "VC-SV-B105.3 Weibull",
           "score": 0.8
         },
         {
           "platform": "neat",
-          "id": 476,
-          "name": "VC-SV-B105.3 Weibull",
-          "score": 0.8
+          "id": 1831,
+          "name": "VC-SV-B105.2 Lacks",
+          "score": 0.789
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -620,7 +470,7 @@
           "score": 0.762
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -646,33 +496,7 @@
           "score": 0.833
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "magKuKnmRS2G86AVphVBWQ",
-      "source_name": "VC-SV-B105.4 Euclid",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 1870,
-          "name": "VC-SV-B105.4 Euclid",
-          "score": 1.0
-        },
-        {
-          "platform": "neat",
-          "id": 1871,
-          "name": "VC-SV-B105.4 Fauci",
-          "score": 0.865
-        },
-        {
-          "platform": "neat",
-          "id": 476,
-          "name": "VC-SV-B105.3 Weibull",
-          "score": 0.769
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -687,18 +511,18 @@
         },
         {
           "platform": "neat",
-          "id": 1870,
-          "name": "VC-SV-B105.4 Euclid",
-          "score": 0.865
+          "id": 1864,
+          "name": "VC-SV-B105.3 Taussig",
+          "score": 0.789
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.788
+          "id": 1831,
+          "name": "VC-SV-B105.2 Lacks",
+          "score": 0.778
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -724,7 +548,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -750,7 +574,7 @@
           "score": 0.769
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -776,7 +600,7 @@
           "score": 0.714
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -785,50 +609,24 @@
       "matches": [
         {
           "platform": "neat",
-          "id": 514,
-          "name": "VC-SV-B105.4 Satava",
-          "score": 0.769
-        },
-        {
-          "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.743
-        },
-        {
-          "platform": "neat",
           "id": 1831,
           "name": "VC-SV-B105.2 Lacks",
           "score": 0.737
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "OrpNDT-SQZe7fzGzPRT-xQ",
-      "source_name": "VC-SV-B105.4 Satava",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 514,
-          "name": "VC-SV-B105.4 Satava",
-          "score": 1.0
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.824
+          "id": 1871,
+          "name": "VC-SV-B105.4 Fauci",
+          "score": 0.737
         },
         {
           "platform": "neat",
-          "id": 1883,
-          "name": "VC-SV-B105.4 Stapling",
-          "score": 0.8
+          "id": 1846,
+          "name": "VC-SV-B105.3 Doudna",
+          "score": 0.718
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -843,44 +641,12 @@
         },
         {
           "platform": "neat",
-          "id": 1870,
-          "name": "VC-SV-B105.4 Euclid",
-          "score": 0.762
-        },
-        {
-          "platform": "neat",
           "id": 1883,
           "name": "VC-SV-B105.4 Stapling",
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "iluFljtbRqSwOy8CrHoPWA",
-      "source_name": "EQ-SV-B105.2 LPX-Instron",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 1558,
-          "name": "EQ-SV-B105.2 LPX-Instron",
-          "score": 1.0
-        },
-        {
-          "platform": "neat",
-          "id": 771,
-          "name": "EQ-SV-B105.4 Instron 1kN",
-          "score": 0.792
-        },
-        {
-          "platform": "neat",
-          "id": 1557,
-          "name": "EQ-SV-B105.2 LPX-LPD1",
-          "score": 0.756
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -892,15 +658,9 @@
           "id": 1557,
           "name": "EQ-SV-B105.2 LPX-LPD1",
           "score": 1.0
-        },
-        {
-          "platform": "neat",
-          "id": 1558,
-          "name": "EQ-SV-B105.2 LPX-Instron",
-          "score": 0.756
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -915,30 +675,24 @@
         },
         {
           "platform": "neat",
-          "id": 471,
-          "name": "EQ-SV-B105.3 PDE Systems Analy 4",
+          "id": 470,
+          "name": "EQ-SV-B105.3 PDE Systems Analy 6",
           "score": 0.969
         },
         {
           "platform": "neat",
-          "id": 470,
-          "name": "EQ-SV-B105.3 PDE Systems Analy 6",
+          "id": 472,
+          "name": "EQ-SV-B105.3 PDE Systems Analy 7",
           "score": 0.969
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "-K21VwxCTnCKveFgCB6r8w",
       "source_name": "EQ-SV-B105.3 PDE Systems Analy 4",
       "matches": [
-        {
-          "platform": "neat",
-          "id": 471,
-          "name": "EQ-SV-B105.3 PDE Systems Analy 4",
-          "score": 1.0
-        },
         {
           "platform": "neat",
           "id": 469,
@@ -950,9 +704,15 @@
           "id": 470,
           "name": "EQ-SV-B105.3 PDE Systems Analy 6",
           "score": 0.969
+        },
+        {
+          "platform": "neat",
+          "id": 472,
+          "name": "EQ-SV-B105.3 PDE Systems Analy 7",
+          "score": 0.969
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -973,38 +733,12 @@
         },
         {
           "platform": "neat",
-          "id": 471,
-          "name": "EQ-SV-B105.3 PDE Systems Analy 4",
+          "id": 472,
+          "name": "EQ-SV-B105.3 PDE Systems Analy 7",
           "score": 0.969
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "bgZQILIuSBKtoQt0o_E37A",
-      "source_name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 769,
-          "name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
-          "score": 1.0
-        },
-        {
-          "platform": "neat",
-          "id": 687,
-          "name": "EQ-SV-B105.3 Stapler 5 3D Printer",
-          "score": 0.725
-        },
-        {
-          "platform": "neat",
-          "id": 770,
-          "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer",
-          "score": 0.714
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1022,15 +756,9 @@
           "id": 687,
           "name": "EQ-SV-B105.3 Stapler 5 3D Printer",
           "score": 0.776
-        },
-        {
-          "platform": "neat",
-          "id": 769,
-          "name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
-          "score": 0.743
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1042,15 +770,9 @@
           "id": 771,
           "name": "EQ-SV-B105.4 Instron 1kN",
           "score": 1.0
-        },
-        {
-          "platform": "neat",
-          "id": 1558,
-          "name": "EQ-SV-B105.2 LPX-Instron",
-          "score": 0.792
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1065,64 +787,18 @@
         },
         {
           "platform": "neat",
-          "id": 245,
-          "name": "EQ-SV-B105.3 Stapler 7 Iron Horse",
-          "score": 0.781
-        },
-        {
-          "platform": "neat",
           "id": 247,
           "name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
           "score": 0.769
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "DCmSEttiR62VegZmcluW4A",
-      "source_name": "EQ-SV-B105.4 Stapler 7 Iron Horse",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 245,
-          "name": "EQ-SV-B105.3 Stapler 7 Iron Horse",
-          "score": 0.97
         },
         {
           "platform": "neat",
-          "id": 246,
-          "name": "EQ-SV-B105.3 Stapler 8 Xi System",
-          "score": 0.769
+          "id": 771,
+          "name": "EQ-SV-B105.4 Instron 1kN",
+          "score": 0.727
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "bANjl3HNTNGAf1JSCUX2mA",
-      "source_name": "EQ-SV-B105.4 Stapler 8 Xi System",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 246,
-          "name": "EQ-SV-B105.3 Stapler 8 Xi System",
-          "score": 0.969
-        },
-        {
-          "platform": "neat",
-          "id": 245,
-          "name": "EQ-SV-B105.3 Stapler 7 Iron Horse",
-          "score": 0.769
-        },
-        {
-          "platform": "neat",
-          "id": 247,
-          "name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
-          "score": 0.758
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1148,7 +824,7 @@
           "score": 0.762
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1174,7 +850,7 @@
           "score": 0.739
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1189,18 +865,18 @@
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.737
-        },
-        {
-          "platform": "neat",
           "id": 1841,
           "name": "VC-SV-B105.3 Allen",
           "score": 0.732
+        },
+        {
+          "platform": "neat",
+          "id": 1842,
+          "name": "VC-SV-B105.3 Barton",
+          "score": 0.714
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1226,33 +902,7 @@
           "score": 0.756
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "mHmLU1GdQEaWJCwj0mjRFg",
-      "source_name": "VC-SV-B105.3 Jeff Tessier",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 1851,
-          "name": "VC-SV-B105.3 Jeff Tessier",
-          "score": 1.0
-        },
-        {
-          "platform": "neat",
-          "id": 475,
-          "name": "VC-SV-B105.3 Energy",
-          "score": 0.727
-        },
-        {
-          "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.7
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1278,7 +928,7 @@
           "score": 0.756
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1292,7 +942,7 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1307,18 +957,18 @@
         },
         {
           "platform": "neat",
-          "id": 475,
-          "name": "VC-SV-B105.3 Energy",
-          "score": 0.773
-        },
-        {
-          "platform": "neat",
           "id": 1124,
           "name": "VC-SV-B105.3 David Robinson",
           "score": 0.769
+        },
+        {
+          "platform": "neat",
+          "id": 1842,
+          "name": "VC-SV-B105.3 Barton",
+          "score": 0.727
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1344,7 +994,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1358,7 +1008,7 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1378,7 +1028,7 @@
           "score": 0.714
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1392,21 +1042,7 @@
           "score": 0.919
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "ApMVJvdYRieK3jfHv9oRlw",
-      "source_name": "VC-SV-B105.2 DB Hallway",
-      "matches": [
-        {
-          "platform": "xyte",
-          "id": 198107,
-          "name": "B105.2 DB Hallway",
-          "score": 0.85
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1420,7 +1056,7 @@
           "score": 0.833
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1434,7 +1070,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1448,7 +1084,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1468,21 +1104,7 @@
           "score": 0.75
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "uzrQs0aMTHi7pp0_-J6MVg",
-      "source_name": "VC-SV-B105.3 Chandrasekhar",
-      "matches": [
-        {
-          "platform": "xyte",
-          "id": 198041,
-          "name": "B105.3 Chandrasekhar",
-          "score": 0.87
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1496,7 +1118,7 @@
           "score": 0.786
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1510,7 +1132,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1524,21 +1146,7 @@
           "score": 0.812
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "BtQjG7fbSyeOUCYPMgADyQ",
-      "source_name": "VC-SV-B105.3 Energy",
-      "matches": [
-        {
-          "platform": "xyte",
-          "id": 198131,
-          "name": "B105.3 Energy",
-          "score": 0.812
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1552,7 +1160,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1566,35 +1174,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "MsfqCfC2TUWk-oVIu9bO3g",
-      "source_name": "VC-SV-B105.3 SA",
-      "matches": [
-        {
-          "platform": "xyte",
-          "id": 198102,
-          "name": "B105.3 SA",
-          "score": 0.75
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "ovkJcw_VRsyh3blcDROSeQ",
-      "source_name": "VC-SV-B105.3 Taussig",
-      "matches": [
-        {
-          "platform": "xyte",
-          "id": 206139,
-          "name": "B105.3 Taussig",
-          "score": 0.824
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1608,7 +1188,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1622,7 +1202,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1636,21 +1216,7 @@
           "score": 0.857
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "magKuKnmRS2G86AVphVBWQ",
-      "source_name": "VC-SV-B105.4 Euclid",
-      "matches": [
-        {
-          "platform": "xyte",
-          "id": 198076,
-          "name": "B105.4 Euclid",
-          "score": 0.812
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1664,7 +1230,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1678,7 +1244,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1692,7 +1258,7 @@
           "score": 0.842
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1706,7 +1272,7 @@
           "score": 0.857
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1720,7 +1286,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1734,7 +1300,7 @@
           "score": 0.731
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1748,21 +1314,7 @@
           "score": 0.731
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "OrpNDT-SQZe7fzGzPRT-xQ",
-      "source_name": "VC-SV-B105.4 Satava",
-      "matches": [
-        {
-          "platform": "xyte",
-          "id": 198090,
-          "name": "B105.4 Satava",
-          "score": 0.812
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1776,7 +1328,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1790,7 +1342,7 @@
           "score": 0.712
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1804,7 +1356,7 @@
           "score": 0.712
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1818,7 +1370,7 @@
           "score": 0.712
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1832,7 +1384,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1846,7 +1398,7 @@
           "score": 0.875
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1860,7 +1412,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1874,21 +1426,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "mHmLU1GdQEaWJCwj0mjRFg",
-      "source_name": "VC-SV-B105.3 Jeff Tessier",
-      "matches": [
-        {
-          "platform": "xyte",
-          "id": 198079,
-          "name": "B105.3 Jeff Tessier",
-          "score": 0.864
-        }
-      ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1902,7 +1440,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1916,7 +1454,7 @@
           "score": 0.88
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1930,7 +1468,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1944,7 +1482,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1958,7 +1496,7 @@
           "score": 0.885
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1972,7 +1510,7 @@
           "score": 0.718
         }
       ],
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     }
   ],
   "discrepancies": [
@@ -1982,7 +1520,7 @@
       "platform": "xyte",
       "platform_name": "B105.4 Stapling",
       "platform_id": "198124",
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "uid": "72fc597b-0fa2-41be-a96a-57c500cec29e",
@@ -1990,7 +1528,7 @@
       "platform": "neat",
       "platform_name": "EQ-SV-B105.3 Stapler 4 Chatillon",
       "platform_id": "244",
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "uid": "91c71990-50d2-4c16-9a54-a945cafe366d",
@@ -1998,7 +1536,7 @@
       "platform": "xyte",
       "platform_name": "B105.3 Shark Somayaji",
       "platform_id": "198142",
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "uid": "f743e8e2-8f97-46f1-8a71-1dd7215fcdbf",
@@ -2006,7 +1544,7 @@
       "platform": "xyte",
       "platform_name": "B105.3 Veronica Thralls",
       "platform_id": "198130",
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "uid": "2e7b71c5-c17b-46fa-90d2-8fd85fb571f6",
@@ -2014,7 +1552,7 @@
       "platform": "xyte",
       "platform_name": "B105.4 Woodson",
       "platform_id": "198126",
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
     },
     {
       "uid": "e5376576-f0fb-460c-b76f-0724f0a71854",
@@ -2022,7 +1560,31 @@
       "platform": "xyte",
       "platform_name": "B105.3 Marescaux",
       "platform_id": "198054",
-      "detected": "2026-09-05T15:01:11+00:00"
+      "detected": "2026-09-05T16:16:17+00:00"
+    },
+    {
+      "uid": "814ea5d6-6b34-4847-9d97-732f70b6d70a",
+      "canonical_name": "EQ-SV-B105.4 Stapler 7 Iron Horse",
+      "platform": "neat",
+      "platform_name": "EQ-SV-B105.3 Stapler 7 Iron Horse",
+      "platform_id": "245",
+      "detected": "2026-09-05T16:16:17+00:00"
+    },
+    {
+      "uid": "c66dbe3c-2ef8-4d7c-83e4-374436632731",
+      "canonical_name": "EQ-SV-B105.4 Stapler 8 Xi System",
+      "platform": "neat",
+      "platform_name": "EQ-SV-B105.3 Stapler 8 Xi System",
+      "platform_id": "246",
+      "detected": "2026-09-05T16:16:17+00:00"
+    },
+    {
+      "uid": "92a8ccc4-eb3b-43e6-aece-beb85e90e478",
+      "canonical_name": "VC-SV-B105.3 Taussig",
+      "platform": "xyte",
+      "platform_name": "B105.3 Taussig",
+      "platform_id": "206139",
+      "detected": "2026-09-05T16:16:17+00:00"
     }
   ],
   "create_requests": [],
