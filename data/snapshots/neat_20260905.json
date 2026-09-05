@@ -10,6 +10,11 @@
     "_raw_name": "EQ-SV-B105.2 LPX-LPD1"
   },
   {
+    "id": 469,
+    "name": "EQ-SV-B105.3 PDE Systems Analy 1",
+    "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 1"
+  },
+  {
     "id": 471,
     "name": "EQ-SV-B105.3 PDE Systems Analy 4",
     "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 4"
@@ -48,11 +53,6 @@
     "id": 770,
     "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer",
     "_raw_name": "EQ-SV-B105.4 Form 3 SLA 3D Printer"
-  },
-  {
-    "id": 771,
-    "name": "EQ-SV-B105.4 Instron 1kN",
-    "_raw_name": "EQ-SV-B105.4 Instron 1kN"
   },
   {
     "id": 511,
@@ -180,9 +180,19 @@
     "_raw_name": "VC-SV-B105.3 Core"
   },
   {
+    "id": 474,
+    "name": "VC-SV-B105.3 Crick",
+    "_raw_name": "VC-SV-B105.3 Crick"
+  },
+  {
     "id": 1124,
     "name": "VC-SV-B105.3 David Robinson",
     "_raw_name": "VC-SV-B105.3 David Robinson"
+  },
+  {
+    "id": 1845,
+    "name": "VC-SV-B105.3 DNA",
+    "_raw_name": "VC-SV-B105.3 DNA"
   },
   {
     "id": 1846,

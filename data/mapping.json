@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T05:00:11+00:00",
+  "last_sync": "2026-09-05T05:08:58+00:00",
   "rooms": {},
   "unmapped_zoom": [
     {
@@ -522,6 +522,10 @@
       "name": "EQ-SV-B105.2 LPX-LPD1"
     },
     {
+      "id": 469,
+      "name": "EQ-SV-B105.3 PDE Systems Analy 1"
+    },
+    {
       "id": 471,
       "name": "EQ-SV-B105.3 PDE Systems Analy 4"
     },
@@ -552,10 +556,6 @@
     {
       "id": 770,
       "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer"
-    },
-    {
-      "id": 771,
-      "name": "EQ-SV-B105.4 Instron 1kN"
     },
     {
       "id": 511,
@@ -658,8 +658,16 @@
       "name": "VC-SV-B105.3 Core"
     },
     {
+      "id": 474,
+      "name": "VC-SV-B105.3 Crick"
+    },
+    {
       "id": 1124,
       "name": "VC-SV-B105.3 David Robinson"
+    },
+    {
+      "id": 1845,
+      "name": "VC-SV-B105.3 DNA"
     },
     {
       "id": 1846,
@@ -826,5 +834,310 @@
       "name": "VC-SV-B105.4 Woodson"
     }
   ],
-  "unmapped_xyte": []
+  "unmapped_xyte": [
+    {
+      "id": 203460,
+      "name": "B105.2 Barton"
+    },
+    {
+      "id": 198028,
+      "name": "B105.2 Favaloro"
+    },
+    {
+      "id": 198030,
+      "name": "B105.2 Mohs"
+    },
+    {
+      "id": 198035,
+      "name": "B105.2 Scott"
+    },
+    {
+      "id": 198096,
+      "name": "B105.2 Whipple"
+    },
+    {
+      "id": 198107,
+      "name": "B105.2 DB Hallway"
+    },
+    {
+      "id": 198117,
+      "name": "B105.2 Global Labeling Lab"
+    },
+    {
+      "id": 198036,
+      "name": "B105.2 Shurer"
+    },
+    {
+      "id": 198004,
+      "name": "B105.1 Alcorn"
+    },
+    {
+      "id": 198013,
+      "name": "B105.1 Apgar"
+    },
+    {
+      "id": 198095,
+      "name": "B105.1 Sagan"
+    },
+    {
+      "id": 198104,
+      "name": "B105.1 Menon Rack PDU"
+    },
+    {
+      "id": 198105,
+      "name": "B105.1 Menon Display Left"
+    },
+    {
+      "id": 198106,
+      "name": "B105.1 Menon Display Right"
+    },
+    {
+      "id": 198020,
+      "name": "B105.1 Bath"
+    },
+    {
+      "id": 198094,
+      "name": "B105.1 Al Qassimi"
+    },
+    {
+      "id": 198116,
+      "name": "B105.1 Reliability Thermal Chamber"
+    },
+    {
+      "id": 198072,
+      "name": "B105.4 Elion"
+    },
+    {
+      "id": 198089,
+      "name": "B105.4 Semmelweis"
+    },
+    {
+      "id": 198090,
+      "name": "B105.4 Satava"
+    },
+    {
+      "id": 198109,
+      "name": "B105.4 Fauci"
+    },
+    {
+      "id": 198125,
+      "name": "B105.4 Hooke"
+    },
+    {
+      "id": 198126,
+      "name": "B105.4 Woodson"
+    },
+    {
+      "id": 198077,
+      "name": "B105.4 Gray"
+    },
+    {
+      "id": 198083,
+      "name": "B105.4 Kubler-Ross"
+    },
+    {
+      "id": 198091,
+      "name": "B105.4 Scheinman"
+    },
+    {
+      "id": 198110,
+      "name": "B105.4 Jacobaeus"
+    },
+    {
+      "id": 198118,
+      "name": "B105.4 Reliability Lab"
+    },
+    {
+      "id": 198120,
+      "name": "B105.4 NPV Lab"
+    },
+    {
+      "id": 198124,
+      "name": "B105.4 Stapling"
+    },
+    {
+      "id": 198137,
+      "name": "B105.4 Curie Rack PDU"
+    },
+    {
+      "id": 198138,
+      "name": "B105.4 Curie Display Left"
+    },
+    {
+      "id": 198139,
+      "name": "B105.4 Curie Display Right"
+    },
+    {
+      "id": 198115,
+      "name": "B105.4 Accessories"
+    },
+    {
+      "id": 198076,
+      "name": "B105.4 Euclid"
+    },
+    {
+      "id": 204176,
+      "name": "B105.4 Project Room 4061"
+    },
+    {
+      "id": 205750,
+      "name": "B105.3 Analysis Lab"
+    },
+    {
+      "id": 202618,
+      "name": "Marescaux"
+    },
+    {
+      "id": 200565,
+      "name": "B105.3 Elders"
+    },
+    {
+      "id": 198046,
+      "name": "B105.3 Doudna"
+    },
+    {
+      "id": 198056,
+      "name": "B105.3 David Robinson"
+    },
+    {
+      "id": 198069,
+      "name": "B105.3 Thomas"
+    },
+    {
+      "id": 198098,
+      "name": "B105.3 Byers"
+    },
+    {
+      "id": 198112,
+      "name": "B105.3 Kevin Rooney"
+    },
+    {
+      "id": 198131,
+      "name": "B105.3 Energy"
+    },
+    {
+      "id": 206139,
+      "name": "B105.3 Taussig"
+    },
+    {
+      "id": 198047,
+      "name": "B105.3 Hawking"
+    },
+    {
+      "id": 198078,
+      "name": "B105.3 VP Hotel"
+    },
+    {
+      "id": 198079,
+      "name": "B105.3 Jeff Tessier"
+    },
+    {
+      "id": 198082,
+      "name": "B105.3 Charlie Dean"
+    },
+    {
+      "id": 198097,
+      "name": "B105.3 Allen"
+    },
+    {
+      "id": 198099,
+      "name": "B105.3 Lane-Claypon"
+    },
+    {
+      "id": 198100,
+      "name": "B105.3 Pitter"
+    },
+    {
+      "id": 198101,
+      "name": "B105.3 Systems Analysis Lab"
+    },
+    {
+      "id": 198102,
+      "name": "B105.3 SA"
+    },
+    {
+      "id": 198108,
+      "name": "B105.3 Core"
+    },
+    {
+      "id": 198113,
+      "name": "B105.3 Weibull"
+    },
+    {
+      "id": 198127,
+      "name": "B105.3 DNA Rack PDU"
+    },
+    {
+      "id": 198129,
+      "name": "B105.3 DNA Display Right"
+    },
+    {
+      "id": 198130,
+      "name": "B105.3 Veronica Thralls"
+    },
+    {
+      "id": 198132,
+      "name": "B105.3 Wilkins"
+    },
+    {
+      "id": 198134,
+      "name": "B105.3 Mike Prindiville"
+    },
+    {
+      "id": 198135,
+      "name": "B105.3 Iman Jeddi"
+    },
+    {
+      "id": 198140,
+      "name": "B105.3 Chris Cappello"
+    },
+    {
+      "id": 198141,
+      "name": "B105.3 James Wall"
+    },
+    {
+      "id": 198142,
+      "name": "B105.3 Shark Somayaji"
+    },
+    {
+      "id": 200235,
+      "name": "B105.3 Barton"
+    },
+    {
+      "id": 198041,
+      "name": "B105.3 Chandrasekhar"
+    },
+    {
+      "id": 198054,
+      "name": "B105.3 Marescaux"
+    },
+    {
+      "id": 198111,
+      "name": "B105.3 Joshua Chaidez"
+    },
+    {
+      "id": 198133,
+      "name": "B105.3 Mark Brosius"
+    },
+    {
+      "id": 198136,
+      "name": "B105.3 Joanne Lum"
+    },
+    {
+      "id": 198081,
+      "name": "B105.3 Karpaga Sundari"
+    },
+    {
+      "id": 198052,
+      "name": "B105.3 Laporta"
+    },
+    {
+      "id": 198128,
+      "name": "B105.3 DNA Display Left"
+    },
+    {
+      "id": 49710,
+      "name": "B105.3 Crick"
+    }
+  ]
 }
