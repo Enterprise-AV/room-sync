@@ -1,5 +1,10 @@
 [
   {
+    "id": 1558,
+    "name": "EQ-SV-B105.2 LPX-Instron",
+    "_raw_name": "EQ-SV-B105.2 LPX-Instron"
+  },
+  {
     "id": 1557,
     "name": "EQ-SV-B105.2 LPX-LPD1",
     "_raw_name": "EQ-SV-B105.2 LPX-LPD1"
@@ -30,39 +35,19 @@
     "_raw_name": "EQ-SV-B105.3 Stapler 4 Chatillon"
   },
   {
-    "id": 687,
-    "name": "EQ-SV-B105.3 Stapler 5 3D Printer",
-    "_raw_name": "EQ-SV-B105.3 Stapler 5 3D Printer"
-  },
-  {
     "id": 245,
     "name": "EQ-SV-B105.3 Stapler 7 Iron Horse",
     "_raw_name": "EQ-SV-B105.3 Stapler 7 Iron Horse"
   },
   {
-    "id": 246,
-    "name": "EQ-SV-B105.3 Stapler 8 Xi System",
-    "_raw_name": "EQ-SV-B105.3 Stapler 8 Xi System"
-  },
-  {
-    "id": 769,
-    "name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
-    "_raw_name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer"
-  },
-  {
-    "id": 770,
-    "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer",
-    "_raw_name": "EQ-SV-B105.4 Form 3 SLA 3D Printer"
+    "id": 771,
+    "name": "EQ-SV-B105.4 Instron 1kN",
+    "_raw_name": "EQ-SV-B105.4 Instron 1kN"
   },
   {
     "id": 511,
     "name": "EQ-SV-B105.4 Reliability Lab Neat Board Neatframe NF20C1",
     "_raw_name": "EQ-SV-B105.4 Reliability Lab Neat Board Neatframe NF20C1"
-  },
-  {
-    "id": 247,
-    "name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
-    "_raw_name": "EQ-SV-B105.4 Stapler 10 CT Scanner"
   },
   {
     "id": 468,
@@ -95,11 +80,6 @@
     "_raw_name": "VC-SV-B105.1 Menon"
   },
   {
-    "id": 586,
-    "name": "VC-SV-B105.1 Reliability Thermal Chamber",
-    "_raw_name": "VC-SV-B105.1 Reliability Thermal Chamber"
-  },
-  {
     "id": 253,
     "name": "VC-SV-B105.1 Sagan",
     "_raw_name": "VC-SV-B105.1 Sagan"
@@ -118,11 +98,6 @@
     "id": 1831,
     "name": "VC-SV-B105.2 Lacks",
     "_raw_name": "VC-SV-B105.2 Lacks"
-  },
-  {
-    "id": 1832,
-    "name": "VC-SV-B105.2 Mohs",
-    "_raw_name": "VC-SV-B105.2 Mohs"
   },
   {
     "id": 1837,
@@ -255,19 +230,9 @@
     "_raw_name": "VC-SV-B105.3 Kevin Rooney"
   },
   {
-    "id": 1855,
-    "name": "VC-SV-B105.3 Lane-Claypon",
-    "_raw_name": "VC-SV-B105.3 Lane-Claypon"
-  },
-  {
     "id": 1856,
     "name": "VC-SV-B105.3 Laporta",
     "_raw_name": "VC-SV-B105.3 Laporta"
-  },
-  {
-    "id": 1857,
-    "name": "VC-SV-B105.3 Marescaux",
-    "_raw_name": "VC-SV-B105.3 Marescaux"
   },
   {
     "id": 1858,
@@ -283,6 +248,11 @@
     "id": 1862,
     "name": "VC-SV-B105.3 Pitter",
     "_raw_name": "VC-SV-B105.3 Pitter"
+  },
+  {
+    "id": 477,
+    "name": "VC-SV-B105.3 SA",
+    "_raw_name": "VC-SV-B105.3 SA"
   },
   {
     "id": 1863,
@@ -308,11 +278,6 @@
     "id": 476,
     "name": "VC-SV-B105.3 Weibull",
     "_raw_name": "VC-SV-B105.3 Weibull"
-  },
-  {
-    "id": 1866,
-    "name": "VC-SV-B105.3 Wilkins",
-    "_raw_name": "VC-SV-B105.3 Wilkins"
   },
   {
     "id": 1867,
@@ -343,11 +308,6 @@
     "id": 1872,
     "name": "VC-SV-B105.4 Gray",
     "_raw_name": "VC-SV-B105.4 Gray"
-  },
-  {
-    "id": 513,
-    "name": "VC-SV-B105.4 Hooke",
-    "_raw_name": "VC-SV-B105.4 Hooke"
   },
   {
     "id": 1873,

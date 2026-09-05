@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T07:26:49+00:00",
+  "last_sync": "2026-09-05T07:35:01+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -10,7 +10,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:46:32+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "d89c5112-9c4b-435d-8378-b09d2a4ece59": {
       "canonical_name": "VC-SV-B105.1 Al Qassimi",
@@ -20,7 +20,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:47:00+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "f8275b30-2335-4798-8c56-b47ea5b4c4e0": {
       "canonical_name": "Lab-SV-B105.2 Global Labeling Lab",
@@ -30,7 +30,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:53:03+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "3c5d5dd3-7c95-474c-a374-888d7834cc51": {
       "canonical_name": "VC-SV-B105.2 Whipple",
@@ -40,7 +40,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:53:32+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "2570553a-c9bc-480b-9b52-ef93348b10fc": {
       "canonical_name": "VC-SV-B105.4 Stapling",
@@ -50,7 +50,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:54:40+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "94431f3c-e666-4cff-a28a-352f7a39ace1": {
       "canonical_name": "VC-SV-B105.1 Bath",
@@ -60,7 +60,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:56:35+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "3ebfa544-e8f6-49f2-879b-b70ff7e415f2": {
       "canonical_name": "VC-SV-B105.1 Sagan",
@@ -70,17 +70,17 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:57:13+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "7cecc12c-7689-483a-9cc7-37c298b59f4d": {
       "canonical_name": "VC-SV-B105.2 Mohs",
       "zoom_room_id": "w8GmMluHRjuK7SlSPwt-jw",
-      "neat_room_id": "1832",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:57:25+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "f8dc67b0-cf1d-438f-bef7-2d46de23cb1d": {
       "canonical_name": "VC-SV-B105.2 Shurer",
@@ -90,7 +90,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:57:35+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "ca42d4a7-cf62-45f6-b359-ee9d7a5d0978": {
       "canonical_name": "VC-SV-B105.3 Byers",
@@ -100,7 +100,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:58:24+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "4632dd5f-9a01-4425-9d0a-f38479c8e628": {
       "canonical_name": "VC-SV-B105.3 Elders",
@@ -110,7 +110,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:58:38+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "8dc155f8-ab69-4954-99a6-6e01df657a33": {
       "canonical_name": "VC-SV-B105.3 Hawking",
@@ -120,7 +120,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:59:01+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "748d473a-cb89-4213-a2d3-2c0c597165bd": {
       "canonical_name": "VC-SV-B105.3 Pitter",
@@ -130,7 +130,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:59:13+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "77763570-cea6-44e9-a2d7-50fb81b84a30": {
       "canonical_name": "VC-SV-B105.3 Thomas",
@@ -140,7 +140,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:59:28+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "1376d0d0-e652-42d5-a123-bffcb2533e40": {
       "canonical_name": "VC-SV-B105.4 Elion",
@@ -150,7 +150,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:59:44+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "0e5aba82-536b-4609-8e53-baf5e74776ab": {
       "canonical_name": "VC-SV-B105.4 Gray",
@@ -160,7 +160,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:00:34+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "0bfe7e83-d2ca-42e1-8e52-1ca93ea69a8a": {
       "canonical_name": "VC-SV-B105.4 Project Room 4061",
@@ -170,7 +170,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:00:48+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "89fa91e4-227a-45d7-bc2c-41fa0db2959f": {
       "canonical_name": "EQ-SV-B105.3 PDE Systems Analy 7",
@@ -180,7 +180,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:00:59+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "582712d6-d454-4cbd-a728-d010b24f8d03": {
       "canonical_name": "VC-SV-B105.4 Scheinman",
@@ -190,17 +190,17 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:01:11+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "4a8e8e46-97a8-4ec7-ada4-d4c5133b84cb": {
       "canonical_name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
       "zoom_room_id": "wrbVhAXvSRKLGXr1pyOsgA",
-      "neat_room_id": "247",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:01:23+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "72fc597b-0fa2-41be-a96a-57c500cec29e": {
       "canonical_name": "EQ-SV-B105.4 Stapler 4 Chatillon",
@@ -210,17 +210,17 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:01:42+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "12c13611-2b25-43b9-bf06-dd02b18f5108": {
       "canonical_name": "EQ-SV-B105.4 Stapler 5 3D Printer",
       "zoom_room_id": "j3j2FlYjQfaIzi9GYXl-7w",
-      "neat_room_id": "687",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:01:54+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "60c8a246-ec7b-4b71-96b0-050da592bd63": {
       "canonical_name": "VC-SV-B105.3 Chris Cappello",
@@ -230,7 +230,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:07+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "f46e5778-0b00-40ab-a79d-ad54dacd118a": {
       "canonical_name": "VC-SV-B105.3 Joshua Chaidez",
@@ -240,7 +240,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:20+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "91c71990-50d2-4c16-9a54-a945cafe366d": {
       "canonical_name": "VC-SV-B105.3 Shark Somayaji",
@@ -250,7 +250,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:45+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     },
     "f743e8e2-8f97-46f1-8a71-1dd7215fcdbf": {
       "canonical_name": "VC-SV-B105.3 Veronica Thralls",
@@ -260,7 +260,7 @@
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:58+00:00",
-      "last_verified": "2026-09-05T07:26:49+00:00"
+      "last_verified": "2026-09-05T07:35:00+00:00"
     }
   },
   "unmapped_zoom": [
@@ -671,6 +671,10 @@
   ],
   "unmapped_neat": [
     {
+      "id": 1558,
+      "name": "EQ-SV-B105.2 LPX-Instron"
+    },
+    {
       "id": 1557,
       "name": "EQ-SV-B105.2 LPX-LPD1"
     },
@@ -691,16 +695,8 @@
       "name": "EQ-SV-B105.3 Stapler 7 Iron Horse"
     },
     {
-      "id": 246,
-      "name": "EQ-SV-B105.3 Stapler 8 Xi System"
-    },
-    {
-      "id": 769,
-      "name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer"
-    },
-    {
-      "id": 770,
-      "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer"
+      "id": 771,
+      "name": "EQ-SV-B105.4 Instron 1kN"
     },
     {
       "id": 511,
@@ -717,10 +713,6 @@
     {
       "id": 1829,
       "name": "VC-SV-B105.1 Menon"
-    },
-    {
-      "id": 586,
-      "name": "VC-SV-B105.1 Reliability Thermal Chamber"
     },
     {
       "id": 545,
@@ -811,16 +803,8 @@
       "name": "VC-SV-B105.3 Kevin Rooney"
     },
     {
-      "id": 1855,
-      "name": "VC-SV-B105.3 Lane-Claypon"
-    },
-    {
       "id": 1856,
       "name": "VC-SV-B105.3 Laporta"
-    },
-    {
-      "id": 1857,
-      "name": "VC-SV-B105.3 Marescaux"
     },
     {
       "id": 1858,
@@ -829,6 +813,10 @@
     {
       "id": 1859,
       "name": "VC-SV-B105.3 Mike Prindiville"
+    },
+    {
+      "id": 477,
+      "name": "VC-SV-B105.3 SA"
     },
     {
       "id": 1864,
@@ -841,10 +829,6 @@
     {
       "id": 476,
       "name": "VC-SV-B105.3 Weibull"
-    },
-    {
-      "id": 1866,
-      "name": "VC-SV-B105.3 Wilkins"
     },
     {
       "id": 1867,
@@ -861,10 +845,6 @@
     {
       "id": 1871,
       "name": "VC-SV-B105.4 Fauci"
-    },
-    {
-      "id": 513,
-      "name": "VC-SV-B105.4 Hooke"
     },
     {
       "id": 1873,

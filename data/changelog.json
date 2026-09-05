@@ -236,5 +236,26 @@
     "room_name": "VC-SV-B105.3 Veronica Thralls",
     "uid": "f743e8e2-8f97-46f1-8a71-1dd7215fcdbf",
     "details": "neat room/space None no longer exists"
+  },
+  {
+    "timestamp": "2026-09-05T07:35:00+00:00",
+    "action": "platform_deleted",
+    "room_name": "VC-SV-B105.2 Mohs",
+    "uid": "7cecc12c-7689-483a-9cc7-37c298b59f4d",
+    "details": "neat room/space 1832 no longer exists"
+  },
+  {
+    "timestamp": "2026-09-05T07:35:00+00:00",
+    "action": "platform_deleted",
+    "room_name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
+    "uid": "4a8e8e46-97a8-4ec7-ada4-d4c5133b84cb",
+    "details": "neat room/space 247 no longer exists"
+  },
+  {
+    "timestamp": "2026-09-05T07:35:00+00:00",
+    "action": "platform_deleted",
+    "room_name": "EQ-SV-B105.4 Stapler 5 3D Printer",
+    "uid": "12c13611-2b25-43b9-bf06-dd02b18f5108",
+    "details": "neat room/space 687 no longer exists"
   }
 ]
