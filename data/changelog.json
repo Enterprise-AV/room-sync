@@ -75,5 +75,12 @@
     "room_name": "VC-SV-B105.2 Mohs",
     "uid": "7cecc12c-7689-483a-9cc7-37c298b59f4d",
     "details": "Mapped: zoom=w8GmMluHRjuK7SlSPwt-jw, neat=1832, xyte=None"
+  },
+  {
+    "timestamp": "2026-09-05T05:57:35+00:00",
+    "action": "mapping_approved",
+    "room_name": "VC-SV-B105.2 Shurer",
+    "uid": "f8dc67b0-cf1d-438f-bef7-2d46de23cb1d",
+    "details": "Mapped: zoom=0M8upCSfRU2f1ZGUFf0Lgg, neat=1838, xyte=None"
   }
 ]
