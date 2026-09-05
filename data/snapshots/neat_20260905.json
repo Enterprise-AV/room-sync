@@ -35,9 +35,29 @@
     "_raw_name": "EQ-SV-B105.3 Stapler 4 Chatillon"
   },
   {
+    "id": 687,
+    "name": "EQ-SV-B105.3 Stapler 5 3D Printer",
+    "_raw_name": "EQ-SV-B105.3 Stapler 5 3D Printer"
+  },
+  {
     "id": 245,
     "name": "EQ-SV-B105.3 Stapler 7 Iron Horse",
     "_raw_name": "EQ-SV-B105.3 Stapler 7 Iron Horse"
+  },
+  {
+    "id": 246,
+    "name": "EQ-SV-B105.3 Stapler 8 Xi System",
+    "_raw_name": "EQ-SV-B105.3 Stapler 8 Xi System"
+  },
+  {
+    "id": 769,
+    "name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
+    "_raw_name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer"
+  },
+  {
+    "id": 770,
+    "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer",
+    "_raw_name": "EQ-SV-B105.4 Form 3 SLA 3D Printer"
   },
   {
     "id": 771,
@@ -48,6 +68,11 @@
     "id": 511,
     "name": "EQ-SV-B105.4 Reliability Lab Neat Board Neatframe NF20C1",
     "_raw_name": "EQ-SV-B105.4 Reliability Lab Neat Board Neatframe NF20C1"
+  },
+  {
+    "id": 247,
+    "name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
+    "_raw_name": "EQ-SV-B105.4 Stapler 10 CT Scanner"
   },
   {
     "id": 468,
@@ -75,19 +100,14 @@
     "_raw_name": "VC-SV-B105.1 Bath"
   },
   {
-    "id": 1829,
-    "name": "VC-SV-B105.1 Menon",
-    "_raw_name": "VC-SV-B105.1 Menon"
+    "id": 586,
+    "name": "VC-SV-B105.1 Reliability Thermal Chamber",
+    "_raw_name": "VC-SV-B105.1 Reliability Thermal Chamber"
   },
   {
     "id": 253,
     "name": "VC-SV-B105.1 Sagan",
     "_raw_name": "VC-SV-B105.1 Sagan"
-  },
-  {
-    "id": 545,
-    "name": "VC-SV-B105.2 DB Hallway",
-    "_raw_name": "VC-SV-B105.2 DB Hallway"
   },
   {
     "id": 1830,
@@ -98,6 +118,11 @@
     "id": 1831,
     "name": "VC-SV-B105.2 Lacks",
     "_raw_name": "VC-SV-B105.2 Lacks"
+  },
+  {
+    "id": 1832,
+    "name": "VC-SV-B105.2 Mohs",
+    "_raw_name": "VC-SV-B105.2 Mohs"
   },
   {
     "id": 1837,
@@ -160,16 +185,6 @@
     "_raw_name": "VC-SV-B105.3 Crick"
   },
   {
-    "id": 1124,
-    "name": "VC-SV-B105.3 David Robinson",
-    "_raw_name": "VC-SV-B105.3 David Robinson"
-  },
-  {
-    "id": 1845,
-    "name": "VC-SV-B105.3 DNA",
-    "_raw_name": "VC-SV-B105.3 DNA"
-  },
-  {
     "id": 1846,
     "name": "VC-SV-B105.3 Doudna",
     "_raw_name": "VC-SV-B105.3 Doudna"
@@ -230,9 +245,19 @@
     "_raw_name": "VC-SV-B105.3 Kevin Rooney"
   },
   {
+    "id": 1855,
+    "name": "VC-SV-B105.3 Lane-Claypon",
+    "_raw_name": "VC-SV-B105.3 Lane-Claypon"
+  },
+  {
     "id": 1856,
     "name": "VC-SV-B105.3 Laporta",
     "_raw_name": "VC-SV-B105.3 Laporta"
+  },
+  {
+    "id": 1857,
+    "name": "VC-SV-B105.3 Marescaux",
+    "_raw_name": "VC-SV-B105.3 Marescaux"
   },
   {
     "id": 1858,
@@ -280,14 +305,14 @@
     "_raw_name": "VC-SV-B105.3 Weibull"
   },
   {
+    "id": 1866,
+    "name": "VC-SV-B105.3 Wilkins",
+    "_raw_name": "VC-SV-B105.3 Wilkins"
+  },
+  {
     "id": 1867,
     "name": "VC-SV-B105.4 Accessories",
     "_raw_name": "VC-SV-B105.4 Accessories"
-  },
-  {
-    "id": 1868,
-    "name": "VC-SV-B105.4 Curie",
-    "_raw_name": "VC-SV-B105.4 Curie"
   },
   {
     "id": 1869,
@@ -310,6 +335,11 @@
     "_raw_name": "VC-SV-B105.4 Gray"
   },
   {
+    "id": 513,
+    "name": "VC-SV-B105.4 Hooke",
+    "_raw_name": "VC-SV-B105.4 Hooke"
+  },
+  {
     "id": 1873,
     "name": "VC-SV-B105.4 Jacobaeus",
     "_raw_name": "VC-SV-B105.4 Jacobaeus"
@@ -318,11 +348,6 @@
     "id": 1874,
     "name": "VC-SV-B105.4 Kubler-Ross",
     "_raw_name": "VC-SV-B105.4 Kubler-Ross"
-  },
-  {
-    "id": 1875,
-    "name": "VC-SV-B105.4 NPV Lab",
-    "_raw_name": "VC-SV-B105.4 NPV Lab"
   },
   {
     "id": 515,

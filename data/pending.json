@@ -24,7 +24,7 @@
           "score": 0.811
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -50,7 +50,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -59,9 +59,9 @@
       "matches": [
         {
           "platform": "neat",
-          "id": 1829,
-          "name": "VC-SV-B105.1 Menon",
-          "score": 1.0
+          "id": 1832,
+          "name": "VC-SV-B105.2 Mohs",
+          "score": 0.8
         },
         {
           "platform": "neat",
@@ -71,12 +71,26 @@
         },
         {
           "platform": "neat",
-          "id": 1845,
-          "name": "VC-SV-B105.3 DNA",
-          "score": 0.765
+          "id": 1826,
+          "name": "VC-SV-B105.1 Alcorn",
+          "score": 0.757
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
+    },
+    {
+      "source_platform": "zoom",
+      "source_id": "gEthmyEKRKCMZJ8XXSWLqA",
+      "source_name": "VC-SV-B105.1 Reliability Thermal Chamber",
+      "matches": [
+        {
+          "platform": "neat",
+          "id": 586,
+          "name": "VC-SV-B105.1 Reliability Thermal Chamber",
+          "score": 1.0
+        }
+      ],
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -85,24 +99,18 @@
       "matches": [
         {
           "platform": "neat",
-          "id": 545,
-          "name": "VC-SV-B105.2 DB Hallway",
-          "score": 1.0
-        },
-        {
-          "platform": "neat",
           "id": 1841,
           "name": "VC-SV-B105.3 Allen",
           "score": 0.732
         },
         {
           "platform": "neat",
-          "id": 1845,
-          "name": "VC-SV-B105.3 DNA",
-          "score": 0.718
+          "id": 1832,
+          "name": "VC-SV-B105.2 Mohs",
+          "score": 0.7
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -128,7 +136,7 @@
           "score": 0.769
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -143,18 +151,18 @@
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.788
+          "id": 1832,
+          "name": "VC-SV-B105.2 Mohs",
+          "score": 0.8
         },
         {
           "platform": "neat",
-          "id": 1837,
-          "name": "VC-SV-B105.2 Scott",
-          "score": 0.778
+          "id": 1866,
+          "name": "VC-SV-B105.3 Wilkins",
+          "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -169,18 +177,18 @@
         },
         {
           "platform": "neat",
-          "id": 1460,
-          "name": "VC-SV-B105.3 Core",
+          "id": 1832,
+          "name": "VC-SV-B105.2 Mohs",
           "score": 0.8
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.788
+          "id": 1460,
+          "name": "VC-SV-B105.3 Core",
+          "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -200,7 +208,7 @@
           "score": 0.745
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -221,12 +229,12 @@
         },
         {
           "platform": "neat",
-          "id": 1845,
-          "name": "VC-SV-B105.3 DNA",
-          "score": 0.824
+          "id": 1826,
+          "name": "VC-SV-B105.1 Alcorn",
+          "score": 0.811
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -252,7 +260,7 @@
           "score": 0.821
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -278,7 +286,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -299,12 +307,12 @@
         },
         {
           "platform": "neat",
-          "id": 1868,
-          "name": "VC-SV-B105.4 Curie",
-          "score": 0.857
+          "id": 1826,
+          "name": "VC-SV-B105.1 Alcorn",
+          "score": 0.833
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -325,24 +333,18 @@
         },
         {
           "platform": "neat",
-          "id": 1868,
-          "name": "VC-SV-B105.4 Curie",
-          "score": 0.833
+          "id": 1866,
+          "name": "VC-SV-B105.3 Wilkins",
+          "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "g2rozB_WTeO4NDu8M1lgGg",
       "source_name": "VC-SV-B105.3 DNA",
       "matches": [
-        {
-          "platform": "neat",
-          "id": 1845,
-          "name": "VC-SV-B105.3 DNA",
-          "score": 1.0
-        },
         {
           "platform": "neat",
           "id": 1846,
@@ -354,9 +356,15 @@
           "id": 477,
           "name": "VC-SV-B105.3 SA",
           "score": 0.903
+        },
+        {
+          "platform": "neat",
+          "id": 1841,
+          "name": "VC-SV-B105.3 Allen",
+          "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -371,18 +379,18 @@
         },
         {
           "platform": "neat",
-          "id": 1845,
-          "name": "VC-SV-B105.3 DNA",
-          "score": 0.914
-        },
-        {
-          "platform": "neat",
           "id": 477,
           "name": "VC-SV-B105.3 SA",
           "score": 0.824
+        },
+        {
+          "platform": "neat",
+          "id": 1842,
+          "name": "VC-SV-B105.3 Barton",
+          "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -403,12 +411,12 @@
         },
         {
           "platform": "neat",
-          "id": 1845,
-          "name": "VC-SV-B105.3 DNA",
-          "score": 0.8
+          "id": 1460,
+          "name": "VC-SV-B105.3 Core",
+          "score": 0.778
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -423,24 +431,30 @@
         },
         {
           "platform": "neat",
-          "id": 477,
-          "name": "VC-SV-B105.3 SA",
-          "score": 0.737
+          "id": 1866,
+          "name": "VC-SV-B105.3 Wilkins",
+          "score": 0.744
         },
         {
           "platform": "neat",
-          "id": 1841,
-          "name": "VC-SV-B105.3 Allen",
-          "score": 0.732
+          "id": 477,
+          "name": "VC-SV-B105.3 SA",
+          "score": 0.737
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "ZZIDReJKSQSxUkW7cDW-6w",
       "source_name": "VC-SV-B105.3 Lane-Claypon",
       "matches": [
+        {
+          "platform": "neat",
+          "id": 1855,
+          "name": "VC-SV-B105.3 Lane-Claypon",
+          "score": 1.0
+        },
         {
           "platform": "neat",
           "id": 1856,
@@ -452,15 +466,9 @@
           "id": 1842,
           "name": "VC-SV-B105.3 Barton",
           "score": 0.727
-        },
-        {
-          "platform": "neat",
-          "id": 475,
-          "name": "VC-SV-B105.3 Energy",
-          "score": 0.727
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -486,13 +494,19 @@
           "score": 0.811
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "lscZYb5uTmG9ci-cOfqp9A",
       "source_name": "VC-SV-B105.3 Marescaux",
       "matches": [
+        {
+          "platform": "neat",
+          "id": 1857,
+          "name": "VC-SV-B105.3 Marescaux",
+          "score": 1.0
+        },
         {
           "platform": "neat",
           "id": 1460,
@@ -504,15 +518,9 @@
           "id": 1858,
           "name": "VC-SV-B105.3 Mark Brosius",
           "score": 0.766
-        },
-        {
-          "platform": "neat",
-          "id": 1856,
-          "name": "VC-SV-B105.3 Laporta",
-          "score": 0.762
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -526,7 +534,7 @@
           "score": 0.706
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -540,7 +548,7 @@
           "score": 0.706
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -554,7 +562,7 @@
           "score": 0.706
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -569,18 +577,18 @@
         },
         {
           "platform": "neat",
-          "id": 1845,
-          "name": "VC-SV-B105.3 DNA",
-          "score": 0.903
-        },
-        {
-          "platform": "neat",
           "id": 1841,
           "name": "VC-SV-B105.3 Allen",
           "score": 0.848
+        },
+        {
+          "platform": "neat",
+          "id": 1842,
+          "name": "VC-SV-B105.3 Barton",
+          "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -606,7 +614,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -621,24 +629,30 @@
         },
         {
           "platform": "neat",
-          "id": 1841,
-          "name": "VC-SV-B105.3 Allen",
-          "score": 0.789
+          "id": 1866,
+          "name": "VC-SV-B105.3 Wilkins",
+          "score": 0.8
         },
         {
           "platform": "neat",
-          "id": 1460,
-          "name": "VC-SV-B105.3 Core",
-          "score": 0.757
+          "id": 1841,
+          "name": "VC-SV-B105.3 Allen",
+          "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "OG1awB-iQfCUrjnWzhEIUg",
       "source_name": "VC-SV-B105.3 Wilkins",
       "matches": [
+        {
+          "platform": "neat",
+          "id": 1866,
+          "name": "VC-SV-B105.3 Wilkins",
+          "score": 1.0
+        },
         {
           "platform": "neat",
           "id": 477,
@@ -650,15 +664,9 @@
           "id": 476,
           "name": "VC-SV-B105.3 Weibull",
           "score": 0.8
-        },
-        {
-          "platform": "neat",
-          "id": 1831,
-          "name": "VC-SV-B105.2 Lacks",
-          "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -673,30 +681,24 @@
         },
         {
           "platform": "neat",
-          "id": 1868,
-          "name": "VC-SV-B105.4 Curie",
-          "score": 0.81
-        },
-        {
-          "platform": "neat",
           "id": 1460,
           "name": "VC-SV-B105.3 Core",
           "score": 0.78
+        },
+        {
+          "platform": "neat",
+          "id": 1871,
+          "name": "VC-SV-B105.4 Fauci",
+          "score": 0.762
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "TWMAvd-kTP-XjfXraaeswQ",
       "source_name": "VC-SV-B105.4 Curie",
       "matches": [
-        {
-          "platform": "neat",
-          "id": 1868,
-          "name": "VC-SV-B105.4 Curie",
-          "score": 1.0
-        },
         {
           "platform": "neat",
           "id": 1460,
@@ -708,9 +710,15 @@
           "id": 474,
           "name": "VC-SV-B105.3 Crick",
           "score": 0.833
+        },
+        {
+          "platform": "neat",
+          "id": 1871,
+          "name": "VC-SV-B105.4 Fauci",
+          "score": 0.833
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -736,7 +744,7 @@
           "score": 0.769
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -757,18 +765,24 @@
         },
         {
           "platform": "neat",
-          "id": 1868,
-          "name": "VC-SV-B105.4 Curie",
-          "score": 0.833
+          "id": 1864,
+          "name": "VC-SV-B105.3 Taussig",
+          "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "aTZ6IL-lRN-24Qd6EJ8Smw",
       "source_name": "VC-SV-B105.4 Hooke",
       "matches": [
+        {
+          "platform": "neat",
+          "id": 513,
+          "name": "VC-SV-B105.4 Hooke",
+          "score": 1.0
+        },
         {
           "platform": "neat",
           "id": 1460,
@@ -780,15 +794,9 @@
           "id": 555,
           "name": "VC-SV-B105.4 Woodson",
           "score": 0.789
-        },
-        {
-          "platform": "neat",
-          "id": 1868,
-          "name": "VC-SV-B105.4 Curie",
-          "score": 0.778
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -814,7 +822,7 @@
           "score": 0.769
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -835,12 +843,12 @@
         },
         {
           "platform": "neat",
-          "id": 1868,
-          "name": "VC-SV-B105.4 Curie",
+          "id": 513,
+          "name": "VC-SV-B105.4 Hooke",
           "score": 0.714
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -849,24 +857,24 @@
       "matches": [
         {
           "platform": "neat",
-          "id": 1875,
-          "name": "VC-SV-B105.4 NPV Lab",
-          "score": 1.0
-        },
-        {
-          "platform": "neat",
-          "id": 1845,
-          "name": "VC-SV-B105.3 DNA",
-          "score": 0.778
-        },
-        {
-          "platform": "neat",
           "id": 514,
           "name": "VC-SV-B105.4 Satava",
           "score": 0.769
+        },
+        {
+          "platform": "neat",
+          "id": 477,
+          "name": "VC-SV-B105.3 SA",
+          "score": 0.743
+        },
+        {
+          "platform": "neat",
+          "id": 1827,
+          "name": "VC-SV-B105.1 Apgar",
+          "score": 0.737
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -892,7 +900,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -918,7 +926,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -933,9 +941,9 @@
         },
         {
           "platform": "neat",
-          "id": 1845,
-          "name": "VC-SV-B105.3 DNA",
-          "score": 0.778
+          "id": 513,
+          "name": "VC-SV-B105.4 Hooke",
+          "score": 0.789
         },
         {
           "platform": "neat",
@@ -944,7 +952,7 @@
           "score": 0.769
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -970,7 +978,7 @@
           "score": 0.756
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -990,7 +998,7 @@
           "score": 0.756
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1016,7 +1024,7 @@
           "score": 0.969
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1042,7 +1050,7 @@
           "score": 0.969
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1068,7 +1076,59 @@
           "score": 0.969
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
+    },
+    {
+      "source_platform": "zoom",
+      "source_id": "bgZQILIuSBKtoQt0o_E37A",
+      "source_name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
+      "matches": [
+        {
+          "platform": "neat",
+          "id": 769,
+          "name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
+          "score": 1.0
+        },
+        {
+          "platform": "neat",
+          "id": 687,
+          "name": "EQ-SV-B105.3 Stapler 5 3D Printer",
+          "score": 0.725
+        },
+        {
+          "platform": "neat",
+          "id": 770,
+          "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer",
+          "score": 0.714
+        }
+      ],
+      "detected": "2026-09-05T07:43:19+00:00"
+    },
+    {
+      "source_platform": "zoom",
+      "source_id": "RYFF-HY3QDSlvdxvDwL9Zw",
+      "source_name": "EQ-SV-B105.4 Form 3 SLA 3D Printer",
+      "matches": [
+        {
+          "platform": "neat",
+          "id": 770,
+          "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer",
+          "score": 1.0
+        },
+        {
+          "platform": "neat",
+          "id": 687,
+          "name": "EQ-SV-B105.3 Stapler 5 3D Printer",
+          "score": 0.776
+        },
+        {
+          "platform": "neat",
+          "id": 769,
+          "name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
+          "score": 0.743
+        }
+      ],
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1088,7 +1148,7 @@
           "score": 0.792
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1097,24 +1157,24 @@
       "matches": [
         {
           "platform": "neat",
+          "id": 687,
+          "name": "EQ-SV-B105.3 Stapler 5 3D Printer",
+          "score": 0.781
+        },
+        {
+          "platform": "neat",
           "id": 245,
           "name": "EQ-SV-B105.3 Stapler 7 Iron Horse",
           "score": 0.781
         },
         {
           "platform": "neat",
-          "id": 1558,
-          "name": "EQ-SV-B105.2 LPX-Instron",
-          "score": 0.727
-        },
-        {
-          "platform": "neat",
-          "id": 771,
-          "name": "EQ-SV-B105.4 Instron 1kN",
-          "score": 0.727
+          "id": 247,
+          "name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
+          "score": 0.769
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1126,9 +1186,15 @@
           "id": 245,
           "name": "EQ-SV-B105.3 Stapler 7 Iron Horse",
           "score": 0.97
+        },
+        {
+          "platform": "neat",
+          "id": 246,
+          "name": "EQ-SV-B105.3 Stapler 8 Xi System",
+          "score": 0.769
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1137,12 +1203,24 @@
       "matches": [
         {
           "platform": "neat",
+          "id": 246,
+          "name": "EQ-SV-B105.3 Stapler 8 Xi System",
+          "score": 0.969
+        },
+        {
+          "platform": "neat",
           "id": 245,
           "name": "EQ-SV-B105.3 Stapler 7 Iron Horse",
           "score": 0.769
+        },
+        {
+          "platform": "neat",
+          "id": 247,
+          "name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
+          "score": 0.758
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1168,19 +1246,13 @@
           "score": 0.762
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "obijyTJmRciDG5FOAgfF8Q",
       "source_name": "VC-SV-B105.3 David Robinson",
       "matches": [
-        {
-          "platform": "neat",
-          "id": 1124,
-          "name": "VC-SV-B105.3 David Robinson",
-          "score": 1.0
-        },
         {
           "platform": "neat",
           "id": 554,
@@ -1192,9 +1264,15 @@
           "id": 1842,
           "name": "VC-SV-B105.3 Barton",
           "score": 0.739
+        },
+        {
+          "platform": "neat",
+          "id": 1858,
+          "name": "VC-SV-B105.3 Mark Brosius",
+          "score": 0.731
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1220,7 +1298,7 @@
           "score": 0.732
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1241,12 +1319,12 @@
         },
         {
           "platform": "neat",
-          "id": 476,
-          "name": "VC-SV-B105.3 Weibull",
-          "score": 0.744
+          "id": 1857,
+          "name": "VC-SV-B105.3 Marescaux",
+          "score": 0.756
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1272,7 +1350,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1298,7 +1376,7 @@
           "score": 0.756
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1312,7 +1390,7 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1333,12 +1411,12 @@
         },
         {
           "platform": "neat",
-          "id": 1124,
-          "name": "VC-SV-B105.3 David Robinson",
-          "score": 0.769
+          "id": 1842,
+          "name": "VC-SV-B105.3 Barton",
+          "score": 0.727
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1353,18 +1431,18 @@
         },
         {
           "platform": "neat",
-          "id": 1842,
-          "name": "VC-SV-B105.3 Barton",
-          "score": 0.727
+          "id": 1857,
+          "name": "VC-SV-B105.3 Marescaux",
+          "score": 0.766
         },
         {
           "platform": "neat",
-          "id": 1864,
-          "name": "VC-SV-B105.3 Taussig",
-          "score": 0.711
+          "id": 1842,
+          "name": "VC-SV-B105.3 Barton",
+          "score": 0.727
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1378,7 +1456,7 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1398,21 +1476,7 @@
           "score": 0.714
         }
       ],
-      "detected": "2026-09-05T07:35:00+00:00"
-    },
-    {
-      "source_platform": "zoom",
-      "source_id": "W3NQXUajRnirueDAwIjNNQ",
-      "source_name": "Signage-SV-B105.4 NPV Lab",
-      "matches": [
-        {
-          "platform": "neat",
-          "id": 1875,
-          "name": "VC-SV-B105.4 NPV Lab",
-          "score": 0.8
-        }
-      ],
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1426,7 +1490,7 @@
           "score": 0.812
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1440,7 +1504,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1454,7 +1518,7 @@
           "score": 0.919
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1468,7 +1532,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1482,7 +1546,7 @@
           "score": 0.833
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1496,7 +1560,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1510,7 +1574,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1530,7 +1594,7 @@
           "score": 0.75
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1544,7 +1608,7 @@
           "score": 0.87
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1558,7 +1622,7 @@
           "score": 0.786
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1572,7 +1636,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1586,7 +1650,7 @@
           "score": 0.812
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1600,7 +1664,7 @@
           "score": 0.812
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1614,7 +1678,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1628,7 +1692,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1642,7 +1706,7 @@
           "score": 0.842
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1656,7 +1720,7 @@
           "score": 0.75
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1670,7 +1734,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1684,7 +1748,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1698,7 +1762,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1712,7 +1776,7 @@
           "score": 0.857
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1726,7 +1790,7 @@
           "score": 0.812
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1740,7 +1804,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1754,7 +1818,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1768,7 +1832,7 @@
           "score": 0.842
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1782,7 +1846,7 @@
           "score": 0.857
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1796,7 +1860,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1810,7 +1874,7 @@
           "score": 0.731
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1824,7 +1888,7 @@
           "score": 0.731
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1838,7 +1902,7 @@
           "score": 0.812
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1852,7 +1916,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1866,7 +1930,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1880,7 +1944,7 @@
           "score": 0.712
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1894,7 +1958,7 @@
           "score": 0.712
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1908,7 +1972,7 @@
           "score": 0.712
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1922,7 +1986,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1936,7 +2000,7 @@
           "score": 0.875
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1950,7 +2014,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1964,7 +2028,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1978,7 +2042,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1992,7 +2056,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2006,7 +2070,7 @@
           "score": 0.88
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2020,7 +2084,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2034,7 +2098,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2048,7 +2112,7 @@
           "score": 0.885
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2062,7 +2126,7 @@
           "score": 0.718
         }
       ],
-      "detected": "2026-09-05T07:35:01+00:00"
+      "detected": "2026-09-05T07:43:19+00:00"
     }
   ],
   "discrepancies": [
@@ -2072,7 +2136,7 @@
       "platform": "xyte",
       "platform_name": "B105.4 Stapling",
       "platform_id": "198124",
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:18+00:00"
     },
     {
       "uid": "72fc597b-0fa2-41be-a96a-57c500cec29e",
@@ -2080,7 +2144,7 @@
       "platform": "neat",
       "platform_name": "EQ-SV-B105.3 Stapler 4 Chatillon",
       "platform_id": "244",
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:18+00:00"
     },
     {
       "uid": "91c71990-50d2-4c16-9a54-a945cafe366d",
@@ -2088,7 +2152,7 @@
       "platform": "xyte",
       "platform_name": "B105.3 Shark Somayaji",
       "platform_id": "198142",
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:18+00:00"
     },
     {
       "uid": "f743e8e2-8f97-46f1-8a71-1dd7215fcdbf",
@@ -2096,31 +2160,7 @@
       "platform": "xyte",
       "platform_name": "B105.3 Veronica Thralls",
       "platform_id": "198130",
-      "detected": "2026-09-05T07:35:00+00:00"
-    },
-    {
-      "uid": "7cecc12c-7689-483a-9cc7-37c298b59f4d",
-      "canonical_name": "VC-SV-B105.2 Mohs",
-      "platform": "neat",
-      "platform_name": "[DELETED] was 1832",
-      "platform_id": "1832",
-      "detected": "2026-09-05T07:35:00+00:00"
-    },
-    {
-      "uid": "4a8e8e46-97a8-4ec7-ada4-d4c5133b84cb",
-      "canonical_name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
-      "platform": "neat",
-      "platform_name": "[DELETED] was 247",
-      "platform_id": "247",
-      "detected": "2026-09-05T07:35:00+00:00"
-    },
-    {
-      "uid": "12c13611-2b25-43b9-bf06-dd02b18f5108",
-      "canonical_name": "EQ-SV-B105.4 Stapler 5 3D Printer",
-      "platform": "neat",
-      "platform_name": "[DELETED] was 687",
-      "platform_id": "687",
-      "detected": "2026-09-05T07:35:00+00:00"
+      "detected": "2026-09-05T07:43:18+00:00"
     }
   ],
   "create_requests": [],
