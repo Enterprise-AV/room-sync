@@ -1,10 +1,5 @@
 [
   {
-    "id": 1558,
-    "name": "EQ-SV-B105.2 LPX-Instron",
-    "_raw_name": "EQ-SV-B105.2 LPX-Instron"
-  },
-  {
     "id": 1557,
     "name": "EQ-SV-B105.2 LPX-LPD1",
     "_raw_name": "EQ-SV-B105.2 LPX-LPD1"
@@ -13,6 +8,11 @@
     "id": 469,
     "name": "EQ-SV-B105.3 PDE Systems Analy 1",
     "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 1"
+  },
+  {
+    "id": 471,
+    "name": "EQ-SV-B105.3 PDE Systems Analy 4",
+    "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 4"
   },
   {
     "id": 470,
@@ -53,11 +53,6 @@
     "id": 770,
     "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer",
     "_raw_name": "EQ-SV-B105.4 Form 3 SLA 3D Printer"
-  },
-  {
-    "id": 771,
-    "name": "EQ-SV-B105.4 Instron 1kN",
-    "_raw_name": "EQ-SV-B105.4 Instron 1kN"
   },
   {
     "id": 511,
@@ -288,11 +283,6 @@
     "id": 1862,
     "name": "VC-SV-B105.3 Pitter",
     "_raw_name": "VC-SV-B105.3 Pitter"
-  },
-  {
-    "id": 477,
-    "name": "VC-SV-B105.3 SA",
-    "_raw_name": "VC-SV-B105.3 SA"
   },
   {
     "id": 1863,

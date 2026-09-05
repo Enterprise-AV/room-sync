@@ -215,5 +215,26 @@
     "room_name": "",
     "uid": "",
     "details": "Removed 4 duplicate mapping(s)"
+  },
+  {
+    "timestamp": "2026-09-05T07:26:49+00:00",
+    "action": "platform_deleted",
+    "room_name": "VC-SV-B105.4 Stapling",
+    "uid": "2570553a-c9bc-480b-9b52-ef93348b10fc",
+    "details": "neat room/space None no longer exists"
+  },
+  {
+    "timestamp": "2026-09-05T07:26:49+00:00",
+    "action": "platform_deleted",
+    "room_name": "VC-SV-B105.3 Shark Somayaji",
+    "uid": "91c71990-50d2-4c16-9a54-a945cafe366d",
+    "details": "neat room/space None no longer exists"
+  },
+  {
+    "timestamp": "2026-09-05T07:26:49+00:00",
+    "action": "platform_deleted",
+    "room_name": "VC-SV-B105.3 Veronica Thralls",
+    "uid": "f743e8e2-8f97-46f1-8a71-1dd7215fcdbf",
+    "details": "neat room/space None no longer exists"
   }
 ]
