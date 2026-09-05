@@ -257,5 +257,12 @@
     "room_name": "EQ-SV-B105.4 Stapler 5 3D Printer",
     "uid": "12c13611-2b25-43b9-bf06-dd02b18f5108",
     "details": "neat room/space 687 no longer exists"
+  },
+  {
+    "timestamp": "2026-09-05T09:08:02+00:00",
+    "action": "platform_deleted",
+    "room_name": "EQ-SV-B105.3 PDE Systems Analy 7",
+    "uid": "89fa91e4-227a-45d7-bc2c-41fa0db2959f",
+    "details": "neat room/space 472 no longer exists"
   }
 ]

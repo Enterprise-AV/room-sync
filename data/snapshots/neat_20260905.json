@@ -25,11 +25,6 @@
     "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 6"
   },
   {
-    "id": 472,
-    "name": "EQ-SV-B105.3 PDE Systems Analy 7",
-    "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 7"
-  },
-  {
     "id": 244,
     "name": "EQ-SV-B105.3 Stapler 4 Chatillon",
     "_raw_name": "EQ-SV-B105.3 Stapler 4 Chatillon"
@@ -63,11 +58,6 @@
     "id": 771,
     "name": "EQ-SV-B105.4 Instron 1kN",
     "_raw_name": "EQ-SV-B105.4 Instron 1kN"
-  },
-  {
-    "id": 511,
-    "name": "EQ-SV-B105.4 Reliability Lab Neat Board Neatframe NF20C1",
-    "_raw_name": "EQ-SV-B105.4 Reliability Lab Neat Board Neatframe NF20C1"
   },
   {
     "id": 247,
@@ -108,6 +98,11 @@
     "id": 253,
     "name": "VC-SV-B105.1 Sagan",
     "_raw_name": "VC-SV-B105.1 Sagan"
+  },
+  {
+    "id": 545,
+    "name": "VC-SV-B105.2 DB Hallway",
+    "_raw_name": "VC-SV-B105.2 DB Hallway"
   },
   {
     "id": 1830,
@@ -183,6 +178,11 @@
     "id": 474,
     "name": "VC-SV-B105.3 Crick",
     "_raw_name": "VC-SV-B105.3 Crick"
+  },
+  {
+    "id": 1124,
+    "name": "VC-SV-B105.3 David Robinson",
+    "_raw_name": "VC-SV-B105.3 David Robinson"
   },
   {
     "id": 1846,
@@ -310,11 +310,6 @@
     "_raw_name": "VC-SV-B105.3 Wilkins"
   },
   {
-    "id": 1867,
-    "name": "VC-SV-B105.4 Accessories",
-    "_raw_name": "VC-SV-B105.4 Accessories"
-  },
-  {
     "id": 1869,
     "name": "VC-SV-B105.4 Elion",
     "_raw_name": "VC-SV-B105.4 Elion"
@@ -343,11 +338,6 @@
     "id": 1873,
     "name": "VC-SV-B105.4 Jacobaeus",
     "_raw_name": "VC-SV-B105.4 Jacobaeus"
-  },
-  {
-    "id": 1874,
-    "name": "VC-SV-B105.4 Kubler-Ross",
-    "_raw_name": "VC-SV-B105.4 Kubler-Ross"
   },
   {
     "id": 515,

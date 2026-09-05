@@ -24,7 +24,7 @@
           "score": 0.811
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -50,7 +50,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -76,7 +76,7 @@
           "score": 0.757
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -90,13 +90,19 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "ApMVJvdYRieK3jfHv9oRlw",
       "source_name": "VC-SV-B105.2 DB Hallway",
       "matches": [
+        {
+          "platform": "neat",
+          "id": 545,
+          "name": "VC-SV-B105.2 DB Hallway",
+          "score": 1.0
+        },
         {
           "platform": "neat",
           "id": 1841,
@@ -110,7 +116,7 @@
           "score": 0.7
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -136,7 +142,7 @@
           "score": 0.769
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -162,7 +168,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -188,7 +194,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -208,7 +214,7 @@
           "score": 0.745
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -234,7 +240,7 @@
           "score": 0.811
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -260,7 +266,7 @@
           "score": 0.821
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -286,7 +292,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -312,7 +318,7 @@
           "score": 0.833
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -338,7 +344,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -364,7 +370,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -390,7 +396,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -416,7 +422,7 @@
           "score": 0.778
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -442,7 +448,7 @@
           "score": 0.737
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -468,7 +474,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -494,7 +500,7 @@
           "score": 0.811
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -520,7 +526,7 @@
           "score": 0.766
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -534,7 +540,7 @@
           "score": 0.706
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -548,7 +554,7 @@
           "score": 0.706
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -562,7 +568,7 @@
           "score": 0.706
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -588,7 +594,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -614,7 +620,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -640,7 +646,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -666,19 +672,13 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "W7BkXqcKS1SFr5P4iuS36Q",
       "source_name": "VC-SV-B105.4 Accessories",
       "matches": [
-        {
-          "platform": "neat",
-          "id": 1867,
-          "name": "VC-SV-B105.4 Accessories",
-          "score": 1.0
-        },
         {
           "platform": "neat",
           "id": 1460,
@@ -690,9 +690,15 @@
           "id": 1871,
           "name": "VC-SV-B105.4 Fauci",
           "score": 0.762
+        },
+        {
+          "platform": "neat",
+          "id": 1826,
+          "name": "VC-SV-B105.1 Alcorn",
+          "score": 0.744
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -718,7 +724,7 @@
           "score": 0.833
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -744,7 +750,7 @@
           "score": 0.769
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -770,7 +776,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -796,7 +802,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -811,30 +817,24 @@
         },
         {
           "platform": "neat",
-          "id": 1867,
-          "name": "VC-SV-B105.4 Accessories",
-          "score": 0.783
-        },
-        {
-          "platform": "neat",
           "id": 1460,
           "name": "VC-SV-B105.3 Core",
           "score": 0.769
+        },
+        {
+          "platform": "neat",
+          "id": 1831,
+          "name": "VC-SV-B105.2 Lacks",
+          "score": 0.75
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "eilaCLAjQEq_-vrlWTMWmA",
       "source_name": "VC-SV-B105.4 Kubler-Ross",
       "matches": [
-        {
-          "platform": "neat",
-          "id": 1874,
-          "name": "VC-SV-B105.4 Kubler-Ross",
-          "score": 1.0
-        },
         {
           "platform": "neat",
           "id": 1858,
@@ -848,7 +848,7 @@
           "score": 0.714
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -874,7 +874,7 @@
           "score": 0.737
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -900,7 +900,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -926,7 +926,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -952,7 +952,7 @@
           "score": 0.769
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -978,7 +978,7 @@
           "score": 0.756
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -998,7 +998,7 @@
           "score": 0.756
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1024,7 +1024,7 @@
           "score": 0.969
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1050,7 +1050,7 @@
           "score": 0.969
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1076,7 +1076,7 @@
           "score": 0.969
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1102,7 +1102,7 @@
           "score": 0.714
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1128,7 +1128,7 @@
           "score": 0.743
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1148,7 +1148,7 @@
           "score": 0.792
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1174,7 +1174,7 @@
           "score": 0.769
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1194,7 +1194,7 @@
           "score": 0.769
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1220,7 +1220,7 @@
           "score": 0.758
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1246,13 +1246,19 @@
           "score": 0.762
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "obijyTJmRciDG5FOAgfF8Q",
       "source_name": "VC-SV-B105.3 David Robinson",
       "matches": [
+        {
+          "platform": "neat",
+          "id": 1124,
+          "name": "VC-SV-B105.3 David Robinson",
+          "score": 1.0
+        },
         {
           "platform": "neat",
           "id": 554,
@@ -1264,15 +1270,9 @@
           "id": 1842,
           "name": "VC-SV-B105.3 Barton",
           "score": 0.739
-        },
-        {
-          "platform": "neat",
-          "id": 1858,
-          "name": "VC-SV-B105.3 Mark Brosius",
-          "score": 0.731
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1298,7 +1298,7 @@
           "score": 0.732
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1324,7 +1324,7 @@
           "score": 0.756
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1350,7 +1350,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1376,7 +1376,7 @@
           "score": 0.756
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1390,7 +1390,7 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1411,12 +1411,12 @@
         },
         {
           "platform": "neat",
-          "id": 1842,
-          "name": "VC-SV-B105.3 Barton",
-          "score": 0.727
+          "id": 1124,
+          "name": "VC-SV-B105.3 David Robinson",
+          "score": 0.769
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1442,7 +1442,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1456,7 +1456,7 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1476,7 +1476,7 @@
           "score": 0.714
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1490,7 +1490,7 @@
           "score": 0.812
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1504,7 +1504,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1518,7 +1518,7 @@
           "score": 0.919
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1532,7 +1532,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1546,7 +1546,7 @@
           "score": 0.833
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1560,7 +1560,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1574,7 +1574,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1594,7 +1594,7 @@
           "score": 0.75
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1608,7 +1608,7 @@
           "score": 0.87
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1622,7 +1622,7 @@
           "score": 0.786
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1636,7 +1636,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1650,7 +1650,7 @@
           "score": 0.812
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1664,7 +1664,7 @@
           "score": 0.812
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1678,7 +1678,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1692,7 +1692,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1706,7 +1706,7 @@
           "score": 0.842
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1720,7 +1720,7 @@
           "score": 0.75
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1734,7 +1734,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1748,7 +1748,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1762,7 +1762,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1776,7 +1776,7 @@
           "score": 0.857
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1790,7 +1790,7 @@
           "score": 0.812
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1804,7 +1804,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1818,7 +1818,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1832,7 +1832,7 @@
           "score": 0.842
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1846,7 +1846,7 @@
           "score": 0.857
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1860,7 +1860,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1874,7 +1874,7 @@
           "score": 0.731
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1888,7 +1888,7 @@
           "score": 0.731
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1902,7 +1902,7 @@
           "score": 0.812
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1916,7 +1916,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1930,7 +1930,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1944,7 +1944,7 @@
           "score": 0.712
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1958,7 +1958,7 @@
           "score": 0.712
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1972,7 +1972,7 @@
           "score": 0.712
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1986,7 +1986,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2000,7 +2000,7 @@
           "score": 0.875
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2014,7 +2014,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2028,7 +2028,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2042,7 +2042,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2056,7 +2056,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2070,7 +2070,7 @@
           "score": 0.88
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2084,7 +2084,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2098,7 +2098,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2112,7 +2112,7 @@
           "score": 0.885
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "source_platform": "zoom",
@@ -2126,7 +2126,7 @@
           "score": 0.718
         }
       ],
-      "detected": "2026-09-05T07:43:19+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     }
   ],
   "discrepancies": [
@@ -2136,7 +2136,7 @@
       "platform": "xyte",
       "platform_name": "B105.4 Stapling",
       "platform_id": "198124",
-      "detected": "2026-09-05T07:43:18+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "uid": "72fc597b-0fa2-41be-a96a-57c500cec29e",
@@ -2144,7 +2144,7 @@
       "platform": "neat",
       "platform_name": "EQ-SV-B105.3 Stapler 4 Chatillon",
       "platform_id": "244",
-      "detected": "2026-09-05T07:43:18+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "uid": "91c71990-50d2-4c16-9a54-a945cafe366d",
@@ -2152,7 +2152,7 @@
       "platform": "xyte",
       "platform_name": "B105.3 Shark Somayaji",
       "platform_id": "198142",
-      "detected": "2026-09-05T07:43:18+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
     },
     {
       "uid": "f743e8e2-8f97-46f1-8a71-1dd7215fcdbf",
@@ -2160,7 +2160,15 @@
       "platform": "xyte",
       "platform_name": "B105.3 Veronica Thralls",
       "platform_id": "198130",
-      "detected": "2026-09-05T07:43:18+00:00"
+      "detected": "2026-09-05T09:08:02+00:00"
+    },
+    {
+      "uid": "89fa91e4-227a-45d7-bc2c-41fa0db2959f",
+      "canonical_name": "EQ-SV-B105.3 PDE Systems Analy 7",
+      "platform": "neat",
+      "platform_name": "[DELETED] was 472",
+      "platform_id": "472",
+      "detected": "2026-09-05T09:08:02+00:00"
     }
   ],
   "create_requests": [],
