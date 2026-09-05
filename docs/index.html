@@ -35,7 +35,8 @@
   <!-- Gated content: hidden until auth verified -->
   <div id="gated-content" class="content" style="display:none;">
     <h1>Room Sync Dashboard</h1>
-    <div class="updated" id="last-sync">Loading...</div>
+    <div class="updated" id="last-sync" style="display:inline;">Loading...</div>
+    <button class="btn btn-outline" onclick="triggerSync()" id="sync-btn" style="margin-left:12px; padding:4px 14px; font-size:13px;">Run Sync</button>
 
     <!-- Summary cards -->
     <div class="cards" id="summary-cards">

@@ -467,6 +467,36 @@ async function approveDiscrepancy(index) {
   }
 }
 
+async function triggerSync() {
+  if (!isAuthenticated()) {
+    alert('Please sign in with GitHub first.');
+    return;
+  }
+  const btn = document.getElementById('sync-btn');
+  if (btn) { btn.disabled = true; btn.textContent = 'Syncing...'; }
+
+  const resp = await fetch(
+    `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/actions/workflows/nightly-sync.yml/dispatches`,
+    {
+      method: 'POST',
+      headers: {
+        'Authorization': `token ${getToken()}`,
+        'Accept': 'application/vnd.github.v3+json',
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ ref: 'main' }),
+    }
+  );
+
+  if (resp.status === 204) {
+    if (btn) btn.textContent = 'Sync started';
+    alert('Sync workflow dispatched. It takes about 6 minutes. Refresh the page afterwards to see updated data.');
+  } else {
+    if (btn) { btn.disabled = false; btn.textContent = 'Run Sync'; }
+    alert('Failed to dispatch sync workflow.');
+  }
+}
+
 async function acceptSuggestion(sourceId, targetId, targetPlatform) {
   const payload = [{
     zoom_id: sourceId,
