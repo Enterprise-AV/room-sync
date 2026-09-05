@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T06:02:20+00:00",
+  "last_sync": "2026-09-05T06:02:45+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -281,6 +281,16 @@
       "location": "",
       "created": "2026-09-05T06:02:20+00:00",
       "last_verified": "2026-09-05T06:02:20+00:00"
+    },
+    "91c71990-50d2-4c16-9a54-a945cafe366d": {
+      "canonical_name": "VC-SV-B105.3 Shark Somayaji",
+      "zoom_room_id": "Ouvy7SjzStqttmA1SZHNAQ",
+      "neat_room_id": null,
+      "xyte_space_id": "198142",
+      "xyte_device_ids": [],
+      "location": "",
+      "created": "2026-09-05T06:02:45+00:00",
+      "last_verified": "2026-09-05T06:02:45+00:00"
     }
   },
   "unmapped_zoom": [
