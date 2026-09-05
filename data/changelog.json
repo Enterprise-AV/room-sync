@@ -341,5 +341,12 @@
     "room_name": "VC-SV-B105.4 Satava",
     "uid": "9ca4bbfa-e221-4e93-b9b9-be6cb3e74cf4",
     "details": "Mapped: zoom=OrpNDT-SQZe7fzGzPRT-xQ, neat=514, xyte=None"
+  },
+  {
+    "timestamp": "2026-09-05T16:03:17+00:00",
+    "action": "mapping_approved",
+    "room_name": "EQ-SV-B105.2 LPX-Instron",
+    "uid": "c06156be-a456-42b6-bed6-c5c41f13311e",
+    "details": "Mapped: zoom=iluFljtbRqSwOy8CrHoPWA, neat=1558, xyte=None"
   }
 ]
