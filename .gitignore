@@ -11,3 +11,5 @@ venv/
 node_modules/
 .wrangler/
 _set_secrets.py
+_debug_*.py
+data/snapshots/raw/

@@ -34,12 +34,47 @@ def load_locations_config() -> dict:
         return json.load(f)
 
 
+# Fields to strip from snapshots before committing to git.
+# Raw snapshots (with all fields) are uploaded as workflow artifacts.
+_SENSITIVE_FIELDS = {
+    "activation_code", "tag_ids", "device_key", "dec",
+    "enrollmentCode", "activationCode", "sn", "macAddress",
+    "ip", "ipAddress",
+}
+
+
+def _strip_sensitive(records: list) -> list:
+    """Return a copy of *records* with sensitive fields removed."""
+    clean = []
+    for rec in records:
+        if isinstance(rec, dict):
+            clean.append({k: v for k, v in rec.items() if k not in _SENSITIVE_FIELDS})
+        else:
+            clean.append(rec)
+    return clean
+
+
 def _save_snapshot(platform: str, data):
-    """Write a nightly snapshot file."""
+    """Write a sanitized snapshot (no activation codes, no serial numbers).
+
+    The raw snapshot with all fields is saved separately for upload as
+    a workflow artifact (not committed to git).
+    """
     snap_dir = os.path.join(DATA_DIR, "snapshots")
     os.makedirs(snap_dir, exist_ok=True)
+
+    # Sanitized version (committed to git)
+    sanitized = _strip_sensitive(data) if isinstance(data, list) else data
     path = os.path.join(snap_dir, f"{platform}_{_today()}.json")
     with open(path, "w", encoding="utf-8") as f:
+        json.dump(sanitized, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+
+    # Raw version (uploaded as workflow artifact, never committed)
+    raw_dir = os.path.join(DATA_DIR, "snapshots", "raw")
+    os.makedirs(raw_dir, exist_ok=True)
+    raw_path = os.path.join(raw_dir, f"{platform}_{_today()}.json")
+    with open(raw_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
         f.write("\n")
 

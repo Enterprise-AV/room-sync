@@ -31,10 +31,19 @@ jobs:
           XYTE_API_KEY: ${{ secrets.XYTE_API_KEY }}
           XYTE_ORG_ID: ${{ secrets.XYTE_ORG_ID }}
 
-      - name: Commit data changes
+      - name: Upload raw snapshots as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-snapshots-${{ github.run_id }}
+          path: data/snapshots/raw/
+          retention-days: 90
+
+      - name: Commit sanitized data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          # Only commit sanitized snapshots (raw/ is gitignored)
+          git add data/ --ignore-errors
           git diff --cached --quiet || git commit -m "Nightly sync $(date -u +%Y-%m-%d)"
           git push
