@@ -15,8 +15,8 @@
  */
 
 // Configuration — update these after creating the OAuth App and Worker
-const OAUTH_CLIENT_ID = '';       // GitHub OAuth App client ID
-const OAUTH_WORKER_URL = '';      // Cloudflare Worker callback URL
+const OAUTH_CLIENT_ID = 'Ov23lin9PJWWmipdJ4kS';
+const OAUTH_WORKER_URL = 'https://room-sync-oauth.abarquezj.workers.dev';
 const GITHUB_ORG = 'Enterprise-AV';
 const REPO_OWNER = 'Enterprise-AV';
 const REPO_NAME = 'room-sync';
