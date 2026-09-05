@@ -467,11 +467,14 @@ async function approveDiscrepancy(index) {
   }
 }
 
+let syncInProgress = false;
 async function triggerSync() {
+  if (syncInProgress) return;
   if (!isAuthenticated()) {
     alert('Please sign in with GitHub first.');
     return;
   }
+  syncInProgress = true;
   const btn = document.getElementById('sync-btn');
   if (btn) { btn.disabled = true; btn.textContent = 'Syncing...'; }
 
@@ -490,8 +493,9 @@ async function triggerSync() {
 
   if (resp.status === 204) {
     if (btn) btn.textContent = 'Sync started';
-    alert('Sync workflow dispatched. It takes about 6 minutes. Refresh the page afterwards to see updated data.');
+    alert('Sync workflow dispatched. Refresh the page in a few minutes to see updated data.');
   } else {
+    syncInProgress = false;
     if (btn) { btn.disabled = false; btn.textContent = 'Run Sync'; }
     alert('Failed to dispatch sync workflow.');
   }

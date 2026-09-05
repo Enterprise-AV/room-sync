@@ -159,6 +159,12 @@ def reconcile(zoom: ZoomClient, neat: NeatClient, xyte: XyteClient,
     pending["suggestions"] = []
     pending["discrepancies"] = []
 
+    # Sanitize "None" strings left by repair scripts
+    for room in data["rooms"].values():
+        for key in ("zoom_room_id", "neat_room_id", "xyte_space_id"):
+            if room.get(key) == "None":
+                room[key] = None
+
     # -- Deduplicate mappings (merge duplicates sharing the same zoom_room_id) --
     seen_zoom = {}  # zoom_room_id -> uid of first occurrence
     dup_uids = []
@@ -263,12 +269,12 @@ def reconcile(zoom: ZoomClient, neat: NeatClient, xyte: XyteClient,
             })
             stats["discrepancies"] += 1
 
-        # Detect deleted rooms
-        if zoom_id and zoom_id not in zoom_by_id:
+        # Detect deleted rooms (skip "None" string from repair artifacts)
+        if zoom_id and zoom_id != "None" and str(zoom_id) not in zoom_by_id:
             stale_uids.append((uid, "zoom"))
-        if neat_id and neat_id not in neat_by_id:
+        if neat_id and neat_id != "None" and str(neat_id) not in neat_by_id:
             stale_uids.append((uid, "neat"))
-        if xyte_id and xyte_id not in xyte_by_id:
+        if xyte_id and xyte_id != "None" and str(xyte_id) not in xyte_by_id:
             stale_uids.append((uid, "xyte"))
 
     # -- Handle stale (deleted) platform rooms ------------------------------
