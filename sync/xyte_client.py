@@ -10,8 +10,11 @@ import os
 import time
 
 import requests
+from requests.exceptions import ReadTimeout, ConnectionError
 
 XYTE_BASE_URL = "https://hub.xyte.io/core/v1/organization"
+_MAX_RETRIES = 3
+_RETRY_DELAY = 5  # seconds
 
 
 class XyteClient:
@@ -28,16 +31,28 @@ class XyteClient:
 
     # -- Spaces ----------------------------------------------------------
 
+    def _get(self, url, **kwargs):
+        """GET with retry on transient errors."""
+        kwargs.setdefault("timeout", 90)
+        kwargs.setdefault("headers", self._headers())
+        for attempt in range(1, _MAX_RETRIES + 1):
+            try:
+                resp = requests.get(url, **kwargs)
+                resp.raise_for_status()
+                return resp
+            except (ReadTimeout, ConnectionError) as e:
+                if attempt == _MAX_RETRIES:
+                    raise
+                print(f"    [retry {attempt}/{_MAX_RETRIES}] {e}")
+                time.sleep(_RETRY_DELAY * attempt)
+
     def list_spaces(self, parent_id) -> list:
         """Return direct child spaces under *parent_id*."""
         parent_id = int(parent_id)
-        resp = requests.get(
+        resp = self._get(
             f"{XYTE_BASE_URL}/spaces",
-            headers=self._headers(),
             params={"parent_id": parent_id},
-            timeout=30,
         )
-        resp.raise_for_status()
         return [
             item for item in resp.json().get("items", [])
             if item.get("parent_id") == parent_id
