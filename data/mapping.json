@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T06:01:11+00:00",
+  "last_sync": "2026-09-05T06:01:23+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -231,6 +231,16 @@
       "location": "",
       "created": "2026-09-05T06:01:11+00:00",
       "last_verified": "2026-09-05T06:01:11+00:00"
+    },
+    "4a8e8e46-97a8-4ec7-ada4-d4c5133b84cb": {
+      "canonical_name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
+      "zoom_room_id": "wrbVhAXvSRKLGXr1pyOsgA",
+      "neat_room_id": "247",
+      "xyte_space_id": null,
+      "xyte_device_ids": [],
+      "location": "",
+      "created": "2026-09-05T06:01:23+00:00",
+      "last_verified": "2026-09-05T06:01:23+00:00"
     }
   },
   "unmapped_zoom": [
