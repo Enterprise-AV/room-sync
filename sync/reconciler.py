@@ -155,6 +155,10 @@ def reconcile(zoom: ZoomClient, neat: NeatClient, xyte: XyteClient,
     changelog = mp.load_changelog()
     pending = mp.load_pending()
 
+    # Clear stale suggestions and discrepancies — regenerated fresh each sync
+    pending["suggestions"] = []
+    pending["discrepancies"] = []
+
     # -- Deduplicate mappings (merge duplicates sharing the same zoom_room_id) --
     seen_zoom = {}  # zoom_room_id -> uid of first occurrence
     dup_uids = []
