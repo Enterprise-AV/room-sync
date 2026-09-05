@@ -5,7 +5,7 @@
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
       "zoom_room_id": "joY-ZoMNRTadWRfSz6Rbdg",
-      "neat_room_id": null,
+      "neat_room_id": "1863",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -15,7 +15,7 @@
     "d89c5112-9c4b-435d-8378-b09d2a4ece59": {
       "canonical_name": "VC-SV-B105.1 Al Qassimi",
       "zoom_room_id": "4Ya2-sGZTAGqZYM172YTUw",
-      "neat_room_id": null,
+      "neat_room_id": "1825",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -25,7 +25,7 @@
     "f8275b30-2335-4798-8c56-b47ea5b4c4e0": {
       "canonical_name": "Lab-SV-B105.2 Global Labeling Lab",
       "zoom_room_id": "wCuYZn8qR1uScSNkyMaxXg",
-      "neat_room_id": null,
+      "neat_room_id": "468",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -35,7 +35,7 @@
     "3c5d5dd3-7c95-474c-a374-888d7834cc51": {
       "canonical_name": "VC-SV-B105.2 Whipple",
       "zoom_room_id": "-upr6LThSC-ps2NQzo1Q-g",
-      "neat_room_id": null,
+      "neat_room_id": "1839",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -45,8 +45,8 @@
     "2570553a-c9bc-480b-9b52-ef93348b10fc": {
       "canonical_name": "VC-SV-B105.4 Stapling",
       "zoom_room_id": "QyvEvOo-SKqB01fd5txaZA",
-      "neat_room_id": null,
-      "xyte_space_id": null,
+      "neat_room_id": "None",
+      "xyte_space_id": "198124",
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:54:40+00:00",
@@ -55,7 +55,7 @@
     "94431f3c-e666-4cff-a28a-352f7a39ace1": {
       "canonical_name": "VC-SV-B105.1 Bath",
       "zoom_room_id": "xyiyF_l-Sg-2uKdYyhaopg",
-      "neat_room_id": null,
+      "neat_room_id": "1828",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -65,7 +65,7 @@
     "3ebfa544-e8f6-49f2-879b-b70ff7e415f2": {
       "canonical_name": "VC-SV-B105.1 Sagan",
       "zoom_room_id": "tvo-61OHSealsd4EuD_Sjg",
-      "neat_room_id": null,
+      "neat_room_id": "253",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -75,7 +75,7 @@
     "7cecc12c-7689-483a-9cc7-37c298b59f4d": {
       "canonical_name": "VC-SV-B105.2 Mohs",
       "zoom_room_id": "w8GmMluHRjuK7SlSPwt-jw",
-      "neat_room_id": null,
+      "neat_room_id": "1832",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -85,7 +85,7 @@
     "f8dc67b0-cf1d-438f-bef7-2d46de23cb1d": {
       "canonical_name": "VC-SV-B105.2 Shurer",
       "zoom_room_id": "0M8upCSfRU2f1ZGUFf0Lgg",
-      "neat_room_id": null,
+      "neat_room_id": "1838",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -95,7 +95,7 @@
     "ca42d4a7-cf62-45f6-b359-ee9d7a5d0978": {
       "canonical_name": "VC-SV-B105.3 Byers",
       "zoom_room_id": "bgNvwg5DQCqtIQZSzVgQbg",
-      "neat_room_id": null,
+      "neat_room_id": "1843",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -105,7 +105,7 @@
     "4632dd5f-9a01-4425-9d0a-f38479c8e628": {
       "canonical_name": "VC-SV-B105.3 Elders",
       "zoom_room_id": "J5W_n43hRmGzH1KLsy2tQg",
-      "neat_room_id": null,
+      "neat_room_id": "1847",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -115,7 +115,7 @@
     "8dc155f8-ab69-4954-99a6-6e01df657a33": {
       "canonical_name": "VC-SV-B105.3 Hawking",
       "zoom_room_id": "MKP8VnOLSIOmCigON4iQmg",
-      "neat_room_id": null,
+      "neat_room_id": "1849",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -125,7 +125,7 @@
     "748d473a-cb89-4213-a2d3-2c0c597165bd": {
       "canonical_name": "VC-SV-B105.3 Pitter",
       "zoom_room_id": "mnWQ8B9wQ-qpH0eBXgaShw",
-      "neat_room_id": null,
+      "neat_room_id": "1862",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -135,7 +135,7 @@
     "77763570-cea6-44e9-a2d7-50fb81b84a30": {
       "canonical_name": "VC-SV-B105.3 Thomas",
       "zoom_room_id": "a-W7UKQ3TNiWWKsNwb0mcA",
-      "neat_room_id": null,
+      "neat_room_id": "1865",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -145,7 +145,7 @@
     "1376d0d0-e652-42d5-a123-bffcb2533e40": {
       "canonical_name": "VC-SV-B105.4 Elion",
       "zoom_room_id": "LZs-t0rLTgeXVhhXeypLDw",
-      "neat_room_id": null,
+      "neat_room_id": "1869",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -155,7 +155,7 @@
     "0e5aba82-536b-4609-8e53-baf5e74776ab": {
       "canonical_name": "VC-SV-B105.4 Gray",
       "zoom_room_id": "EikvWIOHT4et6Hl-Bdauqw",
-      "neat_room_id": null,
+      "neat_room_id": "1872",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -165,7 +165,7 @@
     "0bfe7e83-d2ca-42e1-8e52-1ca93ea69a8a": {
       "canonical_name": "VC-SV-B105.4 Project Room 4061",
       "zoom_room_id": "pKp_yx5hTfawQZRU6_Ejzg",
-      "neat_room_id": null,
+      "neat_room_id": "515",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -175,7 +175,7 @@
     "89fa91e4-227a-45d7-bc2c-41fa0db2959f": {
       "canonical_name": "EQ-SV-B105.3 PDE Systems Analy 7",
       "zoom_room_id": "lc7lIJbqSBerB96324OXkQ",
-      "neat_room_id": null,
+      "neat_room_id": "472",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -185,7 +185,7 @@
     "582712d6-d454-4cbd-a728-d010b24f8d03": {
       "canonical_name": "VC-SV-B105.4 Scheinman",
       "zoom_room_id": "aFB3K9VNQQu-fa4VjhPxEw",
-      "neat_room_id": null,
+      "neat_room_id": "516",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -195,7 +195,7 @@
     "4a8e8e46-97a8-4ec7-ada4-d4c5133b84cb": {
       "canonical_name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
       "zoom_room_id": "wrbVhAXvSRKLGXr1pyOsgA",
-      "neat_room_id": null,
+      "neat_room_id": "247",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -205,7 +205,7 @@
     "72fc597b-0fa2-41be-a96a-57c500cec29e": {
       "canonical_name": "EQ-SV-B105.4 Stapler 4 Chatillon",
       "zoom_room_id": "aTX34BXgRKWsc_63oXvlTQ",
-      "neat_room_id": null,
+      "neat_room_id": "244",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -215,7 +215,7 @@
     "12c13611-2b25-43b9-bf06-dd02b18f5108": {
       "canonical_name": "EQ-SV-B105.4 Stapler 5 3D Printer",
       "zoom_room_id": "j3j2FlYjQfaIzi9GYXl-7w",
-      "neat_room_id": null,
+      "neat_room_id": "687",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -225,7 +225,7 @@
     "60c8a246-ec7b-4b71-96b0-050da592bd63": {
       "canonical_name": "VC-SV-B105.3 Chris Cappello",
       "zoom_room_id": "3v0hNoJeSqKucvyevjlFAg",
-      "neat_room_id": null,
+      "neat_room_id": "473",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -235,7 +235,7 @@
     "f46e5778-0b00-40ab-a79d-ad54dacd118a": {
       "canonical_name": "VC-SV-B105.3 Joshua Chaidez",
       "zoom_room_id": "6E2x0WPTQIedFe-7K1GbVw",
-      "neat_room_id": null,
+      "neat_room_id": "1853",
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
@@ -245,8 +245,8 @@
     "91c71990-50d2-4c16-9a54-a945cafe366d": {
       "canonical_name": "VC-SV-B105.3 Shark Somayaji",
       "zoom_room_id": "Ouvy7SjzStqttmA1SZHNAQ",
-      "neat_room_id": null,
-      "xyte_space_id": null,
+      "neat_room_id": "None",
+      "xyte_space_id": "198142",
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:45+00:00",
@@ -255,8 +255,8 @@
     "f743e8e2-8f97-46f1-8a71-1dd7215fcdbf": {
       "canonical_name": "VC-SV-B105.3 Veronica Thralls",
       "zoom_room_id": "sVkFfj-zQDCtSYZKY1ueaw",
-      "neat_room_id": null,
-      "xyte_space_id": null,
+      "neat_room_id": "None",
+      "xyte_space_id": "198130",
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:58+00:00",
