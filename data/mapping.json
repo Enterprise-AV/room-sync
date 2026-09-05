@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T06:01:42+00:00",
+  "last_sync": "2026-09-05T06:01:54+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -251,6 +251,16 @@
       "location": "",
       "created": "2026-09-05T06:01:42+00:00",
       "last_verified": "2026-09-05T06:01:42+00:00"
+    },
+    "12c13611-2b25-43b9-bf06-dd02b18f5108": {
+      "canonical_name": "EQ-SV-B105.4 Stapler 5 3D Printer",
+      "zoom_room_id": "j3j2FlYjQfaIzi9GYXl-7w",
+      "neat_room_id": "687",
+      "xyte_space_id": null,
+      "xyte_device_ids": [],
+      "location": "",
+      "created": "2026-09-05T06:01:54+00:00",
+      "last_verified": "2026-09-05T06:01:54+00:00"
     }
   },
   "unmapped_zoom": [
