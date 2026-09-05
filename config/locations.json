@@ -4,9 +4,18 @@
   "locations": [
     {
       "name": "B105",
-      "zoom_location_ids": [],
-      "neat_location_id": "",
-      "xyte_building_space_id": ""
+      "zoom_location_ids": [
+        "FeATtHCJSM6Zey-gWshDeg",
+        "p2gFZgt5TDacVtgkTtBJlg",
+        "5SkwNAZXRrW_jGS3hrp3qg",
+        "QPmq97CQSp2lHaYvZvplSg",
+        "40nIBoUESDaYal5YdN29cQ",
+        "EknfZjXfTEuoT8CuLbh84Q",
+        "Q3jjDwcuRBmkIJwH_0HVDA",
+        "7xgyQxCORaGtvEKRcJpLjQ"
+      ],
+      "neat_location_id": "24",
+      "xyte_building_space_id": "47060"
     }
   ]
 }

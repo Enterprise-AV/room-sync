@@ -10,3 +10,4 @@ _site/
 venv/
 node_modules/
 .wrangler/
+_set_secrets.py
