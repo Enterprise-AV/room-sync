@@ -299,5 +299,12 @@
     "room_name": "VC-SV-B105.2 DB Hallway",
     "uid": "9d80d8b0-89f9-49d7-9a20-f9688a795a4b",
     "details": "Mapped: zoom=ApMVJvdYRieK3jfHv9oRlw, neat=545, xyte=None"
+  },
+  {
+    "timestamp": "2026-09-05T16:02:12+00:00",
+    "action": "mapping_approved",
+    "room_name": "VC-SV-B105.3 Advanced Energy Lab",
+    "uid": "6a816446-056a-4479-af74-3082e5b17234",
+    "details": "Mapped: zoom=MELzEXeQSbqcqB1bGr4YCQ, neat=1840, xyte=None"
   }
 ]
