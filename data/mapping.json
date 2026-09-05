@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T16:02:22+00:00",
+  "last_sync": "2026-09-05T16:02:36+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -331,6 +331,16 @@
       "location": "",
       "created": "2026-09-05T16:02:22+00:00",
       "last_verified": "2026-09-05T16:02:22+00:00"
+    },
+    "ccddf026-9913-4284-ad3f-5d569374af59": {
+      "canonical_name": "VC-SV-B105.3 Energy",
+      "zoom_room_id": "BtQjG7fbSyeOUCYPMgADyQ",
+      "neat_room_id": "475",
+      "xyte_space_id": null,
+      "xyte_device_ids": [],
+      "location": "",
+      "created": "2026-09-05T16:02:36+00:00",
+      "last_verified": "2026-09-05T16:02:36+00:00"
     }
   },
   "unmapped_zoom": [
