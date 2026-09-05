@@ -369,5 +369,12 @@
     "room_name": "VC-SV-B105.3 Jeff Tessier",
     "uid": "e4ce3066-6ea1-4d36-bb6b-bc719c55ff99",
     "details": "Mapped: zoom=mHmLU1GdQEaWJCwj0mjRFg, neat=1851, xyte=None"
+  },
+  {
+    "timestamp": "2026-09-05T16:05:09+00:00",
+    "action": "mapping_approved",
+    "room_name": "EQ-SV-B105.4 Stapler 8 Xi System",
+    "uid": "c66dbe3c-2ef8-4d7c-83e4-374436632731",
+    "details": "Mapped: zoom=bANjl3HNTNGAf1JSCUX2mA, neat=246, xyte=None"
   }
 ]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T16:03:53+00:00",
+  "last_sync": "2026-09-05T16:05:09+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -411,6 +411,16 @@
       "location": "",
       "created": "2026-09-05T16:03:53+00:00",
       "last_verified": "2026-09-05T16:03:53+00:00"
+    },
+    "c66dbe3c-2ef8-4d7c-83e4-374436632731": {
+      "canonical_name": "EQ-SV-B105.4 Stapler 8 Xi System",
+      "zoom_room_id": "bANjl3HNTNGAf1JSCUX2mA",
+      "neat_room_id": "246",
+      "xyte_space_id": null,
+      "xyte_device_ids": [],
+      "location": "",
+      "created": "2026-09-05T16:05:09+00:00",
+      "last_verified": "2026-09-05T16:05:09+00:00"
     }
   },
   "unmapped_zoom": [
