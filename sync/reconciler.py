@@ -214,10 +214,12 @@ def reconcile(zoom: ZoomClient, neat: NeatClient, xyte: XyteClient,
 
     unmapped_zoom = [r for r in zoom_rooms if r["id"] not in mapped_zoom_ids]
     unmapped_neat = [r for r in neat_rooms if r["id"] not in mapped_neat_ids]
-    # Only consider leaf Xyte spaces (rooms), not building/floor containers
+    # Only consider leaf Xyte spaces (rooms), not floor containers.
+    # When walking from a building, rooms are at depth 1 (floor/room).
+    # When walking from the org root, rooms are at depth 2 (building/floor/room).
     unmapped_xyte = [s for s in xyte_spaces
                      if s["id"] not in mapped_xyte_ids
-                     and s.get("_path", "").count("/") >= 2]
+                     and s.get("_path", "").count("/") >= 1]
 
     data["unmapped_zoom"] = [{"id": r["id"], "name": r.get("name", "")} for r in unmapped_zoom]
     data["unmapped_neat"] = [{"id": r["id"], "name": r.get("name", "")} for r in unmapped_neat]
