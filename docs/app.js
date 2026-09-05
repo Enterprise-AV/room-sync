@@ -12,6 +12,21 @@ let pendingData = null;
 let changelogData = null;
 let locationsData = null;
 
+// Track rooms approved in this session so they're hidden immediately.
+// Stored as Sets of "platform:id" strings (e.g. "neat:1825", "zoom:abc123").
+function getApprovedIds() {
+  try {
+    return new Set(JSON.parse(sessionStorage.getItem('approved_ids') || '[]'));
+  } catch { return new Set(); }
+}
+
+function markApproved(sourceId, targetId, targetPlatform) {
+  const ids = getApprovedIds();
+  ids.add(`zoom:${sourceId}`);
+  ids.add(`${targetPlatform}:${targetId}`);
+  sessionStorage.setItem('approved_ids', JSON.stringify([...ids]));
+}
+
 // -- Data loading -------------------------------------------------------
 
 async function fetchJSON(path) {
@@ -140,17 +155,40 @@ function renderSuggestions() {
   const body = document.getElementById('suggestions-body');
   if (!body || !pendingData) return;
 
-  const sugs = pendingData.suggestions || [];
+  const allSugs = pendingData.suggestions || [];
+  const approved = getApprovedIds();
+
+  // Filter out suggestions where the source or best match has been approved
+  const sugs = allSugs.filter(s => {
+    if (approved.has(`zoom:${s.source_id}`)) return false;
+    // Also hide if all matches for this suggestion have been approved
+    const remaining = (s.matches || []).filter(m => !approved.has(`${m.platform}:${m.id}`));
+    return remaining.length > 0;
+  });
+
+  // Progress counter
+  const headerEl = document.querySelector('#suggestions-table')?.previousElementSibling?.previousElementSibling;
+  const counterEl = document.getElementById('suggestions-counter');
+  const approvedCount = allSugs.length - sugs.length;
+  const counterHtml = `<span id="suggestions-counter" style="font-size:14px; color:#777; font-weight:normal; margin-left:12px;">${sugs.length} remaining${approvedCount > 0 ? ` (${approvedCount} approved this session)` : ''}</span>`;
+  if (counterEl) {
+    counterEl.outerHTML = counterHtml;
+  } else {
+    const h2 = document.querySelector('#suggestions-table')?.closest('.content')?.querySelector('h2:nth-of-type(3)');
+    if (h2) h2.insertAdjacentHTML('beforeend', counterHtml);
+  }
+
   if (!sugs.length) {
-    body.innerHTML = '<tr><td colspan="5" class="empty">No suggestions.</td></tr>';
+    body.innerHTML = '<tr><td colspan="5" class="empty">No suggestions remaining.</td></tr>';
     return;
   }
 
   const rows = [];
   for (const s of sugs) {
-    for (const m of s.matches || []) {
+    const matches = (s.matches || []).filter(m => !approved.has(`${m.platform}:${m.id}`));
+    for (const m of matches) {
       rows.push(`
-        <tr>
+        <tr data-source="${esc(s.source_id)}" data-target="${esc(m.platform)}:${esc(m.id)}">
           <td>${esc(s.source_name)}</td>
           <td>${esc(m.name)}</td>
           <td><span class="badge pending">${esc(m.platform)}</span></td>
@@ -168,7 +206,7 @@ function renderSuggestions() {
     }
   }
 
-  body.innerHTML = rows.length ? rows.join('') : '<tr><td colspan="5" class="empty">No suggestions.</td></tr>';
+  body.innerHTML = rows.length ? rows.join('') : '<tr><td colspan="5" class="empty">No suggestions remaining.</td></tr>';
 }
 
 function renderUnmapped() {
@@ -395,8 +433,25 @@ async function acceptSuggestion(sourceId, targetId, targetPlatform) {
 
   const ok = await dispatchWorkflow('approve-mapping', payload);
   if (ok) {
-    alert('Mapping approved! The next sync will apply the canonical name.');
+    // Mark as approved and immediately hide from the UI
+    markApproved(sourceId, targetId, targetPlatform);
+    renderSuggestions();
+    // Update the pending count on the summary card
+    updatePendingCard();
   }
+}
+
+function updatePendingCard() {
+  if (!pendingData) return;
+  const approved = getApprovedIds();
+  const allSugs = pendingData.suggestions || [];
+  const remaining = allSugs.filter(s => {
+    if (approved.has(`zoom:${s.source_id}`)) return false;
+    const rm = (s.matches || []).filter(m => !approved.has(`${m.platform}:${m.id}`));
+    return rm.length > 0;
+  });
+  const discs = pendingData.discrepancies || [];
+  setCard('pending-count', remaining.length + discs.length);
 }
 
 // -- Utilities ----------------------------------------------------------
