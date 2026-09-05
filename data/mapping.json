@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T04:30:58+00:00",
+  "last_sync": "2026-09-05T05:00:11+00:00",
   "rooms": {},
   "unmapped_zoom": [
     {
@@ -522,20 +522,12 @@
       "name": "EQ-SV-B105.2 LPX-LPD1"
     },
     {
-      "id": 469,
-      "name": "EQ-SV-B105.3 PDE Systems Analy 1"
-    },
-    {
       "id": 471,
       "name": "EQ-SV-B105.3 PDE Systems Analy 4"
     },
     {
       "id": 470,
       "name": "EQ-SV-B105.3 PDE Systems Analy 6"
-    },
-    {
-      "id": 472,
-      "name": "EQ-SV-B105.3 PDE Systems Analy 7"
     },
     {
       "id": 244,
@@ -666,16 +658,8 @@
       "name": "VC-SV-B105.3 Core"
     },
     {
-      "id": 474,
-      "name": "VC-SV-B105.3 Crick"
-    },
-    {
       "id": 1124,
       "name": "VC-SV-B105.3 David Robinson"
-    },
-    {
-      "id": 1845,
-      "name": "VC-SV-B105.3 DNA"
     },
     {
       "id": 1846,
@@ -808,6 +792,10 @@
     {
       "id": 1873,
       "name": "VC-SV-B105.4 Jacobaeus"
+    },
+    {
+      "id": 1874,
+      "name": "VC-SV-B105.4 Kubler-Ross"
     },
     {
       "id": 1875,
