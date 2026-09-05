@@ -155,10 +155,36 @@ def reconcile(zoom: ZoomClient, neat: NeatClient, xyte: XyteClient,
     changelog = mp.load_changelog()
     pending = mp.load_pending()
 
-    # Build lookup indexes
-    zoom_by_id = {r["id"]: r for r in zoom_rooms}
-    neat_by_id = {r["id"]: r for r in neat_rooms}
-    xyte_by_id = {s["id"]: s for s in xyte_spaces}
+    # -- Deduplicate mappings (merge duplicates sharing the same zoom_room_id) --
+    seen_zoom = {}  # zoom_room_id -> uid of first occurrence
+    dup_uids = []
+    for uid, room in list(data["rooms"].items()):
+        zid = room.get("zoom_room_id")
+        if not zid:
+            continue
+        if zid in seen_zoom:
+            # Merge platform IDs into the first occurrence
+            first = data["rooms"][seen_zoom[zid]]
+            if room.get("neat_room_id") and not first.get("neat_room_id"):
+                first["neat_room_id"] = room["neat_room_id"]
+            if room.get("xyte_space_id") and not first.get("xyte_space_id"):
+                first["xyte_space_id"] = room["xyte_space_id"]
+            dup_uids.append(uid)
+            print(f"  [dedup] Removing duplicate mapping {uid} for '{room['canonical_name']}' (zoom={zid})")
+        else:
+            seen_zoom[zid] = uid
+
+    for uid in dup_uids:
+        del data["rooms"][uid]
+    if dup_uids:
+        mp.log_change(changelog, action="dedup_cleanup",
+                      room_name="", uid="",
+                      details=f"Removed {len(dup_uids)} duplicate mapping(s)")
+
+    # Build lookup indexes (stringify keys so they match mapping values)
+    zoom_by_id = {str(r["id"]): r for r in zoom_rooms}
+    neat_by_id = {str(r["id"]): r for r in neat_rooms}
+    xyte_by_id = {str(s["id"]): s for s in xyte_spaces}
 
     stats = {"auto_renames": 0, "discrepancies": 0, "new_suggestions": 0,
              "unmapped_zoom": 0, "unmapped_neat": 0, "unmapped_xyte": 0}
@@ -272,17 +298,17 @@ def reconcile(zoom: ZoomClient, neat: NeatClient, xyte: XyteClient,
 
     # -- Find unmapped rooms -----------------------------------------------
 
-    mapped_zoom_ids = {r["zoom_room_id"] for r in data["rooms"].values() if r.get("zoom_room_id")}
-    mapped_neat_ids = {r["neat_room_id"] for r in data["rooms"].values() if r.get("neat_room_id")}
-    mapped_xyte_ids = {r["xyte_space_id"] for r in data["rooms"].values() if r.get("xyte_space_id")}
+    mapped_zoom_ids = {str(r["zoom_room_id"]) for r in data["rooms"].values() if r.get("zoom_room_id")}
+    mapped_neat_ids = {str(r["neat_room_id"]) for r in data["rooms"].values() if r.get("neat_room_id")}
+    mapped_xyte_ids = {str(r["xyte_space_id"]) for r in data["rooms"].values() if r.get("xyte_space_id")}
 
-    unmapped_zoom = [r for r in zoom_rooms if r["id"] not in mapped_zoom_ids]
-    unmapped_neat = [r for r in neat_rooms if r["id"] not in mapped_neat_ids]
+    unmapped_zoom = [r for r in zoom_rooms if str(r["id"]) not in mapped_zoom_ids]
+    unmapped_neat = [r for r in neat_rooms if str(r["id"]) not in mapped_neat_ids]
     # Only consider leaf Xyte spaces (rooms), not floor containers.
     # When walking from a building, rooms are at depth 1 (floor/room).
     # When walking from the org root, rooms are at depth 2 (building/floor/room).
     unmapped_xyte = [s for s in xyte_spaces
-                     if s["id"] not in mapped_xyte_ids
+                     if str(s["id"]) not in mapped_xyte_ids
                      and s.get("_path", "").count("/") >= 1]
 
     data["unmapped_zoom"] = [{"id": r["id"], "name": r.get("name", "")} for r in unmapped_zoom]
