@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T14:40:53+00:00",
+  "last_sync": "2026-09-05T14:45:50+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -281,6 +281,16 @@
       "location": "",
       "created": "2026-09-05T14:36:14+00:00",
       "last_verified": "2026-09-05T14:40:53+00:00"
+    },
+    "57419b05-50aa-4d5e-802b-3ef3d5d85411": {
+      "canonical_name": "VC-SV-B105.1 Apgar",
+      "zoom_room_id": "52A6J0NdQ6CHyfXn3Xlk9Q",
+      "neat_room_id": "1827",
+      "xyte_space_id": null,
+      "xyte_device_ids": [],
+      "location": "",
+      "created": "2026-09-05T14:45:50+00:00",
+      "last_verified": "2026-09-05T14:45:50+00:00"
     }
   },
   "unmapped_zoom": [
