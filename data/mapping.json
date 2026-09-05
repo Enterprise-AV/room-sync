@@ -1,306 +1,306 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T06:02:58+00:00",
+  "last_sync": "2026-09-05T06:59:49+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
       "zoom_room_id": "joY-ZoMNRTadWRfSz6Rbdg",
-      "neat_room_id": "1863",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:46:32+00:00",
-      "last_verified": "2026-09-05T05:46:32+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "d89c5112-9c4b-435d-8378-b09d2a4ece59": {
       "canonical_name": "VC-SV-B105.1 Al Qassimi",
       "zoom_room_id": "4Ya2-sGZTAGqZYM172YTUw",
-      "neat_room_id": "1825",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:47:00+00:00",
-      "last_verified": "2026-09-05T05:47:00+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "3849ecd6-a8cc-4110-a7f1-11e1a35d86d5": {
       "canonical_name": "VC-SV-B105.1 Al Qassimi",
       "zoom_room_id": "4Ya2-sGZTAGqZYM172YTUw",
-      "neat_room_id": "1825",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:47:49+00:00",
-      "last_verified": "2026-09-05T05:47:49+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "f8275b30-2335-4798-8c56-b47ea5b4c4e0": {
       "canonical_name": "Lab-SV-B105.2 Global Labeling Lab",
       "zoom_room_id": "wCuYZn8qR1uScSNkyMaxXg",
-      "neat_room_id": "468",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:53:03+00:00",
-      "last_verified": "2026-09-05T05:53:03+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "3c5d5dd3-7c95-474c-a374-888d7834cc51": {
       "canonical_name": "VC-SV-B105.2 Whipple",
       "zoom_room_id": "-upr6LThSC-ps2NQzo1Q-g",
-      "neat_room_id": "1839",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:53:32+00:00",
-      "last_verified": "2026-09-05T05:53:32+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "8da9104f-92ae-4367-beb2-984d77ed8a00": {
       "canonical_name": "VC-SV-B105.1 Al Qassimi",
       "zoom_room_id": "4Ya2-sGZTAGqZYM172YTUw",
-      "neat_room_id": "1825",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:54:22+00:00",
-      "last_verified": "2026-09-05T05:54:22+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "2570553a-c9bc-480b-9b52-ef93348b10fc": {
       "canonical_name": "VC-SV-B105.4 Stapling",
       "zoom_room_id": "QyvEvOo-SKqB01fd5txaZA",
       "neat_room_id": null,
-      "xyte_space_id": "198124",
+      "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:54:40+00:00",
-      "last_verified": "2026-09-05T05:54:40+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "069a2481-30db-4639-bf67-4db9c5b6caf2": {
       "canonical_name": "VC-SV-B105.1 Al Qassimi",
       "zoom_room_id": "4Ya2-sGZTAGqZYM172YTUw",
-      "neat_room_id": "1825",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:56:18+00:00",
-      "last_verified": "2026-09-05T05:56:18+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "94431f3c-e666-4cff-a28a-352f7a39ace1": {
       "canonical_name": "VC-SV-B105.1 Bath",
       "zoom_room_id": "xyiyF_l-Sg-2uKdYyhaopg",
-      "neat_room_id": "1828",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:56:35+00:00",
-      "last_verified": "2026-09-05T05:56:35+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "3ebfa544-e8f6-49f2-879b-b70ff7e415f2": {
       "canonical_name": "VC-SV-B105.1 Sagan",
       "zoom_room_id": "tvo-61OHSealsd4EuD_Sjg",
-      "neat_room_id": "253",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:57:13+00:00",
-      "last_verified": "2026-09-05T05:57:13+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "7cecc12c-7689-483a-9cc7-37c298b59f4d": {
       "canonical_name": "VC-SV-B105.2 Mohs",
       "zoom_room_id": "w8GmMluHRjuK7SlSPwt-jw",
-      "neat_room_id": "1832",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:57:25+00:00",
-      "last_verified": "2026-09-05T05:57:25+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "f8dc67b0-cf1d-438f-bef7-2d46de23cb1d": {
       "canonical_name": "VC-SV-B105.2 Shurer",
       "zoom_room_id": "0M8upCSfRU2f1ZGUFf0Lgg",
-      "neat_room_id": "1838",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:57:35+00:00",
-      "last_verified": "2026-09-05T05:57:35+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "6c24c4e6-c632-4312-bac0-ec83687b28b8": {
       "canonical_name": "VC-SV-B105.2 Whipple",
       "zoom_room_id": "-upr6LThSC-ps2NQzo1Q-g",
-      "neat_room_id": "1839",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:58:10+00:00",
-      "last_verified": "2026-09-05T05:58:10+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "ca42d4a7-cf62-45f6-b359-ee9d7a5d0978": {
       "canonical_name": "VC-SV-B105.3 Byers",
       "zoom_room_id": "bgNvwg5DQCqtIQZSzVgQbg",
-      "neat_room_id": "1843",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:58:24+00:00",
-      "last_verified": "2026-09-05T05:58:24+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "4632dd5f-9a01-4425-9d0a-f38479c8e628": {
       "canonical_name": "VC-SV-B105.3 Elders",
       "zoom_room_id": "J5W_n43hRmGzH1KLsy2tQg",
-      "neat_room_id": "1847",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:58:38+00:00",
-      "last_verified": "2026-09-05T05:58:38+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "8dc155f8-ab69-4954-99a6-6e01df657a33": {
       "canonical_name": "VC-SV-B105.3 Hawking",
       "zoom_room_id": "MKP8VnOLSIOmCigON4iQmg",
-      "neat_room_id": "1849",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:59:01+00:00",
-      "last_verified": "2026-09-05T05:59:01+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "748d473a-cb89-4213-a2d3-2c0c597165bd": {
       "canonical_name": "VC-SV-B105.3 Pitter",
       "zoom_room_id": "mnWQ8B9wQ-qpH0eBXgaShw",
-      "neat_room_id": "1862",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:59:13+00:00",
-      "last_verified": "2026-09-05T05:59:13+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "77763570-cea6-44e9-a2d7-50fb81b84a30": {
       "canonical_name": "VC-SV-B105.3 Thomas",
       "zoom_room_id": "a-W7UKQ3TNiWWKsNwb0mcA",
-      "neat_room_id": "1865",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:59:28+00:00",
-      "last_verified": "2026-09-05T05:59:28+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "1376d0d0-e652-42d5-a123-bffcb2533e40": {
       "canonical_name": "VC-SV-B105.4 Elion",
       "zoom_room_id": "LZs-t0rLTgeXVhhXeypLDw",
-      "neat_room_id": "1869",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T05:59:44+00:00",
-      "last_verified": "2026-09-05T05:59:44+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "0e5aba82-536b-4609-8e53-baf5e74776ab": {
       "canonical_name": "VC-SV-B105.4 Gray",
       "zoom_room_id": "EikvWIOHT4et6Hl-Bdauqw",
-      "neat_room_id": "1872",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:00:34+00:00",
-      "last_verified": "2026-09-05T06:00:34+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "0bfe7e83-d2ca-42e1-8e52-1ca93ea69a8a": {
       "canonical_name": "VC-SV-B105.4 Project Room 4061",
       "zoom_room_id": "pKp_yx5hTfawQZRU6_Ejzg",
-      "neat_room_id": "515",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:00:48+00:00",
-      "last_verified": "2026-09-05T06:00:48+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "89fa91e4-227a-45d7-bc2c-41fa0db2959f": {
       "canonical_name": "EQ-SV-B105.3 PDE Systems Analy 7",
       "zoom_room_id": "lc7lIJbqSBerB96324OXkQ",
-      "neat_room_id": "472",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:00:59+00:00",
-      "last_verified": "2026-09-05T06:00:59+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "582712d6-d454-4cbd-a728-d010b24f8d03": {
       "canonical_name": "VC-SV-B105.4 Scheinman",
       "zoom_room_id": "aFB3K9VNQQu-fa4VjhPxEw",
-      "neat_room_id": "516",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:01:11+00:00",
-      "last_verified": "2026-09-05T06:01:11+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "4a8e8e46-97a8-4ec7-ada4-d4c5133b84cb": {
       "canonical_name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
       "zoom_room_id": "wrbVhAXvSRKLGXr1pyOsgA",
-      "neat_room_id": "247",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:01:23+00:00",
-      "last_verified": "2026-09-05T06:01:23+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "72fc597b-0fa2-41be-a96a-57c500cec29e": {
       "canonical_name": "EQ-SV-B105.4 Stapler 4 Chatillon",
       "zoom_room_id": "aTX34BXgRKWsc_63oXvlTQ",
-      "neat_room_id": "244",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:01:42+00:00",
-      "last_verified": "2026-09-05T06:01:42+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "12c13611-2b25-43b9-bf06-dd02b18f5108": {
       "canonical_name": "EQ-SV-B105.4 Stapler 5 3D Printer",
       "zoom_room_id": "j3j2FlYjQfaIzi9GYXl-7w",
-      "neat_room_id": "687",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:01:54+00:00",
-      "last_verified": "2026-09-05T06:01:54+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "60c8a246-ec7b-4b71-96b0-050da592bd63": {
       "canonical_name": "VC-SV-B105.3 Chris Cappello",
       "zoom_room_id": "3v0hNoJeSqKucvyevjlFAg",
-      "neat_room_id": "473",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:07+00:00",
-      "last_verified": "2026-09-05T06:02:07+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "f46e5778-0b00-40ab-a79d-ad54dacd118a": {
       "canonical_name": "VC-SV-B105.3 Joshua Chaidez",
       "zoom_room_id": "6E2x0WPTQIedFe-7K1GbVw",
-      "neat_room_id": "1853",
+      "neat_room_id": null,
       "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:20+00:00",
-      "last_verified": "2026-09-05T06:02:20+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "91c71990-50d2-4c16-9a54-a945cafe366d": {
       "canonical_name": "VC-SV-B105.3 Shark Somayaji",
       "zoom_room_id": "Ouvy7SjzStqttmA1SZHNAQ",
       "neat_room_id": null,
-      "xyte_space_id": "198142",
+      "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:45+00:00",
-      "last_verified": "2026-09-05T06:02:45+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     },
     "f743e8e2-8f97-46f1-8a71-1dd7215fcdbf": {
       "canonical_name": "VC-SV-B105.3 Veronica Thralls",
       "zoom_room_id": "sVkFfj-zQDCtSYZKY1ueaw",
       "neat_room_id": null,
-      "xyte_space_id": "198130",
+      "xyte_space_id": null,
       "xyte_device_ids": [],
       "location": "",
       "created": "2026-09-05T06:02:58+00:00",
-      "last_verified": "2026-09-05T06:02:58+00:00"
+      "last_verified": "2026-09-05T06:59:49+00:00"
     }
   },
   "unmapped_zoom": [
@@ -313,10 +313,6 @@
       "name": "CR-SV-B105.1 VIP Demo Room 2 - Xi"
     },
     {
-      "id": "wCuYZn8qR1uScSNkyMaxXg",
-      "name": "Lab-SV-B105.2 Global Labeling Lab"
-    },
-    {
       "id": "HGvXUmtTQy6DP75hldpC1g",
       "name": "TR-SV-B105.2 Training Room 1"
     },
@@ -325,20 +321,12 @@
       "name": "TR-SV-B105.2 Training Room 2"
     },
     {
-      "id": "4Ya2-sGZTAGqZYM172YTUw",
-      "name": "VC-SV-B105.1 Al Qassimi"
-    },
-    {
       "id": "h3LUmqSETmSSCJj2_z4cEg",
       "name": "VC-SV-B105.1 Alcorn"
     },
     {
       "id": "52A6J0NdQ6CHyfXn3Xlk9Q",
       "name": "VC-SV-B105.1 Apgar"
-    },
-    {
-      "id": "xyiyF_l-Sg-2uKdYyhaopg",
-      "name": "VC-SV-B105.1 Bath"
     },
     {
       "id": "ZMCG5sqIQES2SSMoQrwAtA",
@@ -357,10 +345,6 @@
       "name": "VC-SV-B105.1 Reliability Thermal Chamber"
     },
     {
-      "id": "tvo-61OHSealsd4EuD_Sjg",
-      "name": "VC-SV-B105.1 Sagan"
-    },
-    {
       "id": "ApMVJvdYRieK3jfHv9oRlw",
       "name": "VC-SV-B105.2 DB Hallway"
     },
@@ -371,10 +355,6 @@
     {
       "id": "NmN8mzGjSBeHGJcyEQHFow",
       "name": "VC-SV-B105.2 Lacks"
-    },
-    {
-      "id": "w8GmMluHRjuK7SlSPwt-jw",
-      "name": "VC-SV-B105.2 Mohs"
     },
     {
       "id": "CVp1WjmeQSyCJP8m83RjUw",
@@ -401,14 +381,6 @@
       "name": "VC-SV-B105.2 Scott"
     },
     {
-      "id": "0M8upCSfRU2f1ZGUFf0Lgg",
-      "name": "VC-SV-B105.2 Shurer"
-    },
-    {
-      "id": "-upr6LThSC-ps2NQzo1Q-g",
-      "name": "VC-SV-B105.2 Whipple"
-    },
-    {
       "id": "MELzEXeQSbqcqB1bGr4YCQ",
       "name": "VC-SV-B105.3 Advanced Energy Lab"
     },
@@ -419,10 +391,6 @@
     {
       "id": "AMbKNX4EQaqBKOOBn0hnaw",
       "name": "VC-SV-B105.3 Barton"
-    },
-    {
-      "id": "bgNvwg5DQCqtIQZSzVgQbg",
-      "name": "VC-SV-B105.3 Byers"
     },
     {
       "id": "uzrQs0aMTHi7pp0_-J6MVg",
@@ -445,20 +413,12 @@
       "name": "VC-SV-B105.3 Doudna"
     },
     {
-      "id": "J5W_n43hRmGzH1KLsy2tQg",
-      "name": "VC-SV-B105.3 Elders"
-    },
-    {
       "id": "BtQjG7fbSyeOUCYPMgADyQ",
       "name": "VC-SV-B105.3 Energy"
     },
     {
       "id": "8IZmRbfdT1SiOxcBp8HSYw",
       "name": "VC-SV-B105.3 Franklin-R"
-    },
-    {
-      "id": "MKP8VnOLSIOmCigON4iQmg",
-      "name": "VC-SV-B105.3 Hawking"
     },
     {
       "id": "ZZIDReJKSQSxUkW7cDW-6w",
@@ -485,28 +445,12 @@
       "name": "VC-SV-B105.3 Phone Room 3067"
     },
     {
-      "id": "mnWQ8B9wQ-qpH0eBXgaShw",
-      "name": "VC-SV-B105.3 Pitter"
-    },
-    {
       "id": "MsfqCfC2TUWk-oVIu9bO3g",
       "name": "VC-SV-B105.3 SA"
     },
     {
-      "id": "Ouvy7SjzStqttmA1SZHNAQ",
-      "name": "VC-SV-B105.3 Shark Somayaji"
-    },
-    {
-      "id": "joY-ZoMNRTadWRfSz6Rbdg",
-      "name": "VC-SV-B105.3 Systems Analysis Lab"
-    },
-    {
       "id": "ovkJcw_VRsyh3blcDROSeQ",
       "name": "VC-SV-B105.3 Taussig"
-    },
-    {
-      "id": "a-W7UKQ3TNiWWKsNwb0mcA",
-      "name": "VC-SV-B105.3 Thomas"
     },
     {
       "id": "QuQqnYgsTci-NjqgcDFybw",
@@ -525,20 +469,12 @@
       "name": "VC-SV-B105.4 Curie"
     },
     {
-      "id": "LZs-t0rLTgeXVhhXeypLDw",
-      "name": "VC-SV-B105.4 Elion"
-    },
-    {
       "id": "magKuKnmRS2G86AVphVBWQ",
       "name": "VC-SV-B105.4 Euclid"
     },
     {
       "id": "qlSZ_FcGTreXWrhxmyiYRw",
       "name": "VC-SV-B105.4 Fauci"
-    },
-    {
-      "id": "EikvWIOHT4et6Hl-Bdauqw",
-      "name": "VC-SV-B105.4 Gray"
     },
     {
       "id": "aTZ6IL-lRN-24Qd6EJ8Smw",
@@ -585,24 +521,12 @@
       "name": "VC-SV-B105.4 Phone Room 4053"
     },
     {
-      "id": "pKp_yx5hTfawQZRU6_Ejzg",
-      "name": "VC-SV-B105.4 Project Room 4061"
-    },
-    {
       "id": "OrpNDT-SQZe7fzGzPRT-xQ",
       "name": "VC-SV-B105.4 Satava"
     },
     {
-      "id": "aFB3K9VNQQu-fa4VjhPxEw",
-      "name": "VC-SV-B105.4 Scheinman"
-    },
-    {
       "id": "7rC_JUZCRZKA6py6SVNjHQ",
       "name": "VC-SV-B105.4 Semmelweis"
-    },
-    {
-      "id": "QyvEvOo-SKqB01fd5txaZA",
-      "name": "VC-SV-B105.4 Stapling"
     },
     {
       "id": "pprkTT9VR4uEoPXUtTviLQ",
@@ -629,10 +553,6 @@
       "name": "EQ-SV-B105.3 PDE Systems Analy 6"
     },
     {
-      "id": "lc7lIJbqSBerB96324OXkQ",
-      "name": "EQ-SV-B105.3 PDE Systems Analy 7"
-    },
-    {
       "id": "bgZQILIuSBKtoQt0o_E37A",
       "name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer"
     },
@@ -645,20 +565,8 @@
       "name": "EQ-SV-B105.4 Instron 1kN"
     },
     {
-      "id": "wrbVhAXvSRKLGXr1pyOsgA",
-      "name": "EQ-SV-B105.4 Stapler 10 CT Scanner"
-    },
-    {
       "id": "as6_be7nR3Cioo0RQOUeDw",
       "name": "EQ-SV-B105.4 Stapler 12 Instron"
-    },
-    {
-      "id": "aTX34BXgRKWsc_63oXvlTQ",
-      "name": "EQ-SV-B105.4 Stapler 4 Chatillon"
-    },
-    {
-      "id": "j3j2FlYjQfaIzi9GYXl-7w",
-      "name": "EQ-SV-B105.4 Stapler 5 3D Printer"
     },
     {
       "id": "DCmSEttiR62VegZmcluW4A",
@@ -671,10 +579,6 @@
     {
       "id": "JbkzNkr2QrmiVbfT2pAr6Q",
       "name": "VC-SV-B105.3 Charlie Dean"
-    },
-    {
-      "id": "3v0hNoJeSqKucvyevjlFAg",
-      "name": "VC-SV-B105.3 Chris Cappello"
     },
     {
       "id": "obijyTJmRciDG5FOAgfF8Q",
@@ -697,10 +601,6 @@
       "name": "VC-SV-B105.3 Joanne Lum"
     },
     {
-      "id": "6E2x0WPTQIedFe-7K1GbVw",
-      "name": "VC-SV-B105.3 Joshua Chaidez"
-    },
-    {
       "id": "Ss5cTNzET8uQTRTeqGgjLA",
       "name": "VC-SV-B105.3 Karpaga Sundari"
     },
@@ -719,10 +619,6 @@
     {
       "id": "eo28LYMFSbKMr1fAisgLUg",
       "name": "VC-SV-B105.3 Office 3018"
-    },
-    {
-      "id": "sVkFfj-zQDCtSYZKY1ueaw",
-      "name": "VC-SV-B105.3 Veronica Thralls"
     },
     {
       "id": "c-nRsR68QROhjZPBV_rlmQ",
@@ -835,6 +731,10 @@
       "name": "EQ-SV-B105.3 PDE Systems Analy 6"
     },
     {
+      "id": 472,
+      "name": "EQ-SV-B105.3 PDE Systems Analy 7"
+    },
+    {
       "id": 244,
       "name": "EQ-SV-B105.3 Stapler 4 Chatillon"
     },
@@ -857,6 +757,10 @@
     {
       "id": 770,
       "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer"
+    },
+    {
+      "id": 771,
+      "name": "EQ-SV-B105.4 Instron 1kN"
     },
     {
       "id": 511,
@@ -1129,10 +1033,6 @@
     {
       "id": 1883,
       "name": "VC-SV-B105.4 Stapling"
-    },
-    {
-      "id": 555,
-      "name": "VC-SV-B105.4 Woodson"
     }
   ],
   "unmapped_xyte": [

@@ -25,6 +25,11 @@
     "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 6"
   },
   {
+    "id": 472,
+    "name": "EQ-SV-B105.3 PDE Systems Analy 7",
+    "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 7"
+  },
+  {
     "id": 244,
     "name": "EQ-SV-B105.3 Stapler 4 Chatillon",
     "_raw_name": "EQ-SV-B105.3 Stapler 4 Chatillon"
@@ -53,6 +58,11 @@
     "id": 770,
     "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer",
     "_raw_name": "EQ-SV-B105.4 Form 3 SLA 3D Printer"
+  },
+  {
+    "id": 771,
+    "name": "EQ-SV-B105.4 Instron 1kN",
+    "_raw_name": "EQ-SV-B105.4 Instron 1kN"
   },
   {
     "id": 511,
@@ -393,10 +403,5 @@
     "id": 1883,
     "name": "VC-SV-B105.4 Stapling",
     "_raw_name": "VC-SV-B105.4 Stapling"
-  },
-  {
-    "id": 555,
-    "name": "VC-SV-B105.4 Woodson",
-    "_raw_name": "VC-SV-B105.4 Woodson"
   }
 ]
