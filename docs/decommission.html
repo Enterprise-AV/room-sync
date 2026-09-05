@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Room Sync — Decommission</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <strong>Room Sync</strong>
+    <a href="index.html">Dashboard</a>
+    <a href="create.html">Create Rooms</a>
+    <a href="decommission.html" class="active">Decommission</a>
+    <span class="spacer"></span>
+    <button id="auth-btn" onclick="toggleAuth()">Sign in with GitHub</button>
+  </nav>
+
+  <div class="content">
+    <h1>Decommission Rooms</h1>
+    <div class="updated">Remove rooms from all platforms permanently.</div>
+
+    <div class="warning-box">
+      <p><strong>Warning:</strong> Decommissioning removes a room from Zoom, Neat Pulse,
+      and Xyte (RackLink Cloud). In Xyte, devices are moved to the building's "Unsorted"
+      space before the room space is deleted. Empty parent spaces (floor, building) are
+      cleaned up automatically. This action cannot be undone.</p>
+    </div>
+
+    <h2>Search Rooms</h2>
+    <div style="margin-bottom: 24px;">
+      <input type="text" id="search-input" placeholder="Search by room name..."
+             oninput="searchRooms()" style="max-width: 500px;">
+    </div>
+
+    <table id="rooms-table">
+      <thead>
+        <tr>
+          <th>Room Name</th>
+          <th>Zoom</th>
+          <th>Neat Pulse</th>
+          <th>Xyte</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody id="rooms-body">
+        <tr><td colspan="5" class="empty">Loading rooms...</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer>Intuitive Surgical AV Engineering</footer>
+
+  <!-- Decommission confirmation modal -->
+  <div class="modal-overlay" id="decom-modal">
+    <div class="modal">
+      <h3>Confirm Decommission</h3>
+      <p>This will permanently remove the room from all platforms:</p>
+      <ul style="margin: 12px 0 12px 24px; font-size: 14px;">
+        <li><strong>Zoom:</strong> Room deleted</li>
+        <li><strong>Neat Pulse:</strong> Room deleted (devices become unassigned)</li>
+        <li><strong>Xyte:</strong> Devices moved to Unsorted, space deleted</li>
+      </ul>
+      <p>To confirm, type the full room name:</p>
+      <p style="font-weight: 600; color: #1a1a2e; font-size: 16px;" id="decom-room-name"></p>
+      <input type="text" class="confirm-input" id="decom-confirm-input"
+             placeholder="Type room name here" oninput="validateDecomConfirm()">
+      <div style="margin-top: 20px; display: flex; gap: 12px; justify-content: flex-end;">
+        <button class="btn btn-outline" onclick="closeModal('decom-modal')">Cancel</button>
+        <button class="btn btn-danger" id="decom-confirm-btn" onclick="confirmDecommission()" disabled>
+          Decommission
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script src="auth.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

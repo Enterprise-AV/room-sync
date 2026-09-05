@@ -1,0 +1,12 @@
+{
+  "_comment": "Buildings to sync. Add entries here to expand scope. Set 'all': true to sync everything.",
+  "all": false,
+  "locations": [
+    {
+      "name": "B105",
+      "zoom_location_ids": [],
+      "neat_location_id": "",
+      "xyte_building_space_id": ""
+    }
+  ]
+}

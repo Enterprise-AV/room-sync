@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Room Sync — Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <strong>Room Sync</strong>
+    <a href="index.html" class="active">Dashboard</a>
+    <a href="create.html">Create Rooms</a>
+    <a href="decommission.html">Decommission</a>
+    <span class="spacer"></span>
+    <button id="auth-btn" onclick="toggleAuth()">Sign in with GitHub</button>
+  </nav>
+
+  <div class="content">
+    <h1>Room Sync Dashboard</h1>
+    <div class="updated" id="last-sync">Loading...</div>
+
+    <!-- Summary cards -->
+    <div class="cards" id="summary-cards">
+      <div class="card">
+        <span class="value" id="total-rooms">-</span>
+        <span class="label">Total Mapped</span>
+      </div>
+      <div class="card">
+        <span class="value" id="unmapped-count">-</span>
+        <span class="label">Unmapped</span>
+      </div>
+      <div class="card">
+        <span class="value" id="pending-count">-</span>
+        <span class="label">Pending</span>
+      </div>
+      <div class="card">
+        <span class="value" id="changes-today">-</span>
+        <span class="label">Changes Today</span>
+      </div>
+    </div>
+
+    <!-- Recent changes -->
+    <h2>Recent Changes</h2>
+    <table id="changelog-table">
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Action</th>
+          <th>Room</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody id="changelog-body">
+        <tr><td colspan="4" class="empty">Loading...</td></tr>
+      </tbody>
+    </table>
+
+    <!-- Discrepancies -->
+    <h2>Discrepancies</h2>
+    <p>Rooms where names don't match across platforms. Zoom is the source of truth.</p>
+    <table id="discrepancies-table">
+      <thead>
+        <tr>
+          <th>Zoom Name (Canonical)</th>
+          <th>Platform</th>
+          <th>Current Name</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody id="discrepancies-body">
+        <tr><td colspan="4" class="empty">Loading...</td></tr>
+      </tbody>
+    </table>
+
+    <!-- Mapping suggestions -->
+    <h2>Mapping Suggestions</h2>
+    <p>Unmapped rooms with possible matches across platforms.</p>
+    <table id="suggestions-table">
+      <thead>
+        <tr>
+          <th>Zoom Room</th>
+          <th>Suggested Match</th>
+          <th>Platform</th>
+          <th>Score</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody id="suggestions-body">
+        <tr><td colspan="5" class="empty">Loading...</td></tr>
+      </tbody>
+    </table>
+
+    <!-- Unmapped rooms -->
+    <h2>Unmapped Rooms</h2>
+    <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px;">
+      <div>
+        <h3>Zoom</h3>
+        <ul id="unmapped-zoom"><li class="empty">Loading...</li></ul>
+      </div>
+      <div>
+        <h3>Neat Pulse</h3>
+        <ul id="unmapped-neat"><li class="empty">Loading...</li></ul>
+      </div>
+      <div>
+        <h3>Xyte (RackLink)</h3>
+        <ul id="unmapped-xyte"><li class="empty">Loading...</li></ul>
+      </div>
+    </div>
+  </div>
+
+  <footer>Intuitive Surgical AV Engineering</footer>
+
+  <script src="auth.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Room Sync — Create Rooms</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <strong>Room Sync</strong>
+    <a href="index.html">Dashboard</a>
+    <a href="create.html" class="active">Create Rooms</a>
+    <a href="decommission.html">Decommission</a>
+    <span class="spacer"></span>
+    <button id="auth-btn" onclick="toggleAuth()">Sign in with GitHub</button>
+  </nav>
+
+  <div class="content">
+    <h1>Create Rooms</h1>
+    <div class="updated">Create new rooms across Zoom, Neat Pulse, and Xyte.</div>
+
+    <div class="info-box">
+      <p><strong>How it works:</strong> Enter room names below, select which platforms
+      each room should be created on, then submit. A GitHub Actions workflow will create
+      the rooms and add them to the mapping.</p>
+    </div>
+
+    <h2>Add Rooms</h2>
+
+    <div style="margin-bottom: 16px;">
+      <label for="room-input"><strong>Room names</strong> (one per line):</label>
+      <textarea id="room-input" rows="6" style="width: 100%; max-width: 500px; display: block;
+        margin-top: 8px; padding: 10px; font-family: inherit; font-size: 14px;
+        border: 1px solid #ccc; border-radius: 4px;" placeholder="VC-SV-B105.2 2101
+VC-SV-B105.2 2102
+VC-SV-B105.3 3101"></textarea>
+    </div>
+
+    <div style="margin-bottom: 24px;">
+      <label for="location-select"><strong>Building / Location:</strong></label>
+      <select id="location-select" style="display: block; margin-top: 8px;">
+        <option value="">Loading locations...</option>
+      </select>
+    </div>
+
+    <button class="btn btn-outline" onclick="addRoomsToMatrix()">Add to Matrix</button>
+
+    <h2>Room Creation Matrix</h2>
+    <p>Check which platforms each room should be created on.</p>
+
+    <table class="matrix-table" id="matrix-table">
+      <thead>
+        <tr>
+          <th>Room Name</th>
+          <th style="text-align: center; width: 100px;">Zoom</th>
+          <th style="text-align: center; width: 100px;">Neat Pulse</th>
+          <th style="text-align: center; width: 100px;">Xyte</th>
+          <th style="text-align: center; width: 80px;">Remove</th>
+        </tr>
+      </thead>
+      <tbody id="matrix-body">
+        <tr><td colspan="5" class="empty">No rooms added yet. Enter room names above.</td></tr>
+      </tbody>
+    </table>
+
+    <div style="margin-top: 24px;">
+      <button class="btn btn-primary" id="submit-create" onclick="submitCreate()" disabled>
+        Create Rooms
+      </button>
+    </div>
+  </div>
+
+  <footer>Intuitive Surgical AV Engineering</footer>
+
+  <!-- Confirmation modal -->
+  <div class="modal-overlay" id="create-modal">
+    <div class="modal">
+      <h3>Confirm Room Creation</h3>
+      <p id="create-modal-text">Create 0 room(s)?</p>
+      <div style="margin-top: 20px; display: flex; gap: 12px; justify-content: flex-end;">
+        <button class="btn btn-outline" onclick="closeModal('create-modal')">Cancel</button>
+        <button class="btn btn-primary" onclick="confirmCreate()">Create</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="auth.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
