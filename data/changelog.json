@@ -418,5 +418,12 @@
     "room_name": "VC-SV-B105.3 Veronica Thralls",
     "uid": "f743e8e2-8f97-46f1-8a71-1dd7215fcdbf",
     "details": "xyte room/space 198130 no longer exists"
+  },
+  {
+    "timestamp": "2026-09-05T07:10:40+00:00",
+    "action": "dedup_cleanup",
+    "room_name": "",
+    "uid": "",
+    "details": "Removed 4 duplicate mapping(s)"
   }
 ]
