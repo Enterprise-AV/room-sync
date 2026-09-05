@@ -30,6 +30,7 @@ class XyteClient:
 
     def list_spaces(self, parent_id) -> list:
         """Return direct child spaces under *parent_id*."""
+        parent_id = int(parent_id)
         resp = requests.get(
             f"{XYTE_BASE_URL}/spaces",
             headers=self._headers(),
