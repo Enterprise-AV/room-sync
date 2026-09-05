@@ -355,5 +355,12 @@
     "room_name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
     "uid": "4ec5be5a-0d07-4fd4-9484-175b78221d77",
     "details": "Mapped: zoom=bgZQILIuSBKtoQt0o_E37A, neat=769, xyte=None"
+  },
+  {
+    "timestamp": "2026-09-05T16:03:40+00:00",
+    "action": "mapping_approved",
+    "room_name": "EQ-SV-B105.4 Stapler 7 Iron Horse",
+    "uid": "814ea5d6-6b34-4847-9d97-732f70b6d70a",
+    "details": "Mapped: zoom=DCmSEttiR62VegZmcluW4A, neat=245, xyte=None"
   }
 ]
