@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T16:03:40+00:00",
+  "last_sync": "2026-09-05T16:03:53+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -401,6 +401,16 @@
       "location": "",
       "created": "2026-09-05T16:03:40+00:00",
       "last_verified": "2026-09-05T16:03:40+00:00"
+    },
+    "e4ce3066-6ea1-4d36-bb6b-bc719c55ff99": {
+      "canonical_name": "VC-SV-B105.3 Jeff Tessier",
+      "zoom_room_id": "mHmLU1GdQEaWJCwj0mjRFg",
+      "neat_room_id": "1851",
+      "xyte_space_id": null,
+      "xyte_device_ids": [],
+      "location": "",
+      "created": "2026-09-05T16:03:53+00:00",
+      "last_verified": "2026-09-05T16:03:53+00:00"
     }
   },
   "unmapped_zoom": [
