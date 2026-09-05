@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T05:47:49+00:00",
+  "last_sync": "2026-09-05T05:53:03+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -31,6 +31,16 @@
       "location": "",
       "created": "2026-09-05T05:47:49+00:00",
       "last_verified": "2026-09-05T05:47:49+00:00"
+    },
+    "f8275b30-2335-4798-8c56-b47ea5b4c4e0": {
+      "canonical_name": "Lab-SV-B105.2 Global Labeling Lab",
+      "zoom_room_id": "wCuYZn8qR1uScSNkyMaxXg",
+      "neat_room_id": "468",
+      "xyte_space_id": null,
+      "xyte_device_ids": [],
+      "location": "",
+      "created": "2026-09-05T05:53:03+00:00",
+      "last_verified": "2026-09-05T05:53:03+00:00"
     }
   },
   "unmapped_zoom": [
