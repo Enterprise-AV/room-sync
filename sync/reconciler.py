@@ -241,6 +241,35 @@ def reconcile(zoom: ZoomClient, neat: NeatClient, xyte: XyteClient,
         if xyte_id and xyte_id not in xyte_by_id:
             stale_uids.append((uid, "xyte"))
 
+    # -- Handle stale (deleted) platform rooms ------------------------------
+
+    id_field = {"zoom": "zoom_room_id", "neat": "neat_room_id", "xyte": "xyte_space_id"}
+    for uid, platform in stale_uids:
+        room = data["rooms"].get(uid)
+        if not room:
+            continue
+        old_id = room.get(id_field[platform])
+        canonical = room["canonical_name"]
+
+        # Flag as a discrepancy
+        pending["discrepancies"].append({
+            "uid": uid,
+            "canonical_name": canonical,
+            "platform": platform,
+            "platform_name": f"[DELETED] was {old_id}",
+            "platform_id": old_id,
+            "detected": _now_iso(),
+        })
+        stats["discrepancies"] += 1
+
+        # Clear the dead ID from the mapping
+        room[id_field[platform]] = None
+        print(f"  [stale] '{canonical}' — {platform} room {old_id} no longer exists, cleared from mapping")
+
+        mp.log_change(changelog, action="platform_deleted",
+                      room_name=canonical, uid=uid,
+                      details=f"{platform} room/space {old_id} no longer exists")
+
     # -- Find unmapped rooms -----------------------------------------------
 
     mapped_zoom_ids = {r["zoom_room_id"] for r in data["rooms"].values() if r.get("zoom_room_id")}
