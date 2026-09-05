@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T14:45:50+00:00",
+  "last_sync": "2026-09-05T14:46:01+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -291,6 +291,16 @@
       "location": "",
       "created": "2026-09-05T14:45:50+00:00",
       "last_verified": "2026-09-05T14:45:50+00:00"
+    },
+    "e5376576-f0fb-460c-b76f-0724f0a71854": {
+      "canonical_name": "VC-SV-B105.3 Marescaux",
+      "zoom_room_id": "lscZYb5uTmG9ci-cOfqp9A",
+      "neat_room_id": null,
+      "xyte_space_id": "198054",
+      "xyte_device_ids": [],
+      "location": "",
+      "created": "2026-09-05T14:46:01+00:00",
+      "last_verified": "2026-09-05T14:46:01+00:00"
     }
   },
   "unmapped_zoom": [
