@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T05:59:44+00:00",
+  "last_sync": "2026-09-05T06:00:34+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -191,6 +191,16 @@
       "location": "",
       "created": "2026-09-05T05:59:44+00:00",
       "last_verified": "2026-09-05T05:59:44+00:00"
+    },
+    "0e5aba82-536b-4609-8e53-baf5e74776ab": {
+      "canonical_name": "VC-SV-B105.4 Gray",
+      "zoom_room_id": "EikvWIOHT4et6Hl-Bdauqw",
+      "neat_room_id": "1872",
+      "xyte_space_id": null,
+      "xyte_device_ids": [],
+      "location": "",
+      "created": "2026-09-05T06:00:34+00:00",
+      "last_verified": "2026-09-05T06:00:34+00:00"
     }
   },
   "unmapped_zoom": [
