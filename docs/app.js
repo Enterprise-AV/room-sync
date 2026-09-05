@@ -436,7 +436,9 @@ function closeModal(id) {
 
 // -- Init ---------------------------------------------------------------
 
-(async function init() {
+// Called by auth.js after org membership is verified.
+// No data is fetched until this runs.
+async function onAuthReady() {
   await loadAllData();
 
   // Dashboard
@@ -454,4 +456,4 @@ function closeModal(id) {
   if (document.getElementById('rooms-body')) {
     renderDecomRooms('');
   }
-})();
+}

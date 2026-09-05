@@ -16,7 +16,22 @@
     <button id="auth-btn" onclick="toggleAuth()">Sign in with GitHub</button>
   </nav>
 
-  <div class="content">
+  <!-- Auth gate -->
+  <div id="auth-gate" class="content" style="display:none;">
+    <div style="text-align:center; padding:80px 20px;">
+      <h1 style="margin-bottom:16px;">Room Sync</h1>
+      <p style="color:#777; font-size:16px; margin-bottom:32px;">Sign in to continue.</p>
+      <button class="btn btn-primary" onclick="toggleAuth()" style="font-size:15px; padding:12px 32px;">
+        Sign in with GitHub
+      </button>
+      <p style="color:#999; font-size:13px; margin-top:24px;">
+        Access restricted to Enterprise-AV organization members.
+      </p>
+    </div>
+  </div>
+
+  <!-- Gated content -->
+  <div id="gated-content" class="content" style="display:none;">
     <h1>Decommission Rooms</h1>
     <div class="updated">Remove rooms from all platforms permanently.</div>
 
