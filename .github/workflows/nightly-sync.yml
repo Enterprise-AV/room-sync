@@ -46,4 +46,9 @@ jobs:
           # Only commit sanitized snapshots (raw/ is gitignored)
           git add data/ --ignore-errors
           git diff --cached --quiet || git commit -m "Nightly sync $(date -u +%Y-%m-%d)"
-          git push
+          # Retry push with rebase if another workflow pushed first
+          for i in 1 2 3; do
+            git push && break
+            echo "Push failed (attempt $i), pulling and retrying..."
+            git pull --rebase
+          done
