@@ -348,5 +348,12 @@
     "room_name": "EQ-SV-B105.2 LPX-Instron",
     "uid": "c06156be-a456-42b6-bed6-c5c41f13311e",
     "details": "Mapped: zoom=iluFljtbRqSwOy8CrHoPWA, neat=1558, xyte=None"
+  },
+  {
+    "timestamp": "2026-09-05T16:03:26+00:00",
+    "action": "mapping_approved",
+    "room_name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
+    "uid": "4ec5be5a-0d07-4fd4-9484-175b78221d77",
+    "details": "Mapped: zoom=bgZQILIuSBKtoQt0o_E37A, neat=769, xyte=None"
   }
 ]

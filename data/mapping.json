@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_sync": "2026-09-05T16:03:17+00:00",
+  "last_sync": "2026-09-05T16:03:26+00:00",
   "rooms": {
     "f334044f-ebb1-4e25-b2c2-8e9debd02173": {
       "canonical_name": "VC-SV-B105.3 Systems Analysis Lab",
@@ -381,6 +381,16 @@
       "location": "",
       "created": "2026-09-05T16:03:17+00:00",
       "last_verified": "2026-09-05T16:03:17+00:00"
+    },
+    "4ec5be5a-0d07-4fd4-9484-175b78221d77": {
+      "canonical_name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
+      "zoom_room_id": "bgZQILIuSBKtoQt0o_E37A",
+      "neat_room_id": "769",
+      "xyte_space_id": null,
+      "xyte_device_ids": [],
+      "location": "",
+      "created": "2026-09-05T16:03:26+00:00",
+      "last_verified": "2026-09-05T16:03:26+00:00"
     }
   },
   "unmapped_zoom": [
