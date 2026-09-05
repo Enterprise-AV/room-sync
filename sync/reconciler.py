@@ -352,6 +352,34 @@ def apply_mapping(payload: list, zoom: ZoomClient, neat: NeatClient, xyte: XyteC
         neat_id = entry.get("neat_id")
         xyte_id = entry.get("xyte_space_id")
 
+        # Check for duplicate: skip if this Zoom room is already mapped
+        if zoom_id:
+            existing_uid, existing = mp.find_room_by_platform_id(data, "zoom", zoom_id)
+            if existing:
+                # Merge: fill in missing platform IDs on the existing entry
+                if neat_id and not existing.get("neat_room_id"):
+                    existing["neat_room_id"] = neat_id
+                    print(f"  [merge] Added neat_id={neat_id} to existing mapping for {existing['canonical_name']}")
+                if xyte_id and not existing.get("xyte_space_id"):
+                    existing["xyte_space_id"] = xyte_id
+                    print(f"  [merge] Added xyte_id={xyte_id} to existing mapping for {existing['canonical_name']}")
+                mp.log_change(changelog, action="mapping_merged",
+                              room_name=existing["canonical_name"], uid=existing_uid,
+                              details=f"Merged: neat={neat_id}, xyte={xyte_id} into existing mapping")
+                continue
+
+        # Also check if the target platform room is already mapped
+        if neat_id:
+            eu, er = mp.find_room_by_platform_id(data, "neat", neat_id)
+            if er:
+                print(f"  [skip] Neat room {neat_id} already mapped to '{er['canonical_name']}'")
+                continue
+        if xyte_id:
+            eu, er = mp.find_room_by_platform_id(data, "xyte", xyte_id)
+            if er:
+                print(f"  [skip] Xyte space {xyte_id} already mapped to '{er['canonical_name']}'")
+                continue
+
         # Resolve canonical name from Zoom
         canonical = ""
         if zoom_id:
