@@ -111,7 +111,8 @@ function renderChangelog() {
   const body = document.getElementById('changelog-body');
   if (!body || !changelogData) return;
 
-  const recent = changelogData.slice(-20).reverse();
+  const all = changelogData.slice().reverse();
+  const recent = all.slice(0, 5);
   if (!recent.length) {
     body.innerHTML = '<tr><td colspan="4" class="empty">No changes recorded yet.</td></tr>';
     return;
@@ -125,6 +126,47 @@ function renderChangelog() {
       <td>${esc(e.details || '')}</td>
     </tr>
   `).join('');
+
+  // Download full log link
+  if (all.length > 5) {
+    const wrapper = body.closest('table')?.parentElement;
+    if (wrapper && !document.getElementById('download-log-link')) {
+      wrapper.insertAdjacentHTML('afterend',
+        `<p id="download-log-link" style="margin-top:8px;">
+          Showing 5 of ${all.length} entries.
+          <a href="#" onclick="downloadFullLog(); return false;" style="color:#2980b9;">Download full log (CSV)</a>
+        </p>`);
+    }
+  }
+}
+
+function downloadFullLog() {
+  if (!changelogData || !changelogData.length) return;
+  const header = 'Timestamp,Action,Room Name,Details';
+  const rows = changelogData.slice().reverse().map(e => {
+    const ts = e.timestamp || '';
+    const action = (e.action || '').replace(/_/g, ' ');
+    const name = csvEsc(e.room_name || '');
+    const details = csvEsc(e.details || '');
+    return `${ts},${action},${name},${details}`;
+  });
+  const csv = [header, ...rows].join('\n');
+  const blob = new Blob([csv], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `room-sync-changelog-${new Date().toISOString().slice(0, 10)}.csv`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+function csvEsc(s) {
+  if (s == null) return '';
+  s = String(s);
+  if (s.includes(',') || s.includes('"') || s.includes('\n')) {
+    return '"' + s.replace(/"/g, '""') + '"';
+  }
+  return s;
 }
 
 function renderDiscrepancies() {
