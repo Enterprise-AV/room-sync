@@ -24,7 +24,7 @@
           "score": 0.757
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -38,7 +38,7 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -64,19 +64,13 @@
           "score": 0.737
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "NmN8mzGjSBeHGJcyEQHFow",
       "source_name": "VC-SV-B105.2 Lacks",
       "matches": [
-        {
-          "platform": "neat",
-          "id": 1831,
-          "name": "VC-SV-B105.2 Lacks",
-          "score": 1.0
-        },
         {
           "platform": "neat",
           "id": 1832,
@@ -88,9 +82,15 @@
           "id": 1866,
           "name": "VC-SV-B105.3 Wilkins",
           "score": 0.789
+        },
+        {
+          "platform": "neat",
+          "id": 1837,
+          "name": "VC-SV-B105.2 Scott",
+          "score": 0.778
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -116,7 +116,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -142,7 +142,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -168,7 +168,7 @@
           "score": 0.811
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -194,7 +194,7 @@
           "score": 0.811
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -220,7 +220,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -246,7 +246,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -272,7 +272,7 @@
           "score": 0.778
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -298,7 +298,7 @@
           "score": 0.732
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -324,7 +324,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -350,7 +350,7 @@
           "score": 0.811
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -364,7 +364,7 @@
           "score": 0.706
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -378,7 +378,7 @@
           "score": 0.706
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -392,7 +392,7 @@
           "score": 0.706
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -418,7 +418,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -439,12 +439,12 @@
         },
         {
           "platform": "neat",
-          "id": 1831,
-          "name": "VC-SV-B105.2 Lacks",
+          "id": 1841,
+          "name": "VC-SV-B105.3 Allen",
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -470,7 +470,7 @@
           "score": 0.762
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -496,7 +496,7 @@
           "score": 0.833
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -517,12 +517,12 @@
         },
         {
           "platform": "neat",
-          "id": 1831,
-          "name": "VC-SV-B105.2 Lacks",
+          "id": 474,
+          "name": "VC-SV-B105.3 Crick",
           "score": 0.778
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -548,7 +548,7 @@
           "score": 0.789
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -574,7 +574,7 @@
           "score": 0.769
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -600,19 +600,13 @@
           "score": 0.714
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "HAWRxJkeRR-_OX4w-vXwFQ",
       "source_name": "VC-SV-B105.4 NPV Lab",
       "matches": [
-        {
-          "platform": "neat",
-          "id": 1831,
-          "name": "VC-SV-B105.2 Lacks",
-          "score": 0.737
-        },
         {
           "platform": "neat",
           "id": 1871,
@@ -624,9 +618,15 @@
           "id": 1846,
           "name": "VC-SV-B105.3 Doudna",
           "score": 0.718
+        },
+        {
+          "platform": "neat",
+          "id": 1873,
+          "name": "VC-SV-B105.4 Jacobaeus",
+          "score": 0.714
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -646,7 +646,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -660,7 +660,7 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -675,24 +675,30 @@
         },
         {
           "platform": "neat",
-          "id": 470,
-          "name": "EQ-SV-B105.3 PDE Systems Analy 6",
+          "id": 471,
+          "name": "EQ-SV-B105.3 PDE Systems Analy 4",
           "score": 0.969
         },
         {
           "platform": "neat",
-          "id": 472,
-          "name": "EQ-SV-B105.3 PDE Systems Analy 7",
+          "id": 470,
+          "name": "EQ-SV-B105.3 PDE Systems Analy 6",
           "score": 0.969
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
       "source_id": "-K21VwxCTnCKveFgCB6r8w",
       "source_name": "EQ-SV-B105.3 PDE Systems Analy 4",
       "matches": [
+        {
+          "platform": "neat",
+          "id": 471,
+          "name": "EQ-SV-B105.3 PDE Systems Analy 4",
+          "score": 1.0
+        },
         {
           "platform": "neat",
           "id": 469,
@@ -704,15 +710,9 @@
           "id": 470,
           "name": "EQ-SV-B105.3 PDE Systems Analy 6",
           "score": 0.969
-        },
-        {
-          "platform": "neat",
-          "id": 472,
-          "name": "EQ-SV-B105.3 PDE Systems Analy 7",
-          "score": 0.969
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -733,12 +733,12 @@
         },
         {
           "platform": "neat",
-          "id": 472,
-          "name": "EQ-SV-B105.3 PDE Systems Analy 7",
+          "id": 471,
+          "name": "EQ-SV-B105.3 PDE Systems Analy 4",
           "score": 0.969
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -758,7 +758,7 @@
           "score": 0.776
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -772,7 +772,7 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -787,18 +787,12 @@
         },
         {
           "platform": "neat",
-          "id": 247,
-          "name": "EQ-SV-B105.4 Stapler 10 CT Scanner",
-          "score": 0.769
-        },
-        {
-          "platform": "neat",
           "id": 771,
           "name": "EQ-SV-B105.4 Instron 1kN",
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -824,7 +818,7 @@
           "score": 0.762
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -850,7 +844,7 @@
           "score": 0.739
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -876,7 +870,7 @@
           "score": 0.714
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -902,7 +896,7 @@
           "score": 0.756
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -928,7 +922,7 @@
           "score": 0.756
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -942,7 +936,7 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -968,7 +962,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -994,7 +988,7 @@
           "score": 0.727
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1008,7 +1002,7 @@
           "score": 1.0
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1028,7 +1022,7 @@
           "score": 0.714
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1042,7 +1036,7 @@
           "score": 0.919
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1056,7 +1050,7 @@
           "score": 0.833
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1070,7 +1064,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1084,7 +1078,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1104,7 +1098,7 @@
           "score": 0.75
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1118,7 +1112,7 @@
           "score": 0.786
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1132,7 +1126,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1146,7 +1140,7 @@
           "score": 0.812
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1160,7 +1154,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1174,7 +1168,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1188,7 +1182,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1202,7 +1196,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1216,7 +1210,7 @@
           "score": 0.857
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1230,7 +1224,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1244,7 +1238,7 @@
           "score": 0.8
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1258,7 +1252,7 @@
           "score": 0.842
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1272,7 +1266,7 @@
           "score": 0.857
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1286,7 +1280,7 @@
           "score": 0.824
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1300,7 +1294,7 @@
           "score": 0.731
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1314,7 +1308,7 @@
           "score": 0.731
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1328,7 +1322,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1342,7 +1336,7 @@
           "score": 0.712
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1356,7 +1350,7 @@
           "score": 0.712
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1370,7 +1364,7 @@
           "score": 0.712
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1384,7 +1378,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1398,7 +1392,7 @@
           "score": 0.875
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1412,7 +1406,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1426,7 +1420,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1440,7 +1434,7 @@
           "score": 0.85
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1454,7 +1448,7 @@
           "score": 0.88
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1468,7 +1462,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1482,7 +1476,7 @@
           "score": 0.864
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1496,7 +1490,7 @@
           "score": 0.885
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     },
     {
       "source_platform": "zoom",
@@ -1510,7 +1504,7 @@
           "score": 0.718
         }
       ],
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:52+00:00"
     }
   ],
   "discrepancies": [
@@ -1520,7 +1514,7 @@
       "platform": "xyte",
       "platform_name": "B105.4 Stapling",
       "platform_id": "198124",
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:51+00:00"
     },
     {
       "uid": "72fc597b-0fa2-41be-a96a-57c500cec29e",
@@ -1528,7 +1522,7 @@
       "platform": "neat",
       "platform_name": "EQ-SV-B105.3 Stapler 4 Chatillon",
       "platform_id": "244",
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:51+00:00"
     },
     {
       "uid": "91c71990-50d2-4c16-9a54-a945cafe366d",
@@ -1536,7 +1530,7 @@
       "platform": "xyte",
       "platform_name": "B105.3 Shark Somayaji",
       "platform_id": "198142",
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:51+00:00"
     },
     {
       "uid": "f743e8e2-8f97-46f1-8a71-1dd7215fcdbf",
@@ -1544,7 +1538,7 @@
       "platform": "xyte",
       "platform_name": "B105.3 Veronica Thralls",
       "platform_id": "198130",
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:51+00:00"
     },
     {
       "uid": "2e7b71c5-c17b-46fa-90d2-8fd85fb571f6",
@@ -1552,7 +1546,7 @@
       "platform": "xyte",
       "platform_name": "B105.4 Woodson",
       "platform_id": "198126",
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:51+00:00"
     },
     {
       "uid": "e5376576-f0fb-460c-b76f-0724f0a71854",
@@ -1560,7 +1554,7 @@
       "platform": "xyte",
       "platform_name": "B105.3 Marescaux",
       "platform_id": "198054",
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:51+00:00"
     },
     {
       "uid": "814ea5d6-6b34-4847-9d97-732f70b6d70a",
@@ -1568,7 +1562,7 @@
       "platform": "neat",
       "platform_name": "EQ-SV-B105.3 Stapler 7 Iron Horse",
       "platform_id": "245",
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:51+00:00"
     },
     {
       "uid": "c66dbe3c-2ef8-4d7c-83e4-374436632731",
@@ -1576,7 +1570,7 @@
       "platform": "neat",
       "platform_name": "EQ-SV-B105.3 Stapler 8 Xi System",
       "platform_id": "246",
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:51+00:00"
     },
     {
       "uid": "92a8ccc4-eb3b-43e6-aece-beb85e90e478",
@@ -1584,7 +1578,15 @@
       "platform": "xyte",
       "platform_name": "B105.3 Taussig",
       "platform_id": "206139",
-      "detected": "2026-09-05T16:16:17+00:00"
+      "detected": "2026-09-06T09:08:51+00:00"
+    },
+    {
+      "uid": "748d473a-cb89-4213-a2d3-2c0c597165bd",
+      "canonical_name": "VC-SV-B105.3 Pitter",
+      "platform": "neat",
+      "platform_name": "[DELETED] was 1862",
+      "platform_id": "1862",
+      "detected": "2026-09-06T09:08:51+00:00"
     }
   ],
   "create_requests": [],

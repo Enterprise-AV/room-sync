@@ -1,0 +1,1762 @@
+[
+  {
+    "id": 198003,
+    "name": "1st",
+    "parent_id": 47060,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/1st",
+    "space_type": "room",
+    "created_at": "2026-08-17T17:27:11Z",
+    "_path": "1st"
+  },
+  {
+    "id": 198094,
+    "name": "B105.1 Al Qassimi",
+    "parent_id": 198003,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/1st/B105.1 Al Qassimi",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:55:08Z",
+    "_path": "1st/B105.1 Al Qassimi"
+  },
+  {
+    "id": 198106,
+    "name": "B105.1 Menon Display Right",
+    "parent_id": 198003,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/1st/B105.1 Menon Display Right",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:35:02Z",
+    "_path": "1st/B105.1 Menon Display Right"
+  },
+  {
+    "id": 198004,
+    "name": "B105.1 Alcorn",
+    "parent_id": 198003,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/1st/B105.1 Alcorn",
+    "space_type": "room",
+    "created_at": "2026-08-17T17:27:13Z",
+    "_path": "1st/B105.1 Alcorn"
+  },
+  {
+    "id": 198013,
+    "name": "B105.1 Apgar",
+    "parent_id": 198003,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/1st/B105.1 Apgar",
+    "space_type": "room",
+    "created_at": "2026-08-17T18:28:05Z",
+    "_path": "1st/B105.1 Apgar"
+  },
+  {
+    "id": 198095,
+    "name": "B105.1 Sagan",
+    "parent_id": 198003,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/1st/B105.1 Sagan",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:59:14Z",
+    "_path": "1st/B105.1 Sagan"
+  },
+  {
+    "id": 198104,
+    "name": "B105.1 Menon Rack PDU",
+    "parent_id": 198003,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/1st/B105.1 Menon Rack PDU",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:28:55Z",
+    "_path": "1st/B105.1 Menon Rack PDU"
+  },
+  {
+    "id": 198105,
+    "name": "B105.1 Menon Display Left",
+    "parent_id": 198003,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/1st/B105.1 Menon Display Left",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:32:07Z",
+    "_path": "1st/B105.1 Menon Display Left"
+  },
+  {
+    "id": 198020,
+    "name": "B105.1 Bath",
+    "parent_id": 198003,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/1st/B105.1 Bath",
+    "space_type": "room",
+    "created_at": "2026-08-17T19:02:11Z",
+    "_path": "1st/B105.1 Bath"
+  },
+  {
+    "id": 198116,
+    "name": "B105.1 Reliability Thermal Chamber",
+    "parent_id": 198003,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/1st/B105.1 Reliability Thermal Chamber",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:13:25Z",
+    "_path": "1st/B105.1 Reliability Thermal Chamber"
+  },
+  {
+    "id": 198027,
+    "name": "2nd",
+    "parent_id": 47060,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/2nd",
+    "space_type": "room",
+    "created_at": "2026-08-17T19:09:51Z",
+    "_path": "2nd"
+  },
+  {
+    "id": 203460,
+    "name": "B105.2 Barton",
+    "parent_id": 198027,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/2nd/B105.2 Barton",
+    "space_type": "room",
+    "created_at": "2026-08-28T17:25:28Z",
+    "_path": "2nd/B105.2 Barton"
+  },
+  {
+    "id": 198028,
+    "name": "B105.2 Favaloro",
+    "parent_id": 198027,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/2nd/B105.2 Favaloro",
+    "space_type": "room",
+    "created_at": "2026-08-17T19:09:53Z",
+    "_path": "2nd/B105.2 Favaloro"
+  },
+  {
+    "id": 198036,
+    "name": "B105.2 Shurer",
+    "parent_id": 198027,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/2nd/B105.2 Shurer",
+    "space_type": "room",
+    "created_at": "2026-08-17T19:20:41Z",
+    "_path": "2nd/B105.2 Shurer"
+  },
+  {
+    "id": 198107,
+    "name": "B105.2 DB Hallway",
+    "parent_id": 198027,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/2nd/B105.2 DB Hallway",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:41:36Z",
+    "_path": "2nd/B105.2 DB Hallway"
+  },
+  {
+    "id": 198030,
+    "name": "B105.2 Mohs",
+    "parent_id": 198027,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/2nd/B105.2 Mohs",
+    "space_type": "room",
+    "created_at": "2026-08-17T19:13:03Z",
+    "_path": "2nd/B105.2 Mohs"
+  },
+  {
+    "id": 198035,
+    "name": "B105.2 Scott",
+    "parent_id": 198027,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/2nd/B105.2 Scott",
+    "space_type": "room",
+    "created_at": "2026-08-17T19:17:21Z",
+    "_path": "2nd/B105.2 Scott"
+  },
+  {
+    "id": 198096,
+    "name": "B105.2 Whipple",
+    "parent_id": 198027,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/2nd/B105.2 Whipple",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:02:45Z",
+    "_path": "2nd/B105.2 Whipple"
+  },
+  {
+    "id": 198117,
+    "name": "B105.2 Global Labeling Lab",
+    "parent_id": 198027,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/2nd/B105.2 Global Labeling Lab",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:17:17Z",
+    "_path": "2nd/B105.2 Global Labeling Lab"
+  },
+  {
+    "id": 198071,
+    "name": "4th",
+    "parent_id": 47060,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:08:05Z",
+    "_path": "4th"
+  },
+  {
+    "id": 198072,
+    "name": "B105.4 Elion",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Elion",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:08:06Z",
+    "_path": "4th/B105.4 Elion"
+  },
+  {
+    "id": 198077,
+    "name": "B105.4 Gray",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Gray",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:13:35Z",
+    "_path": "4th/B105.4 Gray"
+  },
+  {
+    "id": 198118,
+    "name": "B105.4 Reliability Lab",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Reliability Lab",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:20:21Z",
+    "_path": "4th/B105.4 Reliability Lab"
+  },
+  {
+    "id": 198120,
+    "name": "B105.4 NPV Lab",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 NPV Lab",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:29:39Z",
+    "_path": "4th/B105.4 NPV Lab"
+  },
+  {
+    "id": 198124,
+    "name": "B105.4 Stapling",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Stapling",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:36:25Z",
+    "_path": "4th/B105.4 Stapling"
+  },
+  {
+    "id": 198126,
+    "name": "B105.4 Woodson",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Woodson",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:45:21Z",
+    "_path": "4th/B105.4 Woodson"
+  },
+  {
+    "id": 198137,
+    "name": "B105.4 Curie Rack PDU",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Curie Rack PDU",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:24:30Z",
+    "_path": "4th/B105.4 Curie Rack PDU"
+  },
+  {
+    "id": 198139,
+    "name": "B105.4 Curie Display Right",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Curie Display Right",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:30:48Z",
+    "_path": "4th/B105.4 Curie Display Right"
+  },
+  {
+    "id": 198089,
+    "name": "B105.4 Semmelweis",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Semmelweis",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:44:54Z",
+    "_path": "4th/B105.4 Semmelweis"
+  },
+  {
+    "id": 198090,
+    "name": "B105.4 Satava",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Satava",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:48:21Z",
+    "_path": "4th/B105.4 Satava"
+  },
+  {
+    "id": 198109,
+    "name": "B105.4 Fauci",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Fauci",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:49:20Z",
+    "_path": "4th/B105.4 Fauci"
+  },
+  {
+    "id": 198125,
+    "name": "B105.4 Hooke",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Hooke",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:41:15Z",
+    "_path": "4th/B105.4 Hooke"
+  },
+  {
+    "id": 198083,
+    "name": "B105.4 Kubler-Ross",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Kubler-Ross",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:35:05Z",
+    "_path": "4th/B105.4 Kubler-Ross"
+  },
+  {
+    "id": 198091,
+    "name": "B105.4 Scheinman",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Scheinman",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:51:56Z",
+    "_path": "4th/B105.4 Scheinman"
+  },
+  {
+    "id": 198110,
+    "name": "B105.4 Jacobaeus",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Jacobaeus",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:53:42Z",
+    "_path": "4th/B105.4 Jacobaeus"
+  },
+  {
+    "id": 198138,
+    "name": "B105.4 Curie Display Left",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Curie Display Left",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:28:44Z",
+    "_path": "4th/B105.4 Curie Display Left"
+  },
+  {
+    "id": 198115,
+    "name": "B105.4 Accessories",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Accessories",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:09:52Z",
+    "_path": "4th/B105.4 Accessories"
+  },
+  {
+    "id": 198076,
+    "name": "B105.4 Euclid",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Euclid",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:11:07Z",
+    "_path": "4th/B105.4 Euclid"
+  },
+  {
+    "id": 204176,
+    "name": "B105.4 Project Room 4061",
+    "parent_id": 198071,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/4th/B105.4 Project Room 4061",
+    "space_type": "room",
+    "created_at": "2026-08-31T19:18:51Z",
+    "_path": "4th/B105.4 Project Room 4061"
+  },
+  {
+    "id": 88706,
+    "name": "3rd",
+    "parent_id": 47060,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd",
+    "space_type": "room",
+    "created_at": "2025-11-25T18:11:44Z",
+    "_path": "3rd"
+  },
+  {
+    "id": 198079,
+    "name": "B105.3 Jeff Tessier",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Jeff Tessier",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:19:27Z",
+    "_path": "3rd/B105.3 Jeff Tessier"
+  },
+  {
+    "id": 198081,
+    "name": "B105.3 Karpaga Sundari",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Karpaga Sundari",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:22:15Z",
+    "_path": "3rd/B105.3 Karpaga Sundari"
+  },
+  {
+    "id": 198102,
+    "name": "B105.3 SA",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 SA",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:22:24Z",
+    "_path": "3rd/B105.3 SA"
+  },
+  {
+    "id": 198127,
+    "name": "B105.3 DNA Rack PDU",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 DNA Rack PDU",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:48:04Z",
+    "_path": "3rd/B105.3 DNA Rack PDU"
+  },
+  {
+    "id": 198129,
+    "name": "B105.3 DNA Display Right",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 DNA Display Right",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:52:49Z",
+    "_path": "3rd/B105.3 DNA Display Right"
+  },
+  {
+    "id": 198130,
+    "name": "B105.3 Veronica Thralls",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Veronica Thralls",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:01:15Z",
+    "_path": "3rd/B105.3 Veronica Thralls"
+  },
+  {
+    "id": 198133,
+    "name": "B105.3 Mark Brosius",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Mark Brosius",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:11:52Z",
+    "_path": "3rd/B105.3 Mark Brosius"
+  },
+  {
+    "id": 198135,
+    "name": "B105.3 Iman Jeddi",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Iman Jeddi",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:16:51Z",
+    "_path": "3rd/B105.3 Iman Jeddi"
+  },
+  {
+    "id": 198140,
+    "name": "B105.3 Chris Cappello",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Chris Cappello",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:33:15Z",
+    "_path": "3rd/B105.3 Chris Cappello"
+  },
+  {
+    "id": 202618,
+    "name": "Marescaux",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/Marescaux",
+    "space_type": "room",
+    "created_at": "2026-08-27T18:37:02Z",
+    "_path": "3rd/Marescaux"
+  },
+  {
+    "id": 205750,
+    "name": "B105.3 Analysis Lab",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Analysis Lab",
+    "space_type": "room",
+    "created_at": "2026-09-02T20:40:33Z",
+    "_path": "3rd/B105.3 Analysis Lab"
+  },
+  {
+    "id": 200565,
+    "name": "B105.3 Elders",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Elders",
+    "space_type": "room",
+    "created_at": "2026-08-26T18:24:15Z",
+    "_path": "3rd/B105.3 Elders"
+  },
+  {
+    "id": 198046,
+    "name": "B105.3 Doudna",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Doudna",
+    "space_type": "room",
+    "created_at": "2026-08-17T19:31:00Z",
+    "_path": "3rd/B105.3 Doudna"
+  },
+  {
+    "id": 198056,
+    "name": "B105.3 David Robinson",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 David Robinson",
+    "space_type": "room",
+    "created_at": "2026-08-17T19:58:59Z",
+    "_path": "3rd/B105.3 David Robinson"
+  },
+  {
+    "id": 198069,
+    "name": "B105.3 Thomas",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Thomas",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:03:08Z",
+    "_path": "3rd/B105.3 Thomas"
+  },
+  {
+    "id": 198098,
+    "name": "B105.3 Byers",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Byers",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:08:32Z",
+    "_path": "3rd/B105.3 Byers"
+  },
+  {
+    "id": 198112,
+    "name": "B105.3 Kevin Rooney",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Kevin Rooney",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:02:16Z",
+    "_path": "3rd/B105.3 Kevin Rooney"
+  },
+  {
+    "id": 198131,
+    "name": "B105.3 Energy",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Energy",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:03:38Z",
+    "_path": "3rd/B105.3 Energy"
+  },
+  {
+    "id": 206139,
+    "name": "B105.3 Taussig",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Taussig",
+    "space_type": "room",
+    "created_at": "2026-09-03T17:18:34Z",
+    "_path": "3rd/B105.3 Taussig"
+  },
+  {
+    "id": 198047,
+    "name": "B105.3 Hawking",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Hawking",
+    "space_type": "room",
+    "created_at": "2026-08-17T19:35:02Z",
+    "_path": "3rd/B105.3 Hawking"
+  },
+  {
+    "id": 198078,
+    "name": "B105.3 VP Hotel",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 VP Hotel",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:16:34Z",
+    "_path": "3rd/B105.3 VP Hotel"
+  },
+  {
+    "id": 198082,
+    "name": "B105.3 Charlie Dean",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Charlie Dean",
+    "space_type": "room",
+    "created_at": "2026-08-17T20:24:52Z",
+    "_path": "3rd/B105.3 Charlie Dean"
+  },
+  {
+    "id": 198097,
+    "name": "B105.3 Allen",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Allen",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:06:02Z",
+    "_path": "3rd/B105.3 Allen"
+  },
+  {
+    "id": 198099,
+    "name": "B105.3 Lane-Claypon",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Lane-Claypon",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:11:18Z",
+    "_path": "3rd/B105.3 Lane-Claypon"
+  },
+  {
+    "id": 198100,
+    "name": "B105.3 Pitter",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Pitter",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:14:30Z",
+    "_path": "3rd/B105.3 Pitter"
+  },
+  {
+    "id": 198101,
+    "name": "B105.3 Systems Analysis Lab",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Systems Analysis Lab",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:19:38Z",
+    "_path": "3rd/B105.3 Systems Analysis Lab"
+  },
+  {
+    "id": 198108,
+    "name": "B105.3 Core",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Core",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:45:27Z",
+    "_path": "3rd/B105.3 Core"
+  },
+  {
+    "id": 198113,
+    "name": "B105.3 Weibull",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Weibull",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:05:37Z",
+    "_path": "3rd/B105.3 Weibull"
+  },
+  {
+    "id": 198132,
+    "name": "B105.3 Wilkins",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Wilkins",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:06:12Z",
+    "_path": "3rd/B105.3 Wilkins"
+  },
+  {
+    "id": 198134,
+    "name": "B105.3 Mike Prindiville",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Mike Prindiville",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:14:27Z",
+    "_path": "3rd/B105.3 Mike Prindiville"
+  },
+  {
+    "id": 198141,
+    "name": "B105.3 James Wall",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 James Wall",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:35:18Z",
+    "_path": "3rd/B105.3 James Wall"
+  },
+  {
+    "id": 198142,
+    "name": "B105.3 Shark Somayaji",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Shark Somayaji",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:39:08Z",
+    "_path": "3rd/B105.3 Shark Somayaji"
+  },
+  {
+    "id": 200235,
+    "name": "B105.3 Barton",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Barton",
+    "space_type": "room",
+    "created_at": "2026-08-26T00:00:33Z",
+    "_path": "3rd/B105.3 Barton"
+  },
+  {
+    "id": 198041,
+    "name": "B105.3 Chandrasekhar",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Chandrasekhar",
+    "space_type": "room",
+    "created_at": "2026-08-17T19:27:48Z",
+    "_path": "3rd/B105.3 Chandrasekhar"
+  },
+  {
+    "id": 198054,
+    "name": "B105.3 Marescaux",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Marescaux",
+    "space_type": "room",
+    "created_at": "2026-08-17T19:50:09Z",
+    "_path": "3rd/B105.3 Marescaux"
+  },
+  {
+    "id": 198111,
+    "name": "B105.3 Joshua Chaidez",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Joshua Chaidez",
+    "space_type": "room",
+    "created_at": "2026-08-17T21:56:23Z",
+    "_path": "3rd/B105.3 Joshua Chaidez"
+  },
+  {
+    "id": 198136,
+    "name": "B105.3 Joanne Lum",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Joanne Lum",
+    "space_type": "room",
+    "created_at": "2026-08-17T23:21:30Z",
+    "_path": "3rd/B105.3 Joanne Lum"
+  },
+  {
+    "id": 198052,
+    "name": "B105.3 Laporta",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Laporta",
+    "space_type": "room",
+    "created_at": "2026-08-17T19:43:12Z",
+    "_path": "3rd/B105.3 Laporta"
+  },
+  {
+    "id": 198128,
+    "name": "B105.3 DNA Display Left",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 DNA Display Left",
+    "space_type": "room",
+    "created_at": "2026-08-17T22:50:25Z",
+    "_path": "3rd/B105.3 DNA Display Left"
+  },
+  {
+    "id": 49710,
+    "name": "B105.3 Crick",
+    "parent_id": 88706,
+    "config": {
+      "location": {
+        "location": {
+          "lat": 37.3728835,
+          "lng": -122.0038961
+        },
+        "utc_offset": -480,
+        "description": "1020 Kifer Road, Sunnyvale, CA, USA",
+        "region_name": "America/Los_Angeles"
+      },
+      "priority_factor": 0,
+      "temperature_units": "fahrenheit"
+    },
+    "path": "Overview/Intuitive/B105/3rd/B105.3 Crick",
+    "space_type": "room",
+    "created_at": "2025-05-20T17:21:18Z",
+    "_path": "3rd/B105.3 Crick"
+  }
+]

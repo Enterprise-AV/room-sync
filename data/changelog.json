@@ -383,5 +383,12 @@
     "room_name": "VC-SV-B105.3 Taussig",
     "uid": "92a8ccc4-eb3b-43e6-aece-beb85e90e478",
     "details": "Mapped: zoom=ovkJcw_VRsyh3blcDROSeQ, neat=None, xyte=206139"
+  },
+  {
+    "timestamp": "2026-09-06T09:08:51+00:00",
+    "action": "platform_deleted",
+    "room_name": "VC-SV-B105.3 Pitter",
+    "uid": "748d473a-cb89-4213-a2d3-2c0c597165bd",
+    "details": "neat room/space 1862 no longer exists"
   }
 ]

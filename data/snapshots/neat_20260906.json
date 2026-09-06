@@ -1,0 +1,377 @@
+[
+  {
+    "id": 1558,
+    "name": "EQ-SV-B105.2 LPX-Instron",
+    "_raw_name": "EQ-SV-B105.2 LPX-Instron"
+  },
+  {
+    "id": 1557,
+    "name": "EQ-SV-B105.2 LPX-LPD1",
+    "_raw_name": "EQ-SV-B105.2 LPX-LPD1"
+  },
+  {
+    "id": 469,
+    "name": "EQ-SV-B105.3 PDE Systems Analy 1",
+    "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 1"
+  },
+  {
+    "id": 471,
+    "name": "EQ-SV-B105.3 PDE Systems Analy 4",
+    "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 4"
+  },
+  {
+    "id": 470,
+    "name": "EQ-SV-B105.3 PDE Systems Analy 6",
+    "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 6"
+  },
+  {
+    "id": 472,
+    "name": "EQ-SV-B105.3 PDE Systems Analy 7",
+    "_raw_name": "EQ-SV-B105.3 PDE Systems Analy 7"
+  },
+  {
+    "id": 244,
+    "name": "EQ-SV-B105.3 Stapler 4 Chatillon",
+    "_raw_name": "EQ-SV-B105.3 Stapler 4 Chatillon"
+  },
+  {
+    "id": 687,
+    "name": "EQ-SV-B105.3 Stapler 5 3D Printer",
+    "_raw_name": "EQ-SV-B105.3 Stapler 5 3D Printer"
+  },
+  {
+    "id": 245,
+    "name": "EQ-SV-B105.3 Stapler 7 Iron Horse",
+    "_raw_name": "EQ-SV-B105.3 Stapler 7 Iron Horse"
+  },
+  {
+    "id": 246,
+    "name": "EQ-SV-B105.3 Stapler 8 Xi System",
+    "_raw_name": "EQ-SV-B105.3 Stapler 8 Xi System"
+  },
+  {
+    "id": 769,
+    "name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer",
+    "_raw_name": "EQ-SV-B105.4 Bambu X1 FDM 3D Printer"
+  },
+  {
+    "id": 770,
+    "name": "EQ-SV-B105.4 Form 3 SLA 3D Printer",
+    "_raw_name": "EQ-SV-B105.4 Form 3 SLA 3D Printer"
+  },
+  {
+    "id": 771,
+    "name": "EQ-SV-B105.4 Instron 1kN",
+    "_raw_name": "EQ-SV-B105.4 Instron 1kN"
+  },
+  {
+    "id": 511,
+    "name": "EQ-SV-B105.4 Reliability Lab Neat Board Neatframe NF20C1",
+    "_raw_name": "EQ-SV-B105.4 Reliability Lab Neat Board Neatframe NF20C1"
+  },
+  {
+    "id": 468,
+    "name": "Lab-SV-B105.2 Global Labeling Lab",
+    "_raw_name": "Lab-SV-B105.2 Global Labeling Lab"
+  },
+  {
+    "id": 1826,
+    "name": "VC-SV-B105.1 Alcorn",
+    "_raw_name": "VC-SV-B105.1 Alcorn"
+  },
+  {
+    "id": 1825,
+    "name": "VC-SV-B105.1 Al Qassimi",
+    "_raw_name": "VC-SV-B105.1 Al Qassimi"
+  },
+  {
+    "id": 1827,
+    "name": "VC-SV-B105.1 Apgar",
+    "_raw_name": "VC-SV-B105.1 Apgar"
+  },
+  {
+    "id": 1828,
+    "name": "VC-SV-B105.1 Bath",
+    "_raw_name": "VC-SV-B105.1 Bath"
+  },
+  {
+    "id": 586,
+    "name": "VC-SV-B105.1 Reliability Thermal Chamber",
+    "_raw_name": "VC-SV-B105.1 Reliability Thermal Chamber"
+  },
+  {
+    "id": 253,
+    "name": "VC-SV-B105.1 Sagan",
+    "_raw_name": "VC-SV-B105.1 Sagan"
+  },
+  {
+    "id": 545,
+    "name": "VC-SV-B105.2 DB Hallway",
+    "_raw_name": "VC-SV-B105.2 DB Hallway"
+  },
+  {
+    "id": 1830,
+    "name": "VC-SV-B105.2 Favaloro",
+    "_raw_name": "VC-SV-B105.2 Favaloro"
+  },
+  {
+    "id": 1832,
+    "name": "VC-SV-B105.2 Mohs",
+    "_raw_name": "VC-SV-B105.2 Mohs"
+  },
+  {
+    "id": 1837,
+    "name": "VC-SV-B105.2 Scott",
+    "_raw_name": "VC-SV-B105.2 Scott"
+  },
+  {
+    "id": 1838,
+    "name": "VC-SV-B105.2 Shurer",
+    "_raw_name": "VC-SV-B105.2 Shurer"
+  },
+  {
+    "id": 1839,
+    "name": "VC-SV-B105.2 Whipple",
+    "_raw_name": "VC-SV-B105.2 Whipple"
+  },
+  {
+    "id": 1840,
+    "name": "VC-SV-B105.3 Advanced Energy Lab",
+    "_raw_name": "VC-SV-B105.3 Advanced Energy Lab"
+  },
+  {
+    "id": 1841,
+    "name": "VC-SV-B105.3 Allen",
+    "_raw_name": "VC-SV-B105.3 Allen"
+  },
+  {
+    "id": 1842,
+    "name": "VC-SV-B105.3 Barton",
+    "_raw_name": "VC-SV-B105.3 Barton"
+  },
+  {
+    "id": 1843,
+    "name": "VC-SV-B105.3 Byers",
+    "_raw_name": "VC-SV-B105.3 Byers"
+  },
+  {
+    "id": 1844,
+    "name": "VC-SV-B105.3 Chandrasekhar",
+    "_raw_name": "VC-SV-B105.3 Chandrasekhar"
+  },
+  {
+    "id": 546,
+    "name": "VC-SV-B105.3 Charlie Dean",
+    "_raw_name": "VC-SV-B105.3 Charlie Dean"
+  },
+  {
+    "id": 473,
+    "name": "VC-SV-B105.3 Chris Cappello",
+    "_raw_name": "VC-SV-B105.3 Chris Cappello"
+  },
+  {
+    "id": 1460,
+    "name": "VC-SV-B105.3 Core",
+    "_raw_name": "VC-SV-B105.3 Core"
+  },
+  {
+    "id": 474,
+    "name": "VC-SV-B105.3 Crick",
+    "_raw_name": "VC-SV-B105.3 Crick"
+  },
+  {
+    "id": 1124,
+    "name": "VC-SV-B105.3 David Robinson",
+    "_raw_name": "VC-SV-B105.3 David Robinson"
+  },
+  {
+    "id": 1846,
+    "name": "VC-SV-B105.3 Doudna",
+    "_raw_name": "VC-SV-B105.3 Doudna"
+  },
+  {
+    "id": 1847,
+    "name": "VC-SV-B105.3 Elders",
+    "_raw_name": "VC-SV-B105.3 Elders"
+  },
+  {
+    "id": 475,
+    "name": "VC-SV-B105.3 Energy",
+    "_raw_name": "VC-SV-B105.3 Energy"
+  },
+  {
+    "id": 1848,
+    "name": "VC-SV-B105.3 Franklin-R",
+    "_raw_name": "VC-SV-B105.3 Franklin-R"
+  },
+  {
+    "id": 1849,
+    "name": "VC-SV-B105.3 Hawking",
+    "_raw_name": "VC-SV-B105.3 Hawking"
+  },
+  {
+    "id": 1850,
+    "name": "VC-SV-B105.3 Iman Jeddi",
+    "_raw_name": "VC-SV-B105.3 Iman Jeddi"
+  },
+  {
+    "id": 1081,
+    "name": "VC-SV-B105.3 James Wall",
+    "_raw_name": "VC-SV-B105.3 James Wall"
+  },
+  {
+    "id": 1851,
+    "name": "VC-SV-B105.3 Jeff Tessier",
+    "_raw_name": "VC-SV-B105.3 Jeff Tessier"
+  },
+  {
+    "id": 1852,
+    "name": "VC-SV-B105.3 Joanne Lum",
+    "_raw_name": "VC-SV-B105.3 Joanne Lum"
+  },
+  {
+    "id": 1853,
+    "name": "VC-SV-B105.3 Joshua Chaidez",
+    "_raw_name": "VC-SV-B105.3 Joshua Chaidez"
+  },
+  {
+    "id": 1854,
+    "name": "VC-SV-B105.3 Karpaga Sundari",
+    "_raw_name": "VC-SV-B105.3 Karpaga Sundari"
+  },
+  {
+    "id": 554,
+    "name": "VC-SV-B105.3 Kevin Rooney",
+    "_raw_name": "VC-SV-B105.3 Kevin Rooney"
+  },
+  {
+    "id": 1855,
+    "name": "VC-SV-B105.3 Lane-Claypon",
+    "_raw_name": "VC-SV-B105.3 Lane-Claypon"
+  },
+  {
+    "id": 1856,
+    "name": "VC-SV-B105.3 Laporta",
+    "_raw_name": "VC-SV-B105.3 Laporta"
+  },
+  {
+    "id": 1857,
+    "name": "VC-SV-B105.3 Marescaux",
+    "_raw_name": "VC-SV-B105.3 Marescaux"
+  },
+  {
+    "id": 1858,
+    "name": "VC-SV-B105.3 Mark Brosius",
+    "_raw_name": "VC-SV-B105.3 Mark Brosius"
+  },
+  {
+    "id": 1859,
+    "name": "VC-SV-B105.3 Mike Prindiville",
+    "_raw_name": "VC-SV-B105.3 Mike Prindiville"
+  },
+  {
+    "id": 477,
+    "name": "VC-SV-B105.3 SA",
+    "_raw_name": "VC-SV-B105.3 SA"
+  },
+  {
+    "id": 1863,
+    "name": "VC-SV-B105.3 Systems Analysis Lab",
+    "_raw_name": "VC-SV-B105.3 Systems Analysis Lab"
+  },
+  {
+    "id": 1864,
+    "name": "VC-SV-B105.3 Taussig",
+    "_raw_name": "VC-SV-B105.3 Taussig"
+  },
+  {
+    "id": 1865,
+    "name": "VC-SV-B105.3 Thomas",
+    "_raw_name": "VC-SV-B105.3 Thomas"
+  },
+  {
+    "id": 1078,
+    "name": "VC-SV-B105.3 Veronica Thralls",
+    "_raw_name": "VC-SV-B105.3 Veronica Thralls"
+  },
+  {
+    "id": 476,
+    "name": "VC-SV-B105.3 Weibull",
+    "_raw_name": "VC-SV-B105.3 Weibull"
+  },
+  {
+    "id": 1866,
+    "name": "VC-SV-B105.3 Wilkins",
+    "_raw_name": "VC-SV-B105.3 Wilkins"
+  },
+  {
+    "id": 1867,
+    "name": "VC-SV-B105.4 Accessories",
+    "_raw_name": "VC-SV-B105.4 Accessories"
+  },
+  {
+    "id": 1869,
+    "name": "VC-SV-B105.4 Elion",
+    "_raw_name": "VC-SV-B105.4 Elion"
+  },
+  {
+    "id": 1870,
+    "name": "VC-SV-B105.4 Euclid",
+    "_raw_name": "VC-SV-B105.4 Euclid"
+  },
+  {
+    "id": 1871,
+    "name": "VC-SV-B105.4 Fauci",
+    "_raw_name": "VC-SV-B105.4 Fauci"
+  },
+  {
+    "id": 1872,
+    "name": "VC-SV-B105.4 Gray",
+    "_raw_name": "VC-SV-B105.4 Gray"
+  },
+  {
+    "id": 513,
+    "name": "VC-SV-B105.4 Hooke",
+    "_raw_name": "VC-SV-B105.4 Hooke"
+  },
+  {
+    "id": 1873,
+    "name": "VC-SV-B105.4 Jacobaeus",
+    "_raw_name": "VC-SV-B105.4 Jacobaeus"
+  },
+  {
+    "id": 1874,
+    "name": "VC-SV-B105.4 Kubler-Ross",
+    "_raw_name": "VC-SV-B105.4 Kubler-Ross"
+  },
+  {
+    "id": 515,
+    "name": "VC-SV-B105.4 Project Room 4061",
+    "_raw_name": "VC-SV-B105.4 Project Room 4061"
+  },
+  {
+    "id": 514,
+    "name": "VC-SV-B105.4 Satava",
+    "_raw_name": "VC-SV-B105.4 Satava"
+  },
+  {
+    "id": 516,
+    "name": "VC-SV-B105.4 Scheinman",
+    "_raw_name": "VC-SV-B105.4 Scheinman"
+  },
+  {
+    "id": 1882,
+    "name": "VC-SV-B105.4 Semmelweis",
+    "_raw_name": "VC-SV-B105.4 Semmelweis"
+  },
+  {
+    "id": 1883,
+    "name": "VC-SV-B105.4 Stapling",
+    "_raw_name": "VC-SV-B105.4 Stapling"
+  },
+  {
+    "id": 555,
+    "name": "VC-SV-B105.4 Woodson",
+    "_raw_name": "VC-SV-B105.4 Woodson"
+  }
+]
